@@ -1,0 +1,660 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Genius Ultimate - Master Your Knowledge, Ace Every Exam</title>
+    <meta name="description" content="Comprehensive quiz platform for Class 9 students preparing for NSAT and competitive exams">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <!-- Navigation Header -->
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <div class="nav-brand">
+                <span class="brand-icon">🧠</span>
+                <span class="brand-text">Quiz Genius Ultimate</span>
+            </div>
+            <div class="nav-menu" id="nav-menu">
+                <a href="#home" class="nav-link">Home</a>
+                <a href="#dashboard" class="nav-link">Dashboard</a>
+                <a href="#study-tools" class="nav-link">Study Tools</a>
+                <a href="#progress" class="nav-link">Progress</a>
+            </div>
+            <div class="nav-controls">
+                <button class="theme-toggle" id="theme-toggle" aria-label="Toggle theme">
+                    <span class="theme-icon">🌙</span>
+                </button>
+                <button class="nav-toggle" id="nav-toggle" aria-label="Toggle navigation">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <!-- Home Section -->
+        <section class="section home-section" id="home">
+            <!-- Hero Section -->
+            <div class="hero">
+                <div class="hero-content">
+                    <div class="hero-badge">✨ Ultimate Learning Platform</div>
+                    <h1 class="hero-title">Master Your Knowledge,<br>Ace Every Exam</h1>
+                    <p class="hero-subtitle">Experience the most beautiful and powerful quiz platform designed for competitive exam success</p>
+                    <div class="hero-stats">
+                        <div class="stat-item">
+                            <span class="stat-number" data-target="1000">0</span>
+                            <span class="stat-label">Questions</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-number" data-target="5">0</span>
+                            <span class="stat-label">Subjects</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-number" data-target="300">0</span>
+                            <span class="stat-label">Categories</span>
+                        </div>
+                    </div>
+                    <button class="btn btn--primary btn--lg hero-cta" id="start-quiz-btn">
+                        Start Your Learning Journey
+                    </button>
+                </div>
+            </div>
+
+            <!-- Subjects Grid -->
+            <div class="subjects-grid">
+                <h2 class="section-title">Choose Your Subject</h2>
+                <div class="subjects-container">
+                    <div class="subject-card" data-subject="chemistry">
+                        <div class="subject-icon">⚗️</div>
+                        <h3 class="subject-name">Chemistry</h3>
+                        <p class="subject-count">200 Questions</p>
+                        <p class="subject-description">Organic, Inorganic &amp; Physical Chemistry</p>
+                    </div>
+                    <div class="subject-card" data-subject="current_affairs">
+                        <div class="subject-icon">📰</div>
+                        <h3 class="subject-name">Current Affairs</h3>
+                        <p class="subject-count">300 Questions</p>
+                        <p class="subject-description">Politics, Sports &amp; International News</p>
+                    </div>
+                    <div class="subject-card" data-subject="general_knowledge">
+                        <div class="subject-icon">🌍</div>
+                        <h3 class="subject-name">General Knowledge</h3>
+                        <p class="subject-count">350 Questions</p>
+                        <p class="subject-description">History, Geography &amp; Arts</p>
+                    </div>
+                    <div class="subject-card" data-subject="mathematics">
+                        <div class="subject-icon">🔢</div>
+                        <h3 class="subject-name">Mathematics</h3>
+                        <p class="subject-count">100 Questions</p>
+                        <p class="subject-description">Algebra, Geometry &amp; Statistics</p>
+                    </div>
+                    <div class="subject-card" data-subject="science">
+                        <div class="subject-icon">🔬</div>
+                        <h3 class="subject-name">Science</h3>
+                        <p class="subject-count">50 Questions</p>
+                        <p class="subject-description">Physics, Biology &amp; Environmental</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Quiz Modes -->
+            <div class="quiz-modes">
+                <h2 class="section-title">Quiz Modes</h2>
+                <div class="modes-grid">
+                    <div class="mode-card" data-mode="subject_specific">
+                        <div class="mode-icon">📚</div>
+                        <h3 class="mode-name">Subject-Specific</h3>
+                        <p class="mode-description">Focus on individual subjects</p>
+                        <button class="btn btn--outline mode-btn">Start Quiz</button>
+                    </div>
+                    <div class="mode-card" data-mode="mixed_quiz">
+                        <div class="mode-icon">🎲</div>
+                        <h3 class="mode-name">Mixed Quiz</h3>
+                        <p class="mode-description">Random from all subjects</p>
+                        <button class="btn btn--outline mode-btn">Start Quiz</button>
+                    </div>
+                    <div class="mode-card" data-mode="timed_challenge">
+                        <div class="mode-icon">⏱️</div>
+                        <h3 class="mode-name">Timed Challenge</h3>
+                        <p class="mode-description">Beat the clock</p>
+                        <button class="btn btn--outline mode-btn">Start Quiz</button>
+                    </div>
+                    <div class="mode-card" data-mode="practice_mode">
+                        <div class="mode-icon">🧘</div>
+                        <h3 class="mode-name">Practice Mode</h3>
+                        <p class="mode-description">Unlimited time learning</p>
+                        <button class="btn btn--outline mode-btn">Start Quiz</button>
+                    </div>
+                    <div class="mode-card" data-mode="adaptive_quiz">
+                        <div class="mode-icon">🤖</div>
+                        <h3 class="mode-name">Adaptive Quiz</h3>
+                        <p class="mode-description">AI-powered difficulty</p>
+                        <button class="btn btn--outline mode-btn">Start Quiz</button>
+                    </div>
+                    <div class="mode-card" data-mode="custom_quiz">
+                        <div class="mode-icon">📝</div>
+                        <h3 class="mode-name">Custom Quiz</h3>
+                        <p class="mode-description">Create from bookmarks</p>
+                        <button class="btn btn--outline mode-btn">Start Quiz</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Quiz Configuration Section -->
+        <section class="section quiz-config-section" id="quiz-config" style="display: none;">
+            <div class="config-container">
+                <h2 class="section-title">Configure Your Quiz</h2>
+                <div class="config-form">
+                    <div class="config-group">
+                        <label class="config-label">Quiz Mode</label>
+                        <div class="selected-mode" id="selected-mode">Subject-Specific Quiz</div>
+                    </div>
+                    
+                    <div class="config-group" id="subject-selection">
+                        <label class="config-label">Subject</label>
+                        <select class="form-control" id="subject-select">
+                            <option value="chemistry">Chemistry (200 questions)</option>
+                            <option value="current_affairs">Current Affairs (300 questions)</option>
+                            <option value="general_knowledge">General Knowledge (350 questions)</option>
+                            <option value="mathematics">Mathematics (100 questions)</option>
+                            <option value="science">Science (50 questions)</option>
+                        </select>
+                    </div>
+
+                    <div class="config-group">
+                        <label class="config-label">Number of Questions</label>
+                        <select class="form-control" id="question-count">
+                            <option value="5">5 Questions</option>
+                            <option value="10" selected>10 Questions</option>
+                            <option value="15">15 Questions</option>
+                            <option value="20">20 Questions</option>
+                            <option value="25">25 Questions</option>
+                        </select>
+                    </div>
+
+                    <div class="config-group">
+                        <label class="config-label">Difficulty Level</label>
+                        <select class="form-control" id="difficulty-select">
+                            <option value="mixed">Mixed Difficulty</option>
+                            <option value="easy">Easy</option>
+                            <option value="medium">Medium</option>
+                            <option value="hard">Hard</option>
+                        </select>
+                    </div>
+
+                    <div class="config-group" id="timer-config">
+                        <label class="config-label">Time Limit</label>
+                        <select class="form-control" id="time-limit">
+                            <option value="0">No Time Limit</option>
+                            <option value="300">5 Minutes</option>
+                            <option value="600">10 Minutes</option>
+                            <option value="900">15 Minutes</option>
+                            <option value="1200">20 Minutes</option>
+                            <option value="1800">30 Minutes</option>
+                        </select>
+                    </div>
+
+                    <div class="config-actions">
+                        <button class="btn btn--secondary" id="back-to-home">Back to Home</button>
+                        <button class="btn btn--primary" id="start-configured-quiz">Start Quiz</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Quiz Section -->
+        <section class="section quiz-section" id="quiz" style="display: none;">
+            <div class="quiz-container">
+                <div class="quiz-header">
+                    <div class="quiz-progress">
+                        <div class="progress-bar">
+                            <div class="progress-fill" id="progress-fill"></div>
+                        </div>
+                        <span class="progress-text" id="progress-text">Question 1 of 10</span>
+                    </div>
+                    <div class="quiz-timer" id="quiz-timer" style="display: none;">
+                        <span class="timer-icon">⏱️</span>
+                        <span class="timer-text" id="timer-text">15:00</span>
+                    </div>
+                </div>
+
+                <div class="question-container">
+                    <div class="question-meta">
+                        <span class="subject-badge" id="question-subject">Chemistry</span>
+                        <span class="difficulty-badge" id="question-difficulty">Medium</span>
+                    </div>
+                    <h2 class="question-text" id="question-text">
+                        Who was awarded the Nobel Prize in Chemistry in 1911 for discovering radium and polonium?
+                    </h2>
+                    <div class="options-container" id="options-container">
+                        <button class="option-btn" data-option="0">
+                            <span class="option-letter">A</span>
+                            <span class="option-text">John Dalton</span>
+                        </button>
+                        <button class="option-btn" data-option="1">
+                            <span class="option-letter">B</span>
+                            <span class="option-text">Dmitri Mendeleev</span>
+                        </button>
+                        <button class="option-btn" data-option="2">
+                            <span class="option-letter">C</span>
+                            <span class="option-text">Emil Fischer</span>
+                        </button>
+                        <button class="option-btn" data-option="3">
+                            <span class="option-letter">D</span>
+                            <span class="option-text">Marie Curie</span>
+                        </button>
+                    </div>
+                </div>
+
+                <div class="quiz-actions">
+                    <button class="btn btn--secondary" id="bookmark-btn">
+                        <span>🔖</span> Bookmark
+                    </button>
+                    <div class="quiz-navigation">
+                        <button class="btn btn--outline" id="skip-btn">Skip</button>
+                        <button class="btn btn--primary" id="next-btn" disabled>Next Question</button>
+                    </div>
+                </div>
+
+                <div class="explanation-panel" id="explanation-panel" style="display: none;">
+                    <h3>Explanation</h3>
+                    <p id="explanation-text"></p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Results Section -->
+        <section class="section results-section" id="results" style="display: none;">
+            <div class="results-container">
+                <div class="results-header">
+                    <h2 class="section-title">Quiz Results</h2>
+                    <div class="score-display">
+                        <div class="score-circle">
+                            <div class="score-percentage" id="score-percentage">85%</div>
+                            <div class="score-text">Your Score</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="results-grid">
+                    <div class="result-card">
+                        <h3>Performance Summary</h3>
+                        <div class="result-stats">
+                            <div class="stat">
+                                <span class="stat-label">Correct Answers</span>
+                                <span class="stat-value" id="correct-count">8</span>
+                            </div>
+                            <div class="stat">
+                                <span class="stat-label">Incorrect Answers</span>
+                                <span class="stat-value" id="incorrect-count">2</span>
+                            </div>
+                            <div class="stat">
+                                <span class="stat-label">Time Taken</span>
+                                <span class="stat-value" id="time-taken">12:45</span>
+                            </div>
+                            <div class="stat">
+                                <span class="stat-label">Accuracy</span>
+                                <span class="stat-value" id="accuracy">80%</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="result-card">
+                        <h3>Subject Breakdown</h3>
+                        <div class="chart-container">
+                            <canvas id="subject-chart"></canvas>
+                        </div>
+                    </div>
+
+                    <div class="result-card">
+                        <h3>Performance Analysis</h3>
+                        <div class="chart-container">
+                            <canvas id="performance-chart"></canvas>
+                        </div>
+                    </div>
+
+                    <div class="result-card">
+                        <h3>Achievements Unlocked</h3>
+                        <div class="achievements-list" id="achievements-list">
+                            <!-- Dynamic achievements will be inserted here -->
+                        </div>
+                    </div>
+                </div>
+
+                <div class="results-actions">
+                    <button class="btn btn--secondary" id="review-answers">Review Incorrect Answers</button>
+                    <button class="btn btn--outline" id="export-results">Export Results</button>
+                    <button class="btn btn--primary" id="take-another-quiz">Take Another Quiz</button>
+                </div>
+
+                <div class="improvement-suggestions" id="improvement-suggestions">
+                    <h3>Improvement Suggestions</h3>
+                    <div class="suggestions-list">
+                        <!-- Dynamic suggestions will be inserted here -->
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Dashboard Section -->
+        <section class="section dashboard-section" id="dashboard" style="display: none;">
+            <div class="dashboard-container">
+                <h2 class="section-title">Progress Dashboard</h2>
+                
+                <div class="dashboard-stats">
+                    <div class="stat-card">
+                        <div class="stat-icon">📊</div>
+                        <div class="stat-content">
+                            <div class="stat-number" id="total-quizzes">0</div>
+                            <div class="stat-label">Quizzes Taken</div>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon">🎯</div>
+                        <div class="stat-content">
+                            <div class="stat-number" id="avg-score">0%</div>
+                            <div class="stat-label">Average Score</div>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon">🔥</div>
+                        <div class="stat-content">
+                            <div class="stat-number" id="current-streak">0</div>
+                            <div class="stat-label">Day Streak</div>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon">🏆</div>
+                        <div class="stat-content">
+                            <div class="stat-number" id="achievements-earned">0</div>
+                            <div class="stat-label">Achievements</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="dashboard-charts">
+                    <div class="chart-card">
+                        <h3>Performance Over Time</h3>
+                        <div class="chart-container">
+                            <canvas id="progress-chart"></canvas>
+                        </div>
+                    </div>
+                    <div class="chart-card">
+                        <h3>Subject Mastery</h3>
+                        <div class="mastery-levels">
+                            <div class="mastery-item">
+                                <span class="mastery-subject">Chemistry</span>
+                                <div class="mastery-bar">
+                                    <div class="mastery-fill" style="width: 75%;"></div>
+                                </div>
+                                <span class="mastery-percentage">75%</span>
+                            </div>
+                            <div class="mastery-item">
+                                <span class="mastery-subject">Current Affairs</span>
+                                <div class="mastery-bar">
+                                    <div class="mastery-fill" style="width: 60%;"></div>
+                                </div>
+                                <span class="mastery-percentage">60%</span>
+                            </div>
+                            <div class="mastery-item">
+                                <span class="mastery-subject">General Knowledge</span>
+                                <div class="mastery-bar">
+                                    <div class="mastery-fill" style="width: 85%;"></div>
+                                </div>
+                                <span class="mastery-percentage">85%</span>
+                            </div>
+                            <div class="mastery-item">
+                                <span class="mastery-subject">Mathematics</span>
+                                <div class="mastery-bar">
+                                    <div class="mastery-fill" style="width: 70%;"></div>
+                                </div>
+                                <span class="mastery-percentage">70%</span>
+                            </div>
+                            <div class="mastery-item">
+                                <span class="mastery-subject">Science</span>
+                                <div class="mastery-bar">
+                                    <div class="mastery-fill" style="width: 80%;"></div>
+                                </div>
+                                <span class="mastery-percentage">80%</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="achievements-section">
+                    <h3>Achievements &amp; Badges</h3>
+                    <div class="achievements-grid" id="all-achievements">
+                        <!-- Dynamic achievements will be inserted here -->
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Study Tools Section -->
+        <section class="section study-tools-section" id="study-tools" style="display: none;">
+            <div class="study-tools-container">
+                <h2 class="section-title">Study Tools</h2>
+                
+                <div class="tools-grid">
+                    <div class="tool-card">
+                        <div class="tool-icon">🔖</div>
+                        <h3 class="tool-name">Bookmarked Questions</h3>
+                        <p class="tool-description">Review your saved questions</p>
+                        <div class="tool-stats">
+                            <span id="bookmarked-count">0</span> questions bookmarked
+                        </div>
+                        <button class="btn btn--primary" id="view-bookmarks">View Bookmarks</button>
+                    </div>
+                    
+                    <div class="tool-card">
+                        <div class="tool-icon">📝</div>
+                        <h3 class="tool-name">Custom Quiz</h3>
+                        <p class="tool-description">Create quiz from bookmarks</p>
+                        <div class="tool-stats">
+                            Create personalized practice sets
+                        </div>
+                        <button class="btn btn--primary" id="create-custom-quiz">Create Quiz</button>
+                    </div>
+                    
+                    <div class="tool-card">
+                        <div class="tool-icon">📚</div>
+                        <h3 class="tool-name">Study Notes</h3>
+                        <p class="tool-description">Key concepts and formulas</p>
+                        <div class="tool-stats">
+                            Quick reference materials
+                        </div>
+                        <button class="btn btn--primary" id="view-notes">View Notes</button>
+                    </div>
+                    
+                    <div class="tool-card">
+                        <div class="tool-icon">🔍</div>
+                        <h3 class="tool-name">Question Search</h3>
+                        <p class="tool-description">Find specific questions</p>
+                        <div class="tool-stats">
+                            Search across 1000+ questions
+                        </div>
+                        <button class="btn btn--primary" id="search-questions">Search</button>
+                    </div>
+                </div>
+
+                <div class="bookmarks-viewer" id="bookmarks-viewer" style="display: none;">
+                    <h3>Bookmarked Questions</h3>
+                    <div class="bookmarks-list" id="bookmarks-list">
+                        <!-- Dynamic bookmarks will be inserted here -->
+                    </div>
+                </div>
+
+                <div class="notes-viewer" id="notes-viewer" style="display: none;">
+                    <h3>Study Notes &amp; Quick Reference</h3>
+                    <div class="notes-content">
+                        <div class="note-section">
+                            <h4>🧪 Chemistry Quick Facts</h4>
+                            <ul>
+                                <li>Atomic number = Number of protons</li>
+                                <li>Mass number = Protons + Neutrons</li>
+                                <li>Noble gases: He, Ne, Ar, Kr, Xe, Rn</li>
+                                <li>pH scale: 0-14 (7 is neutral)</li>
+                            </ul>
+                        </div>
+                        <div class="note-section">
+                            <h4>🔢 Mathematics Formulas</h4>
+                            <ul>
+                                <li>Area of circle: πr²</li>
+                                <li>Quadratic formula: x = (-b ± √(b²-4ac))/2a</li>
+                                <li>Pythagorean theorem: a² + b² = c²</li>
+                                <li>Distance formula: d = √[(x₂-x₁)² + (y₂-y₁)²]</li>
+                            </ul>
+                        </div>
+                        <div class="note-section">
+                            <h4>🔬 Science Constants</h4>
+                            <ul>
+                                <li>Speed of light: 3 × 10⁸ m/s</li>
+                                <li>Acceleration due to gravity: 9.8 m/s²</li>
+                                <li>Avogadro's number: 6.022 × 10²³</li>
+                                <li>Planck's constant: 6.626 × 10⁻³⁴ J·s</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="search-interface" id="search-interface" style="display: none;">
+                    <h3>Search Questions</h3>
+                    <div class="search-form">
+                        <input type="text" class="form-control" id="search-input" placeholder="Search for questions, topics, or keywords...">
+                        <div class="search-filters">
+                            <select class="form-control" id="search-subject">
+                                <option value="">All Subjects</option>
+                                <option value="chemistry">Chemistry</option>
+                                <option value="current_affairs">Current Affairs</option>
+                                <option value="general_knowledge">General Knowledge</option>
+                                <option value="mathematics">Mathematics</option>
+                                <option value="science">Science</option>
+                            </select>
+                            <select class="form-control" id="search-difficulty">
+                                <option value="">All Difficulties</option>
+                                <option value="easy">Easy</option>
+                                <option value="medium">Medium</option>
+                                <option value="hard">Hard</option>
+                            </select>
+                        </div>
+                        <button class="btn btn--primary" id="perform-search">Search</button>
+                    </div>
+                    <div class="search-results" id="search-results">
+                        <!-- Search results will be displayed here -->
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Progress Section -->
+        <section class="section progress-section" id="progress" style="display: none;">
+            <div class="progress-container">
+                <h2 class="section-title">Detailed Progress Analysis</h2>
+                
+                <div class="progress-overview">
+                    <div class="overview-card">
+                        <h3>Learning Journey</h3>
+                        <div class="journey-timeline">
+                            <div class="timeline-item completed">
+                                <div class="timeline-icon">🎯</div>
+                                <div class="timeline-content">
+                                    <h4>Getting Started</h4>
+                                    <p>Completed first quiz</p>
+                                </div>
+                            </div>
+                            <div class="timeline-item completed">
+                                <div class="timeline-icon">📚</div>
+                                <div class="timeline-content">
+                                    <h4>Active Learning</h4>
+                                    <p>Attempted multiple subjects</p>
+                                </div>
+                            </div>
+                            <div class="timeline-item active">
+                                <div class="timeline-icon">🏆</div>
+                                <div class="timeline-content">
+                                    <h4>Skill Building</h4>
+                                    <p>Improving accuracy</p>
+                                </div>
+                            </div>
+                            <div class="timeline-item">
+                                <div class="timeline-icon">💎</div>
+                                <div class="timeline-content">
+                                    <h4>Mastery</h4>
+                                    <p>Expert level performance</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="overview-card">
+                        <h3>Performance Trends</h3>
+                        <div class="chart-container">
+                            <canvas id="trends-chart"></canvas>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="detailed-analytics">
+                    <div class="analytics-card">
+                        <h3>Weak Areas Analysis</h3>
+                        <div class="weak-areas-list">
+                            <div class="weak-area-item">
+                                <span class="area-name">Organic Chemistry</span>
+                                <div class="area-score">45%</div>
+                                <button class="btn btn--sm btn--outline">Practice</button>
+                            </div>
+                            <div class="weak-area-item">
+                                <span class="area-name">Current International Affairs</span>
+                                <div class="area-score">55%</div>
+                                <button class="btn btn--sm btn--outline">Practice</button>
+                            </div>
+                            <div class="weak-area-item">
+                                <span class="area-name">Trigonometry</span>
+                                <div class="area-score">60%</div>
+                                <button class="btn btn--sm btn--outline">Practice</button>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="analytics-card">
+                        <h3>Speed Analysis</h3>
+                        <div class="speed-metrics">
+                            <div class="speed-item">
+                                <span class="speed-label">Average Time per Question</span>
+                                <span class="speed-value">1m 24s</span>
+                            </div>
+                            <div class="speed-item">
+                                <span class="speed-label">Fastest Correct Answer</span>
+                                <span class="speed-value">18s</span>
+                            </div>
+                            <div class="speed-item">
+                                <span class="speed-label">Improvement Needed</span>
+                                <span class="speed-value">-15s</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Loading Overlay -->
+    <div class="loading-overlay" id="loading-overlay" style="display: none;">
+        <div class="loading-spinner">
+            <div class="spinner"></div>
+            <p>Loading your quiz...</p>
+        </div>
+    </div>
+
+    <!-- Toast Notifications -->
+    <div class="toast-container" id="toast-container"></div>
+
+    <script src="app.js"></script>
+</body>
+</html>

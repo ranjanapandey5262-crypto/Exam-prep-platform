@@ -1,0 +1,1001 @@
+subject,category,question,options,correct,difficulty,source,id
+Current Affairs,Constitutional Posts,Who is the current President of India (15th)?,"['Ram Nath Kovind', 'Droupadi Murmu', 'Pranab Mukherjee', 'APJ Abdul Kalam']",1,Easy,6-Month Current Affairs 2025,Q_0001
+Current Affairs,Constitutional Posts,Who is the current Prime Minister of India (15th)?,"['Manmohan Singh', 'Narendra Modi', 'Atal Bihari Vajpayee', 'Rajiv Gandhi']",1,Easy,6-Month Current Affairs 2025,Q_0002
+Current Affairs,Judiciary,Who is the current Chief Justice of Supreme Court (52nd)?,"['D.Y. Chandrachud', 'N.V. Ramana', 'B.R. Gavai', 'U.U. Lalit']",2,Medium,6-Month Current Affairs 2025,Q_0003
+Current Affairs,Parliament,Who is Speaker of Lok Sabha (18th)?,"['Sumitra Mahajan', 'Om Birla', 'Meira Kumar', 'Somnath Chatterjee']",1,Medium,6-Month Current Affairs 2025,Q_0004
+Current Affairs,Parliament,Who is Leader of Opposition in Lok Sabha?,"['Sonia Gandhi', 'Mallikarjun Kharge', 'Rahul Gandhi', 'Priyanka Gandhi']",2,Medium,6-Month Current Affairs 2025,Q_0005
+Current Affairs,Parliament,Who is Deputy Speaker of Rajya Sabha?,"['Harivansh Narayan Singh', 'Om Birla', 'Sumitra Mahajan', 'Meira Kumar']",0,Medium,6-Month Current Affairs 2025,Q_0006
+Current Affairs,Parliament,Who is Secretary General of Rajya Sabha?,"['Utpal Kumar Singh', 'Pramod Chandra Mody', 'Harivansh Singh', 'K.C. Venugopal']",1,Hard,6-Month Current Affairs 2025,Q_0007
+Current Affairs,Parliament,Who is Leader of Opposition in Rajya Sabha?,"['Rahul Gandhi', 'Mallikarjun Kharge', 'Sonia Gandhi', 'Priyanka Gandhi']",1,Medium,6-Month Current Affairs 2025,Q_0008
+Current Affairs,Parliament,Who is Leader of ruling party in Rajya Sabha?,"['Narendra Modi', 'J.P Nadda', 'Amit Shah', 'Rajnath Singh']",1,Medium,6-Month Current Affairs 2025,Q_0009
+Current Affairs,Parliament,Who is Secretary General of Lok Sabha?,"['Pramod Chandra Mody', 'Utpal Kumar Singh', 'Harivansh Singh', 'Om Birla']",1,Hard,6-Month Current Affairs 2025,Q_0010
+Current Affairs,Election Commission,Who is current Chief Election Commissioner (26th)?,"['S.Y. Quraishi', 'T.S. Krishnamurthy', 'Gyanesh Kumar', 'O.P. Rawat']",2,Medium,6-Month Current Affairs 2025,Q_0011
+Current Affairs,Election Commission,Who are the current Election Commissioners?,"['Vivek Joshi & Sukhbir Sandhu', 'Gyanesh Kumar & Vivek Joshi', 'S.Y. Quraishi & T.S. Krishnamurthy', 'O.P. Rawat & Ashok Lavasa']",0,Hard,6-Month Current Affairs 2025,Q_0012
+Current Affairs,Administration,Who is current CAG (15th)?,"['Rajiv Mehrishi', 'Sanjay Murthy', 'Shashi Kant Sharma', 'Vinod Rai']",1,Medium,6-Month Current Affairs 2025,Q_0013
+Current Affairs,Administration,Who is current Comptroller General of Accounts (CGA)?,"['Ms. T.C.A. Kalyani', 'Sanjay Murthy', 'Rajiv Mehrishi', 'Shashi Kant Sharma']",0,Hard,6-Month Current Affairs 2025,Q_0014
+Current Affairs,Judiciary,Who is current Attorney General of India (16th)?,"['K.K. Venugopal', 'R. Vankataramani', 'Tushar Mehta', 'Mukul Rohatgi']",1,Medium,6-Month Current Affairs 2025,Q_0015
+Current Affairs,Judiciary,Who is current Solicitor General of India?,"['R. Vankataramani', 'Tushar Mehta', 'K.K. Venugopal', 'Mukul Rohatgi']",1,Medium,6-Month Current Affairs 2025,Q_0016
+Current Affairs,Judiciary,Who is Chairperson of National Green Tribunal?,"['Justice Adarsh Kumar Goel', 'Justice Prakash Shrivastava', 'Justice Swatanter Kumar', 'Justice A.K. Goel']",1,Hard,6-Month Current Affairs 2025,Q_0017
+Current Affairs,Defense,Who is current Chief of Defence Staff (CDS) (2nd)?,"['Bipin Rawat', 'Lt. General Anil Chauhan', 'General M.M. Naravane', 'General V.K. Singh']",1,Medium,6-Month Current Affairs 2025,Q_0018
+Current Affairs,Defense,Who is current Chief of Air Staff (28th)?,"['Air Chief Marshal R.K.S. Bhadauria', 'Amar Preet Singh', 'V.R. Chaudhari', 'Birender Singh Dhanoa']",1,Medium,6-Month Current Affairs 2025,Q_0019
+Current Affairs,Defense,Who is current Chief of Naval Staff (26th)?,"['Admiral Karambir Singh', 'Dinesh Kumar Tripathi', 'R. Hari Kumar', 'Sunil Lanba']",1,Medium,6-Month Current Affairs 2025,Q_0020
+Current Affairs,Defense,Who is current Chief of Army Staff (30th)?,"['General Bipin Rawat', 'General M.M. Naravane', 'General Upendra Dwivedi', 'General V.K. Singh']",2,Medium,6-Month Current Affairs 2025,Q_0021
+Current Affairs,Defense,"Who is current DG, Military Operations (DGMO)?","['Lt. Gen. Rajiv Ghai', 'Lt. Gen. Anil Chauhan', 'Lt. Gen. Upendra Dwivedi', 'Lt. Gen. M.M. Naravane']",0,Hard,6-Month Current Affairs 2025,Q_0022
+Current Affairs,Administration,Who is current Cabinet Secretary?,"['Rajiv Gauba', 'T.V Somnathan', 'P.K. Sinha', 'Pradeep Kumar Sinha']",1,Medium,6-Month Current Affairs 2025,Q_0023
+Current Affairs,Administration,Who are current Advisers to Prime Minister?,"['Traun Kapoor & Amit Khare', 'P.K. Mishra & Bhaskar Khulbe', 'Rajiv Gauba & T.V. Somnathan', 'Ajit Doval & Samant Goel']",0,Hard,6-Month Current Affairs 2025,Q_0024
+Current Affairs,Administration,Who are current Principal Secretaries to Prime Minister?,"['Pramod Kumar Mishra & Shaktikanta Das', 'T.V. Somnathan & Rajiv Gauba', 'Bhaskar Khulbe & P.K. Mishra', 'Amit Khare & Traun Kapoor']",0,Hard,6-Month Current Affairs 2025,Q_0025
+Current Affairs,Foreign Affairs,Who is current Foreign Secretary (35th)?,"['S. Jaishankar', 'Harsh Vardhan Shringla', 'Vikram Misri', 'Vijay Gokhale']",2,Medium,6-Month Current Affairs 2025,Q_0026
+Current Affairs,Finance,Who is current Finance Secretary?,"['Tarun Bajaj', 'Ajay Seth', 'T.V. Somnathan', 'Rajiv Kumar']",1,Medium,6-Month Current Affairs 2025,Q_0027
+Current Affairs,Defense,Who is current Defence Secretary?,"['Ajay Kumar', 'Rajesh Kumar Singh', 'Sanjay Mitra', 'Giridhar Aramane']",1,Medium,6-Month Current Affairs 2025,Q_0028
+Current Affairs,Defense,Who is current Defence Finance Secretary?,"['Shri Rajesh Kumar Singh', 'Ajay Kumar', 'Sanjay Mitra', 'Giridhar Aramane']",0,Hard,6-Month Current Affairs 2025,Q_0029
+Current Affairs,Revenue,Who is current Revenue Secretary?,"['Tarun Bajaj', 'Shri Arvind Shrivastava', 'Ajay Seth', 'Sanjay Malhotra']",1,Hard,6-Month Current Affairs 2025,Q_0030
+Current Affairs,Security,Who is current National Security Adviser (NSA)?,"['M.K. Narayanan', 'Shivshankar Menon', 'Ajit Doval', 'Brajesh Mishra']",2,Medium,6-Month Current Affairs 2025,Q_0031
+Current Affairs,Security,Who is current Deputy National Security Adviser?,"['TV Ravichandran', 'Ajit Doval', 'Pankaj Saran', 'Dattatray Padsalgikar']",0,Hard,6-Month Current Affairs 2025,Q_0032
+Current Affairs,Economics,Who is current Chief Economic Advisor?,"['Krishnamurthy Subramanian', 'Anantha Nageswaram', 'Arvind Virmani', 'Kaushik Basu']",1,Medium,6-Month Current Affairs 2025,Q_0033
+Current Affairs,Science,Who is current Principal Scientific Adviser?,"['K. VijayRaghavan', 'Ajay Kumar Sood', 'R. Chidambaram', 'A.P.J. Abdul Kalam']",1,Medium,6-Month Current Affairs 2025,Q_0034
+Current Affairs,Investigation,"Who is current Central Vigilance Commissioner, CVC?","['Suresh N. Patel', 'Praveen Kumar Srivastava', 'K.V. Chowdary', 'Sharad Kumar']",1,Hard,6-Month Current Affairs 2025,Q_0035
+Current Affairs,Investigation,Who is current Director of CBI?,"['Rishi Kumar Shukla', 'Praveen Sood', 'Alok Kumar Verma', 'Rakesh Asthana']",1,Medium,6-Month Current Affairs 2025,Q_0036
+Current Affairs,Information,Who is current Chief Information Commissioner?,"['Sudhir Bhargava', 'Hiralal Samaria', 'Radha Krishna Mathur', 'Y.K. Sinha']",1,Hard,6-Month Current Affairs 2025,Q_0037
+Current Affairs,Intelligence,Who is current Head of Intelligence Bureau (IB)?,"['Samant Goel', 'Tapan Kumar Deka', 'Rajiv Jain', 'Arvind Kumar']",1,Hard,6-Month Current Affairs 2025,Q_0038
+Current Affairs,Intelligence,Who is current Head of Research and Analysis Wing (RAW)?,"['Samant Goel', 'Parag Jain', 'Anil Dhasmana', 'R.K. Singh']",1,Hard,6-Month Current Affairs 2025,Q_0039
+Current Affairs,Investigation,Who is current DG of National Investigation Agency (NIA)?,"['Y.C. Modi', 'Sadanand Date', 'Sharad Kumar', 'Kuldiep Singh']",1,Hard,6-Month Current Affairs 2025,Q_0040
+Current Affairs,Investigation,Who is current Director of Enforcement Directorate (ED)?,"['Sanjay Kumar Mishra', 'Rahul Navin', 'Karnal Singh', 'S.K. Mishra']",1,Hard,6-Month Current Affairs 2025,Q_0041
+Current Affairs,Investigation,Who is current DG of Narcotics Control Bureau (NCB)?,"['Rakesh Asthana', 'Anurag Garg', 'S.N. Pradhan', 'Abhay']",1,Hard,6-Month Current Affairs 2025,Q_0042
+Current Affairs,Paramilitary,Who is current DG of Sashastra Seema Bal (SSB)?,"['Shri Sanjay Singhal, IPS', 'Kumar Rajesh Chandra', 'S.S. Deswal', 'Rakesh Asthana']",0,Hard,6-Month Current Affairs 2025,Q_0043
+Current Affairs,Paramilitary,Who is current DG of Border Security Force (BSF)?,"['Rakesh Asthana', 'Daljit Singh Chaudhary', 'S.S. Deswal', 'V.K. Johri']",1,Hard,6-Month Current Affairs 2025,Q_0044
+Current Affairs,Paramilitary,Who is current DG of CRPF?,"['A.P. Maheshwari', 'Gyanendra Pratap Singh', 'S.S. Deswal', 'Kuldiep Singh']",1,Hard,6-Month Current Affairs 2025,Q_0045
+Current Affairs,Paramilitary,Who is current DG of Central Industrial Security Force (CISF)?,"['Rajesh Ranjan', 'R.S Bhatti', 'Subodh Kumar Jaiswal', 'O.P. Singh']",1,Hard,6-Month Current Affairs 2025,Q_0046
+Current Affairs,Paramilitary,Who is current DG of National Security Guard (NSG)?,"['A.K. Singh', 'B. Srinivasan', 'M.A. Ganapathy', 'Sudeep Lakhtakia']",1,Hard,6-Month Current Affairs 2025,Q_0047
+Current Affairs,Security,Who is current Director of Special Protection Group (SPG)?,"['Arun Kumar Sinha', 'Alok Sharma', 'Sudeep Lakhtakia', 'A.R. Anand']",1,Hard,6-Month Current Affairs 2025,Q_0048
+Current Affairs,Paramilitary,Who is current Additional Director General of ITBP?,"['S.S. Deswal', 'Sanjeev Raina', 'R.K. Pachnanda', 'Surjit Singh Deswal']",1,Hard,6-Month Current Affairs 2025,Q_0049
+Current Affairs,Paramilitary,Who is current DG of National Cadet Corps (NCC)?,"['Lt. Gen. Tarun Kumar Aich', 'Gurbirpal Singh', 'Lt. Gen. P P Malhotra', 'Lt. Gen. Rajeev Chopra']",1,Hard,6-Month Current Affairs 2025,Q_0050
+Current Affairs,Coast Guard,Who is current Director General of Indian Coast Guard (ICG)?,"['K. Natarajan', 'S. Paramesh', 'Rajendra Singh', 'V.S. Pathania']",1,Hard,6-Month Current Affairs 2025,Q_0051
+Current Affairs,Disaster Management,Who is current DG of National Disaster Relief Force (NDRF)?,"['S.N. Pradhan', 'Piyush Anand', 'Atul Karwal', 'R.K. Pachnanda']",1,Hard,6-Month Current Affairs 2025,Q_0052
+Current Affairs,NITI Aayog,Who is Chairman of NITI Aayog?,"['Rajiv Kumar', 'Prime Minister Narendra Modi', 'Amitabh Kant', 'V.K. Saraswat']",1,Easy,6-Month Current Affairs 2025,Q_0053
+Current Affairs,NITI Aayog,Who is Deputy Chairman of NITI Aayog?,"['Rajiv Kumar', 'Suman Kumar Bery', 'Amitabh Kant', 'V.K. Paul']",1,Medium,6-Month Current Affairs 2025,Q_0054
+Current Affairs,NITI Aayog,Who is CEO of NITI Aayog?,"['Amitabh Kant', 'B. V. R. Subrahmanyam', 'Parameswaran Iyer', 'Rajiv Kumar']",1,Medium,6-Month Current Affairs 2025,Q_0055
+Current Affairs,UPSC,Who is current Chairperson of UPSC?,"['Pradeep Kumar Joshi', 'Ajay Kumar', 'Manoj Soni', 'Arvind Saxena']",1,Medium,6-Month Current Affairs 2025,Q_0056
+Current Affairs,Law Commission,Who is Chairman of 22nd Law Commission?,"['Justice B.S. Chauhan', 'Rituraj Awasthi', 'Justice A.P. Shah', 'Justice Balbir Singh Chauhan']",1,Hard,6-Month Current Affairs 2025,Q_0057
+Current Affairs,Women Commission,Who is Chairperson of National Commission for Women?,"['Rekha Sharma', 'Vijaya Rahatkar', 'Mamta Sharma', 'Lalitha Kumaramangalam']",1,Medium,6-Month Current Affairs 2025,Q_0058
+Current Affairs,Backward Classes,Who is Chairman of National Backward Classes Commission?,"['Justice G. Rohini', 'Hansraj Gangaram Ahir', 'Bhagwan Lal Sahni', 'Dr. Jitendra Singh']",1,Hard,6-Month Current Affairs 2025,Q_0059
+Current Affairs,SSC,Who is Chairman of Staff Selection Commission?,"['Braj Raj Sharma', 'S. Gopalakrishnan', 'Ashim Khurana', 'Dr. B.R. Sharma']",1,Hard,6-Month Current Affairs 2025,Q_0060
+Current Affairs,Pay Commission,Who is Chairman of 7th Pay Commission?,"['Justice A.K. Mathur', 'Ashok Kumar Mathur', 'Rathin Roy', 'Vivek Rae']",1,Hard,6-Month Current Affairs 2025,Q_0061
+Current Affairs,Lokpal,Who is Chairperson of Lokpal?,"['Justice Pinaki Chandra Ghose', 'Ajay Manikrao Khanwilkar', 'Justice P.C. Ghose', 'Justice Dilip B. Bhosale']",1,Hard,6-Month Current Affairs 2025,Q_0062
+Current Affairs,Finance Commission,Who is Chairman of 16th Finance Commission?,"['N.K. Singh', 'Arvind Panagariya', 'Y.V. Reddy', 'Vijay Kelkar']",1,Hard,6-Month Current Affairs 2025,Q_0063
+Current Affairs,Competition Commission,Who is Chairman of Competition Commission of India?,"['Ashok Kumar Gupta', 'Ravneet Kaur', 'Sangeeta Verma', 'D.K. Sikri']",1,Hard,6-Month Current Affairs 2025,Q_0064
+Current Affairs,Scheduled Tribes,Who is Chairman of National Commission for ST?,"['Nand Kumar Sai', 'Antar Singh Arya', 'Harsh Chauhan', 'Rameshwar Oraon']",1,Hard,6-Month Current Affairs 2025,Q_0065
+Current Affairs,Scheduled Castes,Who is Chairman of National Commission for SC?,"['Vijay Sampla', 'Kishor Makwana', 'L. Murugan', 'Ram Shankar Katheria']",1,Hard,6-Month Current Affairs 2025,Q_0066
+Current Affairs,Human Rights,Who is Chairman of National Human Rights Commission (NHRC) (9th)?,"['Justice H.L. Dattu', 'V. Ramasubramanian', 'Justice Arun Mishra', 'Justice K.G. Balakrishnan']",1,Hard,6-Month Current Affairs 2025,Q_0067
+Current Affairs,Child Rights,Who is Chairman of National Commission for Protection of Child Rights?,"['Stuti Narain Kacker', 'Priyank Kanungo', 'Yashwant Jain', 'Jaswant Jain']",1,Hard,6-Month Current Affairs 2025,Q_0068
+Current Affairs,Minorities,Who is Chairman of National Commission for Minorities?,"['Syed Ghayorul Hasan Rizvi', 'Iqbal Singh Lalpura', 'George Kurian', 'Atif Rasheed']",1,Hard,6-Month Current Affairs 2025,Q_0069
+Current Affairs,Railways,Who is Chairman and CEO of the Railway Board?,"['V.K. Yadav', 'Satish Kumar', 'Suneet Sharma', 'Ashwini Vaishnav']",1,Medium,6-Month Current Affairs 2025,Q_0070
+Current Affairs,SEBI,Who is Chairman of SEBI?,"['Ajay Tyagi', 'Tuhin Kanata Pandey', 'Madhabi Puri Buch', 'U.K. Sinha']",1,Medium,6-Month Current Affairs 2025,Q_0071
+Current Affairs,Film Certification,Who is CEO of Central Board of Films Certification?,"['Prasoon Joshi', 'Ravindra Bhakar', 'Pahlaj Nihalani', 'Sharmila Tagore']",1,Hard,6-Month Current Affairs 2025,Q_0072
+Current Affairs,Civil Aviation,Who is Chairman of Bureau of Civil Aviation Security?,"['Rajiv Bansal', 'Rajesh Nirwan', 'Pradeep Singh Kharola', 'Arun Kumar']",1,Hard,6-Month Current Affairs 2025,Q_0073
+Current Affairs,CBDT,Who is Chairman of CBDT?,"['P.C. Mody', 'Ravi Agarwal', 'J.B. Mohapatra', 'Akhilesh Ranjan']",1,Hard,6-Month Current Affairs 2025,Q_0074
+Current Affairs,CBIC,Who is Chairman of Central Board of Indirect taxes and Customs (CBIC)?,"['M. Ajit Kumar', 'Sanjay Kumar Agarwal', 'Vivek Johri', 'S. Ramesh']",1,Hard,6-Month Current Affairs 2025,Q_0075
+Current Affairs,Dairy Development,Who is Chairman of National Dairy Development Board?,"['Dilip Rath', 'Meenesh Shah', 'R.S. Sodhi', 'Sunil Kumar']",1,Hard,6-Month Current Affairs 2025,Q_0076
+Current Affairs,Border Roads,Who is DG of Border Roads Organisation?,"['Lt Gen Harpal Singh', 'Raghu Srinivasan', 'Lt Gen Rajeev Chaudhry', 'Lt Gen T.V. Chaman Lal']",1,Hard,6-Month Current Affairs 2025,Q_0077
+Current Affairs,Petroleum,Who is Chairman of Petroleum and Natural Gas Regulatory Board?,"['D.K. Sarraf', 'Anil Kumar Jain', 'Mukesh Kumar Surana', 'H. Kumar']",1,Hard,6-Month Current Affairs 2025,Q_0078
+Current Affairs,TRAI,Who is Chairman of TRAI?,"['Ram Sewak Sharma', 'Anil Kumar Lahoti', 'P.D. Vaghela', 'Dr. P.D. Vaghela']",1,Hard,6-Month Current Affairs 2025,Q_0079
+Current Affairs,UIDAI,Who is CEO of UIDAI?,"['Saurabh Garg', 'Bhuvnesh Kumar', 'Ajay Bhushan Pandey', 'Dr. Ajay Bhushan Pandey']",1,Hard,6-Month Current Affairs 2025,Q_0080
+Current Affairs,Census,Who is Registrar General & Census Commissioner of India?,"['Vivek Joshi', 'MK Narayan', 'Dr. C. Chandramouli', 'Shailesh']",1,Hard,6-Month Current Affairs 2025,Q_0081
+Current Affairs,Parliamentary Committees,Who is Chairman of Public Accounts Committee?,"['Adhir Ranjan Chowdhury', 'K.C. Venugopal', 'Mallikarjun Kharge', 'Dr. Kirit Solanki']",1,Hard,6-Month Current Affairs 2025,Q_0082
+Current Affairs,Parliamentary Committees,Who is Chairman of Estimates Committee?,"['Dr. Murli Manohar Joshi', 'Dr. Sanjay Jaiswal', 'Rajesh Ranjan', 'Nishikant Dubey']",1,Hard,6-Month Current Affairs 2025,Q_0083
+Current Affairs,NHAI,Who is Chairman of National Highway Authority of India (NHAI)?,"['Sukhbir Singh Sandhu', 'Santosh Kumar Yadav', 'Alka Upadhyaya', 'Deepak Kumar']",1,Hard,6-Month Current Affairs 2025,Q_0084
+Current Affairs,Education,Who is Chairman of UGC?,"['D.P. Singh', 'Vineet Joshi', 'Jagadesh Kumar', 'Mamidala Jagadesh Kumar']",1,Medium,6-Month Current Affairs 2025,Q_0085
+Current Affairs,Education,Who is VC of University of Delhi?,"['P.C. Joshi', 'Yogesh Singh', 'Dinesh Singh', 'V.K. Malhotra']",1,Hard,6-Month Current Affairs 2025,Q_0086
+Current Affairs,Education,Who is Vice Chancellor of JNU?,"['M. Jagadesh Kumar', 'Shantisree Dulipudi Pandit', 'Santishree Pandit', 'Appa Rao Podile']",1,Hard,6-Month Current Affairs 2025,Q_0087
+Current Affairs,Education,Who is Vice Chancellor of BHU?,"['Prof. Rakesh Bhatnagar', 'Prof. Ajit Kumar Chaturvedi', 'Prof. V.K. Shukla', 'Prof. Girish Chandra Tripathi']",1,Hard,6-Month Current Affairs 2025,Q_0088
+Current Affairs,Education,Who is Chancellor of Nalanda University?,"['George Yeo', 'Arvind Pangariya', 'Lord Meghnad Desai', 'Amartya Sen']",1,Hard,6-Month Current Affairs 2025,Q_0089
+Current Affairs,Education,Who is Chancellor of Gatishakti University?,"['Ashwini Vaishnav', 'Piyush Goyal', 'Nitin Gadkari', 'Jitendra Singh']",0,Hard,6-Month Current Affairs 2025,Q_0090
+Current Affairs,Education,Who is Director of NCERT?,"['Hrushikesh Senapaty', 'Dinesh Prasad Saklani', 'Sridhar Srivastava', 'Dr. R.K. Parashar']",1,Hard,6-Month Current Affairs 2025,Q_0091
+Current Affairs,Education,Who is Chairman of CBSE?,"['Manoj Ahuja', 'Rahul Singh', 'Vineet Joshi', 'Anurag Tripathi']",1,Hard,6-Month Current Affairs 2025,Q_0092
+Current Affairs,Literature,Who is President of Sahitya Akademi?,"['Chandrashekhar Kambar', 'Madhav Kaushik', 'Vishwanath Prasad Tiwari', 'Rajendra Shah']",1,Hard,6-Month Current Affairs 2025,Q_0093
+Current Affairs,Arts,Who is President of Sangeet Natak Akademi?,"['Arjun Deo Charan Singh', 'Shekhar Sen', 'Sandhya Purecha', 'Dr. Arjun Deo Charan Singh']",1,Hard,6-Month Current Affairs 2025,Q_0094
+Current Affairs,Arts,Who is President of Lalit Kala Akademi?,"['Uttam Pacharne', 'Prof. V. Ngdas', 'Kalyan Kumar Chakravarty', 'Raghunath Mohapatra']",1,Hard,6-Month Current Affairs 2025,Q_0095
+Current Affairs,Space Technology,Who is Chairman of ISRO?,"['K. Sivan', 'Dr. V. Narayanan', 'S. Somnath', 'A.S. Kiran Kumar']",1,Medium,6-Month Current Affairs 2025,Q_0096
+Current Affairs,Atomic Energy,Who is Chairman of Atomic Energy Commission (AEC)?,"['K.N. Vyas', 'A.K Mohanty', 'Sekhar Basu', 'R.K. Sinha']",1,Hard,6-Month Current Affairs 2025,Q_0097
+Current Affairs,Atomic Energy,Who is Chairman of Atomic Energy Regulatory Board (AERB)?,"['G. Nageswara Rao', 'Dinesh Kumar Shukla', 'S.A. Bhardwaj', 'A.K. Mohanty']",1,Hard,6-Month Current Affairs 2025,Q_0098
+Current Affairs,Atomic Research,Who is Director of Bhabha Atomic Research Center (BARC)?,"['Kamlesh Nilkanth Vyas', 'Vivek Bhasin', 'A.K. Mohanty', 'K.N. Vyas']",1,Hard,6-Month Current Affairs 2025,Q_0099
+Current Affairs,Defence Research,Who is Chairman of Defence Research Development Organization (DRDO)?,"['Dr. G. Satheesh Reddy', 'Samir V. Kamat', 'Dr. V.K. Aatre', 'A.P.J. Abdul Kalam']",1,Medium,6-Month Current Affairs 2025,Q_0100
+Current Affairs,Scientific Research,Who is Director General of Council of Scientific and Industrial Research?,"['Dr. Shekhar Mande', 'Nallathamby Kalasielvi', 'Dr. Girish Sahni', 'Dr. R.A. Mashelkar']",1,Hard,6-Month Current Affairs 2025,Q_0101
+Current Affairs,Space Center,Who is Director of Vikram Sarabhai Space Center?,"['P. Kunhikrishnan', 'Shri Rajarajan A', 'S. Unnikrishnan Nair', 'Dr. K. Sivan']",1,Hard,6-Month Current Affairs 2025,Q_0102
+Current Affairs,Sports Administration,Who is Chairman of ICC?,"['Sourav Ganguly', 'Jay Shah', 'Greg Barclay', 'Shashank Manohar']",1,Medium,6-Month Current Affairs 2025,Q_0103
+Current Affairs,Sports Administration,Who is President of Olympic Council of Asia (IOC)?,"['Thomas Bach', 'Kirsty Coventry', 'Sheikh Ahmad Al-Fahad Al-Sabah', 'Tsunekazu Takeda']",1,Hard,6-Month Current Affairs 2025,Q_0104
+Current Affairs,Sports Administration,Who is President of International Athletic Federation?,"['Lamine Diack', 'Sebastian Coe', 'Sergey Bubka', 'Svein Arne Hansen']",1,Medium,6-Month Current Affairs 2025,Q_0105
+Current Affairs,Sports Administration,Who is President of Indian Weightlifting Federation?,"['Birendra Prasad Baishya', 'Sahdev Yadav', 'Mohammad Ishtiyaq Ahmad', 'Rajeev Mehta']",1,Hard,6-Month Current Affairs 2025,Q_0106
+Current Affairs,Sports Administration,Who is President of International Hockey Federation (FIH)?,"['Leandro Negre', 'Mohammad Tayyab Ikram', 'Narinder Dhruv Batra', 'Dr. Hassan Moustafa']",1,Hard,6-Month Current Affairs 2025,Q_0107
+Current Affairs,Sports Administration,Who is President of FIFA?,"['Sepp Blatter', 'Gianni Infantino', 'Michel Platini', 'Joao Havelange']",1,Easy,6-Month Current Affairs 2025,Q_0108
+Current Affairs,Sports Administration,Who is President of International Boxing Association Athletes Committee?,"['Mary Kom', 'Lovlina Borgohain', 'Vijender Singh', 'Shiva Thapa']",1,Medium,6-Month Current Affairs 2025,Q_0109
+Current Affairs,Sports Administration,Who is President of BCCI (36th)?,"['Sourav Ganguly', 'N. Srinivasan', 'Roger Binny', 'Anurag Thakur']",2,Medium,6-Month Current Affairs 2025,Q_0110
+Current Affairs,Sports,Who is Test Captain of Board of Control for Cricket in India?,"['Virat Kohli', 'Rohit Sharma', 'Shubman Gill', 'KL Rahul']",2,Medium,6-Month Current Affairs 2025,Q_0111
+Current Affairs,Sports,Who is Head Coach of Indian Cricket Men Team?,"['Ravi Shastri', 'Rahul Dravid', 'Gautam Gambhir', 'Anil Kumble']",2,Medium,6-Month Current Affairs 2025,Q_0112
+Current Affairs,Sports Administration,Who is Director General of Sports Authority of India?,"['Sandip Pradhan', 'Dr. Mansukh Mandaviya', 'Radhey Shyam Julaniya', 'Neelam Kapur']",1,Hard,6-Month Current Affairs 2025,Q_0113
+Current Affairs,Sports Administration,Who is President of Wrestling Federation of India (WFI)?,"['Brij Bhushan Sharan Singh', 'Sanjay Singh', 'Anita Sheoran', 'Bajrang Punia']",1,Medium,6-Month Current Affairs 2025,Q_0114
+Current Affairs,Sports Administration,Who is Chief of All India Football Confederation (AIFF)?,"['Praful Patel', 'Kalyan Chaubey', 'Subrata Dutta', 'Shaji Prabhakaran']",1,Medium,6-Month Current Affairs 2025,Q_0115
+Current Affairs,Sports Administration,Who is President of Hockey India?,"['Narinder Dhruv Batra', 'Dilip Tirkey', 'Rajinder Singh', 'Gyanendro Ningombam']",1,Medium,6-Month Current Affairs 2025,Q_0116
+Current Affairs,Sports Administration,Who is President of Indian Olympic Association (IOA)?,"['Narinder Dhruv Batra', 'PT Usha', 'Rajeev Mehta', 'Adille Sumariwalla']",1,Medium,6-Month Current Affairs 2025,Q_0117
+Current Affairs,Banking,Who is Governor of Reserve Bank of India (RBI) (26th)?,"['Urjit Patel', 'Raghuram Rajan', 'Shaktikanta Das', 'Sanjay Malhotra']",3,Medium,6-Month Current Affairs 2025,Q_0118
+Current Affairs,Banking,Who are Deputy Governors of RBI?,"['Poonam Gupta, Swaminathan Janakiraman, T Rabi Shankar, M. Rajeshwar Rao', 'Urjit Patel, Viral Acharya, B.P. Kanungo, N.S. Vishwanathan', 'Shaktikanta Das, Michael Patra, Mahesh Kumar Jain, T. Rabi Shankar', 'M.K. Jain, M.D. Patra, Mahesh Kumar Jain, B.P. Kanungo']",0,Hard,6-Month Current Affairs 2025,Q_0119
+Current Affairs,Banking,Who is Chairman of State Bank of India?,"['Rajnish Kumar', 'Challa Srinivasulu Setty', 'Dinesh Kumar Khara', 'Arundhati Bhattacharya']",1,Medium,6-Month Current Affairs 2025,Q_0120
+Current Affairs,Banking,Who is Chairman of Punjab National Bank?,"['Sunil Mehta', 'Ashok Chandra', 'K.R. Kamath', 'S.S. Mallikarjuna Rao']",1,Hard,6-Month Current Affairs 2025,Q_0121
+Current Affairs,Banking,Who is MD & CEO of ICICI Bank?,"['Chanda Kochhar', 'Sandeep Bakshi', 'Girish Chandra Chaturvedi', 'K.V. Kamath']",1,Medium,6-Month Current Affairs 2025,Q_0122
+Current Affairs,Banking,Who is MD & CEO of HDFC Bank?,"['Aditya Puri', 'Shashidhar Jagdisha', 'Paresh Sukthankar', 'Kaizad Bharucha']",1,Medium,6-Month Current Affairs 2025,Q_0123
+Current Affairs,International Organizations,Who is Secretary-General of United Nations?,"['Ban Ki-moon', 'Antonio Guterres', 'Kofi Annan', 'Boutros Boutros-Ghali']",1,Easy,6-Month Current Affairs 2025,Q_0124
+Current Affairs,International Organizations,Who is 14th President of World Bank (IBRD)?,"['Jim Yong Kim', 'Ajay Banga', 'David Malpass', 'Robert Zoellick']",1,Medium,6-Month Current Affairs 2025,Q_0125
+Current Affairs,International Organizations,Who is Director General of UNESCO?,"['Irina Bokova', 'Audre Azoulay', 'Federico Mayor', 'Koichiro Matsuura']",1,Hard,6-Month Current Affairs 2025,Q_0126
+Current Affairs,Technology CEOs,Who is CEO of Google?,"['Larry Page', 'Sunder Pichai', 'Sergey Brin', 'Eric Schmidt']",1,Easy,6-Month Current Affairs 2025,Q_0127
+Current Affairs,Technology CEOs,Who is CEO of Apple?,"['Steve Jobs', 'Tim Cook', 'Steve Wozniak', 'John Sculley']",1,Easy,6-Month Current Affairs 2025,Q_0128
+Current Affairs,Technology CEOs,Who is CEO of Microsoft?,"['Bill Gates', 'Satya Nadella', 'Steve Ballmer', 'Paul Allen']",1,Easy,6-Month Current Affairs 2025,Q_0129
+Current Affairs,Indian Companies,Who is CEO of Tata Sons/Trust?,"['Ratan Tata', 'Natarajan Chandrasekaran', 'Cyrus Mistry', 'JRD Tata']",1,Medium,6-Month Current Affairs 2025,Q_0130
+Current Affairs,Indian Companies,Who is CEO of TCS?,"['Rajesh Gopinathan', 'K. Krittivasan', 'N. Chandrasekaran', 'S. Ramadorai']",1,Medium,6-Month Current Affairs 2025,Q_0131
+Current Affairs,Indian Companies,Who is CEO of Infosys?,"['N.R. Narayana Murthy', 'Salil Parekh', 'Vishal Sikka', 'Nandan Nilekani']",1,Medium,6-Month Current Affairs 2025,Q_0132
+Current Affairs,Technology CEOs,Who is CEO of Open AI?,"['Elon Musk', 'Sam Altman', 'Greg Brockman', 'Ilya Sutskever']",1,Medium,6-Month Current Affairs 2025,Q_0133
+Current Affairs,Technology CEOs,Who is CEO of SpaceX?,"['Jeff Bezos', 'Elon Musk', 'Richard Branson', 'Blue Origin']",1,Easy,6-Month Current Affairs 2025,Q_0134
+Current Affairs,Technology CEOs,Who is CEO of YouTube?,"['Susan Wojcicki', 'Neal Mohan', 'Chad Hurley', 'Steve Chen']",1,Medium,6-Month Current Affairs 2025,Q_0135
+Current Affairs,Technology CEOs,Who is CEO of Instagram?,"['Mark Zuckerberg', 'Kevin Systrom', 'Mike Krieger', 'Adam Mosseri']",1,Medium,6-Month Current Affairs 2025,Q_0136
+Current Affairs,Technology CEOs,Who is CEO of Facebook (Meta)?,"['Sheryl Sandberg', 'Mark Zuckerberg', 'Eduardo Saverin', 'Sean Parker']",1,Easy,6-Month Current Affairs 2025,Q_0137
+Current Affairs,Technology CEOs,Who is CEO of Twitter (X)?,"['Jack Dorsey', 'Linda Yaccarino', 'Elon Musk', 'Parag Agrawal']",1,Medium,6-Month Current Affairs 2025,Q_0138
+Current Affairs,Indian E-commerce,Who is CEO of Flipkart?,"['Sachin Bansal', 'Kalyan Krishnamurthy', 'Binny Bansal', 'Sameer Nigam']",1,Medium,6-Month Current Affairs 2025,Q_0139
+Current Affairs,Economics,What was India's GDP growth rate in Q1 2025-26?,"['6.5%', '7.0%', '7.8%', '8.2%']",2,Medium,6-Month Current Affairs 2025,Q_0140
+Current Affairs,Monetary Policy,What is current repo rate as per RBI MPC meeting Aug 2025?,"['5.25%', '5.50%', '5.75%', '6.00%']",1,Medium,6-Month Current Affairs 2025,Q_0141
+Current Affairs,International Trade,"US imposed what percentage tariffs on Indian goods from Aug 27, 2025?","['25%', '40%', '50%', '60%']",2,Medium,6-Month Current Affairs 2025,Q_0142
+Current Affairs,Credit Rating,Which agency upgraded India's sovereign credit rating to BBB in Aug 2025?,"[""Moody's"", 'Fitch', 'S&P Global Ratings', 'CRISIL']",2,Medium,6-Month Current Affairs 2025,Q_0143
+Current Affairs,Aviation,Which position did India hold in world's largest aviation markets in 2024?,"['3rd', '4th', '5th', '6th']",2,Medium,6-Month Current Affairs 2025,Q_0144
+Current Affairs,Sports,National Sports Day (29 August) marks whose birth anniversary?,"['Kapil Dev', 'P.T. Usha', 'Major Dhyan Chand', 'Milkha Singh']",2,Easy,6-Month Current Affairs 2025,Q_0145
+Current Affairs,Sports,Which team won Durand Cup 2025?,"['East Bengal', 'Jamshedpur FC', 'NorthEast United FC', 'Diamond Harbour FC']",2,Medium,6-Month Current Affairs 2025,Q_0146
+Current Affairs,Sports,Who won gold in 72kg category at U20 World Wrestling Championships 2025?,"['Priya Malik', 'Kajal Dochak', 'Reena', 'Shruti']",1,Medium,6-Month Current Affairs 2025,Q_0147
+Current Affairs,Sports,Who won Masters Section of Chennai Grand Masters 2025 chess tournament?,"['D. Gukesh', 'Vincent Keymer', 'R. Praggnanandhaa', 'Arjun Erigaisi']",1,Medium,6-Month Current Affairs 2025,Q_0148
+Current Affairs,Sports,Mirabai Chanu won gold at 2025 Commonwealth Weightlifting Championships in which event?,"['49kg category', '55kg category', '59kg category', '64kg category']",0,Medium,6-Month Current Affairs 2025,Q_0149
+Current Affairs,Sports,What was the final result of Anderson-Tendulkar Trophy Test series 2025?,"['India won 3-1', 'England won 3-2', 'Series drawn 2-2', 'India won 4-1']",2,Medium,6-Month Current Affairs 2025,Q_0150
+Current Affairs,Space,When is National Space Day celebrated in India?,"['15 August', '23 August', '2 October', '26 January']",1,Easy,6-Month Current Affairs 2025,Q_0151
+Current Affairs,Space,What is name of Uranus's newly discovered 29th moon in 2025?,"['S/2025 U1', 'Ura-29', 'S/2025 M1', 'Neo-U1']",0,Medium,6-Month Current Affairs 2025,Q_0152
+Current Affairs,Defense,What is range of Agni-5 missile test-fired in Aug 2025?,"['1,500+ km', '3,000+ km', '5,000+ km', '7,500+ km']",2,Medium,6-Month Current Affairs 2025,Q_0153
+Current Affairs,Space,ISRO successfully conducted first Integrated Air Drop Test for which mission?,"['Chandrayaan-4', 'Gaganyaan', 'Mangalyaan-2', 'Shukrayaan']",1,Medium,6-Month Current Affairs 2025,Q_0154
+Current Affairs,Transportation,Name of Asia's longest freight train (4.5 km) that completed trial in Aug 2025?,"['Vande Bharat Freight', 'Rudrastra', 'Vishwakarma', 'Bharatmala Express']",1,Medium,6-Month Current Affairs 2025,Q_0155
+Current Affairs,Awards,Which Hindi film won Best Film award at 71st National Film Awards?,"['RRR', '12th Fail', 'The Kashmir Files', 'Gangubai Kathiawadi']",1,Medium,6-Month Current Affairs 2025,Q_0156
+Chemistry,Nobel Prize,Which scientist was awarded Nobel Prize 1911 for discovering radium and polonium?,"['John Dalton', 'Dmitri Mendeleev', 'Emil Fischer', 'Marie Curie']",3,Medium,Science Bowl Chemistry,Q_0157
+Chemistry,Nobel Prize,Who was first American chemist to receive Nobel Prize for atomic weights?,"['Edward Frankland', 'Theodore Richards', 'John Bardeen', 'Paul Dirac']",1,Medium,Science Bowl Chemistry,Q_0158
+Chemistry,Nuclear Physics,Which German scientists discovered atomic fission of uranium?,"['Hahn and Strassman', 'Nernst and Planck', 'Ostwald and Heisenberg', 'Bohr and Rutherford']",0,Medium,Science Bowl Chemistry,Q_0159
+Chemistry,Periodic Table,Who developed table of elements revealing regularities in 1869?,"['Theodore Richards', 'Antoine Lavoisier', 'Dmitri Mendeleev', 'Svante Arrhenius']",2,Medium,Science Bowl Chemistry,Q_0160
+Chemistry,Atomic Structure,How many electrons can occupy an s orbital?,"['one', 'two', 'three', 'four']",1,Easy,Science Bowl Chemistry,Q_0161
+Chemistry,Atomic Structure,Which characteristic necessary for electrons sharing s orbital?,"['coplanar spins', 'parallel spins', 'opposite spins', 'none of these']",2,Medium,Science Bowl Chemistry,Q_0162
+Chemistry,Coordination Chemistry,What term refers to number of molecules attached to central atom?,"['coordination number', 'connection number', 'bonding number', 'none of these']",0,Medium,Science Bowl Chemistry,Q_0163
+Chemistry,Chemical Properties,Which pairs do NOT show similar chemical properties?,"['fluorine-argon', 'beryllium-aluminum', 'boron-silicon', 'lithium-magnesium']",0,Medium,Science Bowl Chemistry,Q_0164
+Chemistry,Inorganic Chemistry,What is common name for calcium oxide CaO?,"['Lime', 'Quicklime', 'Slaked lime', 'Limestone']",1,Easy,Science Bowl Chemistry,Q_0165
+Chemistry,Nuclear Chemistry,Which term refers to material that slows neutrons?,"['retarder', 'moderator', 'buffer', 'bottleneck']",1,Medium,Science Bowl Chemistry,Q_0166
+Chemistry,Physical Chemistry,What refers to scattering of light by colloidal particles?,"['Rutherford effect', 'Tyndall effect', 'Thompson effect', 'none of these']",1,Medium,Science Bowl Chemistry,Q_0167
+Chemistry,Nuclear Physics,Who proved that neutrons existed?,"['Ernest Rutherford', 'James Chadwick', 'Niels Bohr', 'Max Planck']",1,Medium,Science Bowl Chemistry,Q_0168
+Chemistry,Metallurgy,What is easily melted product of flux and ore impurities?,"['slag', 'slurry', 'slug', 'none of above']",0,Medium,Science Bowl Chemistry,Q_0169
+Chemistry,Thermodynamics,Name thermodynamic state function that measures randomness.,"['Enthalpy', 'Entropy', 'Free Energy', 'Internal Energy']",1,Medium,Science Bowl Chemistry,Q_0170
+Chemistry,Alloys,What term describes silver containing 7.5% copper?,"['Pure silver', 'Sterling', 'Fine silver', 'Alloy silver']",1,Medium,Science Bowl Chemistry,Q_0171
+Chemistry,Thermodynamics,Name state function that represents heat content of system.,"['Entropy', 'Enthalpy', 'Free Energy', 'Internal Energy']",1,Medium,Science Bowl Chemistry,Q_0172
+Chemistry,Boron Properties,Which is NOT a physical property of crystalline boron?,"['brown color', 'diamond hardness', 'brittleness', 'high electrical resistance']",0,Hard,Science Bowl Chemistry,Q_0173
+Chemistry,Noble Gases,Which noble gas has highest melting point?,"['argon', 'krypton', 'xenon', 'radon']",3,Medium,Science Bowl Chemistry,Q_0174
+Chemistry,Noble Gases,Why do noble gases have low boiling points?,"['low ionization potentials', 'only weak Van der Waals forces', 'fractional distillation', 'eight outer electrons']",1,Medium,Science Bowl Chemistry,Q_0175
+Chemistry,Solubility,For which class of salts are all compounds soluble in water?,"['sulfates', 'nitrates', 'hydroxides', 'chlorides']",1,Medium,Science Bowl Chemistry,Q_0176
+Chemistry,Base Properties,Which is NOT a general property of hydroxide bases in aqueous solution?,"['High solubility', 'Bitter taste', 'Ability to neutralize acids', 'Change phenolphthalein to red']",0,Hard,Science Bowl Chemistry,Q_0177
+Chemistry,Acids,What is aqua regia?,"['concentrated nitric acid', 'mixture of HCl and HNO3', 'concentrated HCl', 'mixture of H2SO4 and HCl']",1,Medium,Science Bowl Chemistry,Q_0178
+Chemistry,pH,A solution with pH 12 is:,"['weakly acidic', 'strongly acidic', 'weakly basic', 'strongly basic']",3,Easy,Science Bowl Chemistry,Q_0179
+Chemistry,Halogens,Which halogen has largest atomic radius?,"['Cl', 'I', 'Br', 'At']",3,Medium,Science Bowl Chemistry,Q_0180
+Chemistry,Iodine Applications,Compounds of iodine are NOT used for which purpose?,"['as a refrigerant', 'in photographic film', 'as essential part of diet', 'as an antiseptic']",0,Medium,Science Bowl Chemistry,Q_0181
+Chemistry,Phosphorus,Allotropic modifications of phosphorus include all EXCEPT:,"['red phosphorus', 'black phosphorus', 'white phosphorus', 'green phosphorus']",3,Hard,Science Bowl Chemistry,Q_0182
+Chemistry,Measurement,How many milligrams are in one metric carat?,"['100', '200', '250', '500']",1,Medium,Science Bowl Chemistry,Q_0183
+Chemistry,Organic Chemistry,What class of compounds characterized by -OH group bonded to alkyl?,"['Alcohol', 'Ester', 'Ether', 'Aldehyde']",0,Easy,Science Bowl Chemistry,Q_0184
+Chemistry,Organic Chemistry,Which contain sp2 hybridized carbon atoms?,"['alkanes', 'alkenes', 'alkynes', 'cycloalkanes']",1,Medium,Science Bowl Chemistry,Q_0185
+Chemistry,Organic Chemistry,Which phrase is NOT appropriate for benzene description?,"['characteristic reactivity of alkene', 'volatile liquid', 'aromatic hydrocarbon', 'resonance hybridization']",0,Hard,Science Bowl Chemistry,Q_0186
+Chemistry,Aromatic Hydrocarbons,Which is NOT an aromatic hydrocarbon?,"['naphthalene', 'hexane', 'styrene', 'xylene']",1,Medium,Science Bowl Chemistry,Q_0187
+Chemistry,Aliphatic Hydrocarbons,Which is NOT an aliphatic hydrocarbon?,"['n-octane', 'propylene', 'n-tridecane', 'benzene']",3,Medium,Science Bowl Chemistry,Q_0188
+Chemistry,Carbon Dioxide,Which is NOT a means of preparing carbon dioxide?,"['burning coke in absence of air', 'combustion of methane', 'heating normal carbonates', 'action of acids on carbonates']",0,Hard,Science Bowl Chemistry,Q_0189
+Chemistry,Biochemistry,"After carbon, hydrogen, oxygen, next most abundant element in proteins?","['Sulfur', 'Nitrogen', 'Phosphorus', 'Chlorine']",1,Medium,Science Bowl Chemistry,Q_0190
+Chemistry,Biochemistry,Which one is NOT a lipid?,"['fats and oils', 'starches', 'steroids', 'waxes']",1,Medium,Science Bowl Chemistry,Q_0191
+Chemistry,Vitamins,Which one is NOT a vitamin?,"['ascorbic acid', 'niacin', 'trypsin', 'riboflavin']",2,Medium,Science Bowl Chemistry,Q_0192
+Chemistry,Units,Which has units of Pascal?,"['force', 'volume', 'pressure', 'viscosity']",2,Easy,Science Bowl Chemistry,Q_0193
+Chemistry,Units,A Poise is unit of measure of what?,"['pressure', 'viscosity', 'force', 'mass']",1,Medium,Science Bowl Chemistry,Q_0194
+Chemistry,Element Symbols,Which element is represented by symbol B?,"['Barium', 'Bismuth', 'Boron', 'Beryllium']",2,Easy,Science Bowl Chemistry,Q_0195
+Chemistry,Element Symbols,What element is represented by symbol Rb?,"['Rubidium', 'Radium', 'Rhodium', 'Radon']",0,Medium,Science Bowl Chemistry,Q_0196
+Chemistry,Element Symbols,What element is represented by symbol Sn?,"['Silicon', 'Sulfur', 'Tin', 'Sodium']",2,Medium,Science Bowl Chemistry,Q_0197
+Chemistry,Element Symbols,What element is represented by symbol Sr?,"['Sulfur', 'Strontium', 'Silver', 'Scandium']",1,Medium,Science Bowl Chemistry,Q_0198
+Chemistry,Element Symbols,What element is represented by symbol Ga?,"['Gallium', 'Germanium', 'Gold', 'Gadolinium']",0,Medium,Science Bowl Chemistry,Q_0199
+Chemistry,Element Symbols,What element is represented by symbol Rh?,"['Radon', 'Rubidium', 'Rhodium', 'Rhenium']",2,Hard,Science Bowl Chemistry,Q_0200
+Chemistry,Element Symbols,What element is represented by symbol Ho?,"['Hydrogen', 'Helium', 'Holmium', 'Hafnium']",2,Hard,Science Bowl Chemistry,Q_0201
+Chemistry,Periodic Table,"In periodic table, which identifies a horizontal row?","['period', 'group', 'family', 'series']",0,Easy,Science Bowl Chemistry,Q_0202
+Chemistry,Chemical Bonding,Which describes orientation of bonds in sp3 hybridized atom?,"['triagonal', 'linear', 'tetrahedral', 'planar']",2,Medium,Science Bowl Chemistry,Q_0203
+Chemistry,Chemical Bonding,Forces in ionic crystalline solids are primarily what?,"['covalent', 'electrostatic', 'Van der Waals', 'magnetic']",1,Medium,Science Bowl Chemistry,Q_0204
+Chemistry,Octet Rule,In which compound is the octet rule violated?,"['CO2', 'NH4+', 'SO42-', 'NO2']",3,Hard,Science Bowl Chemistry,Q_0205
+Chemistry,Solution Chemistry,Normality is defined as number of what per liter of solution?,"['moles of solute', 'equivalent weights of solute', 'kilograms of solute', 'grams of solute']",1,Medium,Science Bowl Chemistry,Q_0206
+Chemistry,Solution Chemistry,Which concentration expression is moles of solute per kilogram of solvent?,"['molarity', 'molality', 'normality', 'equivalents']",1,Medium,Science Bowl Chemistry,Q_0207
+Chemistry,Oxidation Numbers,What is oxidation number of N in NaNO2?,"['+5', '+2', '+3', '-3']",2,Medium,Science Bowl Chemistry,Q_0208
+Chemistry,Oxidation Numbers,What is oxidation number of sulfur in sulfurous acid?,"['+2', '+4', '+6', '-2']",1,Medium,Science Bowl Chemistry,Q_0209
+Chemistry,Electronic Configuration,Which atom has two unpaired electrons in ground state?,"['Sodium', 'Calcium', 'Oxygen', 'Aluminum']",2,Medium,Science Bowl Chemistry,Q_0210
+Chemistry,Chemical Bonding,In which compound is bonding most covalent?,"['NaCl', 'F2', 'MgS', 'Fe3C']",1,Medium,Science Bowl Chemistry,Q_0211
+Chemistry,Chemical Bonding,Bond in hydrogen chloride is which type?,"['ionic', 'nonpolar covalent', 'polar covalent', 'covalent network']",2,Medium,Science Bowl Chemistry,Q_0212
+Chemistry,Chemical Bonding,Bond in Fluorine is which type?,"['ionic', 'nonpolar covalent', 'polar covalent', 'covalent network']",1,Medium,Science Bowl Chemistry,Q_0213
+Chemistry,Periodic Groups,Elements in group 1A are called:,"['halogens', 'alkaline earths', 'alkali metals', 'rare earths']",2,Easy,Science Bowl Chemistry,Q_0214
+Chemistry,Organic Compounds,What is name of organic compound amygdalin found in apricot pits?,"['Cyanide', 'Laetrile', 'Benzaldehyde', 'Mandelic acid']",1,Hard,Science Bowl Chemistry,Q_0215
+Chemistry,Mining,Name element discovered upon extraction from pitchblende?,"['platinum', 'uranium', 'iridium', 'plutonium']",1,Medium,Science Bowl Chemistry,Q_0216
+Chemistry,Biochemistry,"All proteins contain 5 elements. Four are C, O, H, N. What is fifth?","['Phosphorus', 'Sulfur', 'Iron', 'Calcium']",1,Medium,Science Bowl Chemistry,Q_0217
+Chemistry,Minerals,"Cinnabar, pyrite and galena contain which common element?","['iron', 'copper', 'sulfur', 'sodium']",2,Medium,Science Bowl Chemistry,Q_0218
+Chemistry,Flame Tests,"In flame test, copper produces what color flame?","['red', 'orange', 'indigo', 'blue-green']",3,Medium,Science Bowl Chemistry,Q_0219
+Chemistry,Nuclear Chemistry,How are alpha rays different from beta rays?,"['alpha deflected in magnetic field', 'alpha identical to electron', 'alpha positive, beta negative', 'alpha from nucleus, beta outside']",2,Medium,Science Bowl Chemistry,Q_0220
+Chemistry,Noble Gas Properties,Which statement is TRUE about noble gas molar heat capacity?,"['decreases He to Xe', 'increases He to Ar', 'increases He to Ar, decreases to Xe', 'same for all noble gases']",3,Hard,Science Bowl Chemistry,Q_0221
+Chemistry,Material Classification,Which material is heterogeneous?,"['quartz', 'feldspar', 'granite', 'mica']",2,Medium,Science Bowl Chemistry,Q_0222
+Chemistry,Halogen Chemistry,Which halogen does NOT replace other halogens from compounds?,"['fluorine', 'iodine', 'bromine', 'chlorine']",1,Medium,Science Bowl Chemistry,Q_0223
+Chemistry,Fossil Fuels,Which is earliest stage in coal formation?,"['sub-bituminous', 'bituminous', 'anthracite', 'lignite']",3,Medium,Science Bowl Chemistry,Q_0224
+Chemistry,Organic Chemistry,"When aldehyde heated with Fehling's solution, it undergoes:","['neutralization', 'oxidation', 'reduction', 'esterification']",1,Medium,Science Bowl Chemistry,Q_0225
+Chemistry,Organic Chemistry,Hydrolysis of fat using strong hydroxide is called:,"['neutralization', 'esterification', 'saponification', 'condensation']",2,Medium,Science Bowl Chemistry,Q_0226
+Chemistry,Organic Chemistry,What is formed by heating organic acid with alcohol?,"['Aldehyde', 'Ester', 'Ketone', 'Ether']",1,Medium,Science Bowl Chemistry,Q_0227
+Chemistry,Electrochemistry,"In common dry cell, zinc atoms are:","['reduced at cathode', 'oxidized at cathode', 'oxidized at anode', 'reduced at anode']",2,Medium,Science Bowl Chemistry,Q_0228
+Chemistry,Periodic Trends,Ionization energy generally increases across period because of increasing:,"['atomic radius', 'melting point', 'nuclear charge', 'density']",2,Medium,Science Bowl Chemistry,Q_0229
+Chemistry,Redox Chemistry,Which reaction involves NEITHER oxidation nor reduction?,"['burning antimony in chlorine', 'decomposition of potassium chlorate', 'sodium with water', 'KOH with nitric acid']",3,Hard,Science Bowl Chemistry,Q_0230
+Chemistry,Flame Tests,"In flame test, lithium and strontium produce what color?","['Blue', 'Green', 'Red', 'Yellow']",2,Medium,Science Bowl Chemistry,Q_0231
+Chemistry,Scientific Principles,Who hypothesized impossibility of knowing exact location and momentum simultaneously?,"['Heisenberg', 'De Broglie', 'Planck', 'Schrodinger']",0,Medium,Science Bowl Chemistry,Q_0232
+Chemistry,Scientific Principles,Who first determined atomic number using X-rays?,"['Millikan', 'Planck', 'Thompson', 'Moseley']",3,Medium,Science Bowl Chemistry,Q_0233
+Chemistry,Acid-Base Theory,Ammonia is Lewis base because it can donate:,"['electrons', 'protons', 'hydronium ions', 'hydroxide ions']",0,Medium,Science Bowl Chemistry,Q_0234
+Chemistry,Acid-Base Chemistry,Acids react with bases to form:,"['salt and acidic anhydride', 'water and basic anhydride', 'basic anhydride and salt', 'salt and water']",3,Easy,Science Bowl Chemistry,Q_0235
+Chemistry,Biochemistry,What is metallic salt of fatty acid?,"['soap', 'plastic', 'rubber', 'petroleum']",0,Medium,Science Bowl Chemistry,Q_0236
+Chemistry,Biochemistry,Which are polymers of amino acids?,"['nucleotides', 'carbohydrates', 'lipids', 'proteins']",3,Easy,Science Bowl Chemistry,Q_0237
+Chemistry,Biochemistry,In which class would WAX be found?,"['carbohydrates', 'lipids', 'proteins', 'nucleic acids']",1,Medium,Science Bowl Chemistry,Q_0238
+Chemistry,Buffer Chemistry,Which pair could NOT create buffer solution?,"['HCl and NaCl', 'HCN and NaCN', 'NH3 and NH4Cl', 'HNO2 and NaNO2']",0,Hard,Science Bowl Chemistry,Q_0239
+Chemistry,Crystal Structure,"In body-centered cesium chloride, how many nearest chloride ions surround cesium?","['6', '8', '12', '14']",1,Hard,Science Bowl Chemistry,Q_0240
+Chemistry,Metallurgy,Which metallic element is produced from ore Bauxite?,"['Iron', 'Aluminum', 'Copper', 'Zinc']",1,Medium,Science Bowl Chemistry,Q_0241
+Chemistry,Metallurgy,What molten substance is used in Hall process to reduce aluminum?,"['Alumina', 'Cryolite', 'Bauxite', 'Sodium']",1,Hard,Science Bowl Chemistry,Q_0242
+Chemistry,Noble Gases,Name any five noble gases (in order of atomic number):,"['He, Ne, Ar, Kr, Xe', 'He, Ne, Ar, Kr, Rn', 'Ne, Ar, Kr, Xe, Rn', 'He, Ar, Kr, Xe, Rn']",0,Medium,Science Bowl Chemistry,Q_0243
+Chemistry,Alkali Metals,Name first four alkali metals in order:,"['Li, Na, K, Rb', 'Na, K, Rb, Cs', 'Li, Na, K, Cs', 'H, Li, Na, K']",0,Medium,Science Bowl Chemistry,Q_0244
+Chemistry,Element Identification,"Element in same column as lead, used in resistors, hardest substance - what element?","['Silicon', 'Carbon', 'Germanium', 'Tin']",1,Hard,Science Bowl Chemistry,Q_0245
+Chemistry,Halogens,Four lightest halogens in order of increasing mass:,"['F, Cl, Br, I', 'Cl, Br, I, At', 'F, Br, Cl, I', 'F, Cl, I, Br']",0,Medium,Science Bowl Chemistry,Q_0246
+Chemistry,Organic Chemistry,What functional group do all ketone molecules contain?,"['hydroxyl', 'carbonyl', 'carboxyl', 'amino']",1,Medium,Science Bowl Chemistry,Q_0247
+Chemistry,Organic Chemistry,What is formula of organic acid functional group?,"['OH', 'COOH', 'CHO', 'NH2']",1,Easy,Science Bowl Chemistry,Q_0248
+Chemistry,IUPAC Names,IUPAC name for straight chain saturated organic acid with 10 carbons:,"['Octanoic acid', 'Nonanoic acid', 'Decanoic acid', 'Undecanoic acid']",2,Hard,Science Bowl Chemistry,Q_0249
+Chemistry,IUPAC Names,IUPAC name of shortest alcohol:,"['Ethanol', 'Methanol', 'Propanol', 'Butanol']",1,Easy,Science Bowl Chemistry,Q_0250
+General Knowledge,Music & Entertainment,Carl and the Passions changed band name to what?,"['The Beatles', 'Beach Boys', 'Rolling Stones', 'The Who']",1,Medium,"10,000 General Knowledge Questions",Q_0251
+General Knowledge,Music,Who was the King of Swing?,"['Duke Ellington', 'Benny Goodman', 'Glenn Miller', 'Count Basie']",1,Medium,"10,000 General Knowledge Questions",Q_0252
+General Knowledge,Music,Whose band was The Quarrymen?,"['Paul McCartney', 'John Lennon', 'George Harrison', 'Ringo Starr']",1,Medium,"10,000 General Knowledge Questions",Q_0253
+General Knowledge,Music,Who wrote Opera Madam Butterfly?,"['Puccini', 'Verdi', 'Mozart', 'Rossini']",0,Medium,"10,000 General Knowledge Questions",Q_0254
+General Knowledge,Music,Who composed Brandenburg concertos?,"['Mozart', 'Beethoven', 'Johan Sebastian Bach', 'Handel']",2,Medium,"10,000 General Knowledge Questions",Q_0255
+General Knowledge,Music,Who composed ballets Sleeping Beauty and The Nutcracker?,"['Stravinsky', 'Tchaikovsky', 'Prokofiev', 'Rimsky-Korsakov']",1,Medium,"10,000 General Knowledge Questions",Q_0256
+General Knowledge,Music,Who wrote music for ballets Firebird and Rites of Spring?,"['Tchaikovsky', 'Prokofiev', 'Igor Stravinsky', 'Stravinsky']",2,Hard,"10,000 General Knowledge Questions",Q_0257
+General Knowledge,Music,Who won Euro song contest Save All Your Kisses For Me?,"['ABBA', 'Brotherhood of Man', 'Cliff Richard', 'Bucks Fizz']",1,Hard,"10,000 General Knowledge Questions",Q_0258
+General Knowledge,Sports,How many rings on Olympic flag?,"['Four', 'Five', 'Six', 'Seven']",1,Easy,"10,000 General Knowledge Questions",Q_0259
+General Knowledge,Sports,Which was most successful Grand National horse?,"['Secretariat', 'Red Rum', 'Seabiscuit', ""Man o' War""]",1,Medium,"10,000 General Knowledge Questions",Q_0260
+General Knowledge,Sports,Who was first man to run sub four minute mile?,"['Sebastian Coe', 'Roger Bannister', 'Steve Ovett', 'John Walker']",1,Medium,"10,000 General Knowledge Questions",Q_0261
+General Knowledge,Sports,Who won World Series in 1987?,"['New York Yankees', 'Minnesota Twins', 'Detroit Tigers', 'Boston Red Sox']",1,Hard,"10,000 General Knowledge Questions",Q_0262
+General Knowledge,Sports,Who won Superbowl in 1988?,"['Denver Broncos', 'Washington Redskins', 'San Francisco 49ers', 'Miami Dolphins']",1,Hard,"10,000 General Knowledge Questions",Q_0263
+General Knowledge,Sports,Who won Superbowl in 1989?,"['Cincinnati Bengals', 'San Francisco 49ers', 'Denver Broncos', 'Washington Redskins']",1,Hard,"10,000 General Knowledge Questions",Q_0264
+General Knowledge,Sports,Who won Superbowl in 1987?,"['Denver Broncos', 'New York Giants', 'Washington Redskins', 'Chicago Bears']",1,Hard,"10,000 General Knowledge Questions",Q_0265
+General Knowledge,Sports,What are Munroes?,"['Rivers in Scotland', 'Mountains in Scotland', 'Lakes in Scotland', 'Castles in Scotland']",1,Medium,"10,000 General Knowledge Questions",Q_0266
+General Knowledge,Sports,Who won six consecutive Wimbledon titles in 1980s?,"['Chris Evert', 'Martina Navratilova', 'Steffi Graf', 'Billie Jean King']",1,Medium,"10,000 General Knowledge Questions",Q_0267
+General Knowledge,Sports,Ingemar Stenmark won record 85 world cup races in what sport?,"['Swimming', 'Skiing', 'Ice Hockey', 'Figure Skating']",1,Hard,"10,000 General Knowledge Questions",Q_0268
+General Knowledge,Sports,Jean Claude Killy was famous in which sport?,"['Swimming', 'Skiing', 'Ice Hockey', 'Cycling']",1,Medium,"10,000 General Knowledge Questions",Q_0269
+General Knowledge,Sports,Who was only person to win world titles on bikes and cars?,"['Jim Clark', 'John Surtees', 'Graham Hill', 'Jackie Stewart']",1,Hard,"10,000 General Knowledge Questions",Q_0270
+General Knowledge,Sports,What is oldest swimming stroke?,"['Freestyle', 'Breaststroke', 'Backstroke', 'Butterfly']",1,Medium,"10,000 General Knowledge Questions",Q_0271
+General Knowledge,Sports,Women compete between USA and UK in Wightman Cup - what sport?,"['Golf', 'Tennis', 'Swimming', 'Athletics']",1,Hard,"10,000 General Knowledge Questions",Q_0272
+General Knowledge,Sports,Giacomo Agostini - 122 Grand Prix 15 world titles - what sport?,"['Formula 1', 'Motorcycle Racing', 'Cycling', 'Rally']",1,Hard,"10,000 General Knowledge Questions",Q_0273
+General Knowledge,Colors & Art,What colour is vermilion shade of?,"['Blue', 'Green', 'Red', 'Yellow']",2,Easy,"10,000 General Knowledge Questions",Q_0274
+General Knowledge,Art,Who painted The Haywain?,"['Van Gogh', 'John Constable', 'Monet', 'Picasso']",1,Medium,"10,000 General Knowledge Questions",Q_0275
+General Knowledge,Art,La Giaconda is better known as what?,"['Venus de Milo', 'Mona Lisa', 'The Thinker', 'David']",1,Easy,"10,000 General Knowledge Questions",Q_0276
+General Knowledge,Art,Anna Mary Robinson - famous American painter - what name?,"[""Georgia O'Keeffe"", 'Grandma Moses', 'Mary Cassatt', 'Helen Frankenthaler']",1,Medium,"10,000 General Knowledge Questions",Q_0277
+General Knowledge,Art,Rene Lalique - Art Nouveau designer worked what material?,"['Metal', 'Glass', 'Wood', 'Ceramic']",1,Hard,"10,000 General Knowledge Questions",Q_0278
+General Knowledge,History,King Zog ruled which country?,"['Bulgaria', 'Romania', 'Albania', 'Yugoslavia']",2,Medium,"10,000 General Knowledge Questions",Q_0279
+General Knowledge,History,"Who sailed in Nina, Pinta and Santa Maria?","['Vasco da Gama', 'Christopher Columbus', 'Ferdinand Magellan', 'Captain Cook']",1,Easy,"10,000 General Knowledge Questions",Q_0280
+General Knowledge,History,Which leader died in St Helena?,"['Julius Caesar', 'Alexander Great', 'Napoleon Bonaparte', 'Winston Churchill']",2,Medium,"10,000 General Knowledge Questions",Q_0281
+General Knowledge,History,Who sailed in Golden Hind?,"['Captain Cook', 'Sir Francis Drake', 'Admiral Nelson', 'Sir Walter Raleigh']",1,Medium,"10,000 General Knowledge Questions",Q_0282
+General Knowledge,History,In which war was charge of Light Brigade?,"['Napoleonic Wars', 'Crimean War', 'American Civil War', 'Boer War']",1,Medium,"10,000 General Knowledge Questions",Q_0283
+General Knowledge,History,Name legless fighter pilot of WW2?,"['Guy Gibson', 'Douglas Bader', 'Johnnie Johnson', 'Adolph Malan']",1,Medium,"10,000 General Knowledge Questions",Q_0284
+General Knowledge,History,Who was nicknamed The Desert Fox?,"['Montgomery', 'Erwin Rommel', 'Guderian', 'Patton']",1,Medium,"10,000 General Knowledge Questions",Q_0285
+General Knowledge,History,What aid to archaeologists from 197 bc found in Egypt 1799?,"['Papyrus scrolls', 'Rosetta Stone', 'Hieroglyphic tablets', 'Mummy cases']",1,Medium,"10,000 General Knowledge Questions",Q_0286
+General Knowledge,History,Who was jeweller to Russian Court famous for Easter eggs?,"['Cartier', 'Faberge', 'Tiffany', 'Bulgari']",1,Medium,"10,000 General Knowledge Questions",Q_0287
+General Knowledge,History,Which country had Dauphin as ruler?,"['England', 'Spain', 'France', 'Italy']",2,Medium,"10,000 General Knowledge Questions",Q_0288
+General Knowledge,History,Who ran through streets naked crying Eureka?,"['Pythagoras', 'Archimedes', 'Aristotle', 'Plato']",1,Medium,"10,000 General Knowledge Questions",Q_0289
+General Knowledge,History,What was discovered in 1922 by Howard Carter?,"['Valley of Kings', 'Tutankhamun tomb', 'Great Pyramid', 'Sphinx']",1,Medium,"10,000 General Knowledge Questions",Q_0290
+General Knowledge,History,Who performed first heart transplant in South Africa?,"['Michael DeBakey', 'Christian Barnard', 'Norman Shumway', 'Richard Lower']",1,Medium,"10,000 General Knowledge Questions",Q_0291
+General Knowledge,History,Portuguese had six Kings with what first name?,"['Alfonso', 'John', 'Manuel', 'Carlos']",1,Hard,"10,000 General Knowledge Questions",Q_0292
+General Knowledge,History,Who sold Louisiana to USA in 1803?,"['Louis XVI', 'Napoleon', 'Robespierre', 'Talleyrand']",1,Medium,"10,000 General Knowledge Questions",Q_0293
+General Knowledge,History,Which Norwegian politician's name became word for traitor?,"['Hamsun', 'Vidkun Quisling', 'Lie', 'Gerhardsen']",1,Hard,"10,000 General Knowledge Questions",Q_0294
+General Knowledge,History,Crazy Horse and Sitting Bull were born in which US state?,"['Montana', 'South Dakota', 'North Dakota', 'Wyoming']",1,Hard,"10,000 General Knowledge Questions",Q_0295
+General Knowledge,History,Samuel de Champlain founded which city?,"['Montreal', 'Quebec', 'Ottawa', 'Toronto']",1,Hard,"10,000 General Knowledge Questions",Q_0296
+General Knowledge,History,Mau Mau were terrorists in which country late 50s early 60s?,"['Algeria', 'Kenya', 'Nigeria', 'Ghana']",1,Medium,"10,000 General Knowledge Questions",Q_0297
+General Knowledge,Entertainment,What colour is Spock's blood?,"['Red', 'Blue', 'Green', 'Purple']",2,Easy,"10,000 General Knowledge Questions",Q_0298
+General Knowledge,Television,On television what was Flipper?,"['Dog', 'Cat', 'Horse', 'Dolphin']",3,Easy,"10,000 General Knowledge Questions",Q_0299
+General Knowledge,Television,Who starred as Six Million Dollar Man?,"['Steve Austin', 'Lee Majors', 'David Hasselhoff', 'Tom Selleck']",1,Medium,"10,000 General Knowledge Questions",Q_0300
+General Knowledge,Television,What was Skippy on TV?,"['Dog', 'The bush kangaroo', 'Cat', 'Horse']",1,Medium,"10,000 General Knowledge Questions",Q_0301
+General Knowledge,Television,Who played The Fugitive?,"['Richard Kimble', 'David Janssen', 'Tommy Lee Jones', 'Harrison Ford']",1,Medium,"10,000 General Knowledge Questions",Q_0302
+General Knowledge,Television,What is name of Dennis the Menace's dog?,"['Ruff', 'Gnasher', 'Spot', 'Rex']",1,Easy,"10,000 General Knowledge Questions",Q_0303
+General Knowledge,Television,Ringo Star narrates which children's TV series?,"['Sesame Street', 'Thomas the Tank Engine', 'Mister Rogers', 'Captain Kangaroo']",1,Medium,"10,000 General Knowledge Questions",Q_0304
+General Knowledge,Entertainment,What is Dick Grayson better known as?,"['Batman', 'Robin', 'Superman', 'Flash']",1,Easy,"10,000 General Knowledge Questions",Q_0305
+General Knowledge,Entertainment,Who was Dan Dare's greatest enemy in Eagle comic?,"['Mekon', 'Lex Luthor', 'Joker', 'Green Goblin']",0,Hard,"10,000 General Knowledge Questions",Q_0306
+General Knowledge,Human Body,Where in body is patella?,"['Arm', 'Knee', 'Back', 'Neck']",1,Easy,"10,000 General Knowledge Questions",Q_0307
+General Knowledge,Health,If you has caries who would you consult?,"['Doctor', 'Dentist', 'Optician', 'Surgeon']",1,Easy,"10,000 General Knowledge Questions",Q_0308
+General Knowledge,Health,If you had pogonophobia what would you fear?,"['Heights', 'Beards', 'Spiders', 'Water']",1,Hard,"10,000 General Knowledge Questions",Q_0309
+General Knowledge,Health,What does an alopecia sufferer lack?,"['Sleep', 'Hair', 'Memory', 'Appetite']",1,Medium,"10,000 General Knowledge Questions",Q_0310
+General Knowledge,Health,If you had rubella what would you have caught?,"['Chicken pox', 'German Measles', 'Mumps', 'Scarlet fever']",1,Medium,"10,000 General Knowledge Questions",Q_0311
+General Knowledge,Health,What is classified by ABO system?,"['Diseases', 'Blood Groups', 'Medicines', 'Viruses']",1,Medium,"10,000 General Knowledge Questions",Q_0312
+General Knowledge,Health,Which part of human body contains most gold?,"['Hair', 'Toenails', 'Teeth', 'Bones']",1,Hard,"10,000 General Knowledge Questions",Q_0313
+General Knowledge,Health,Consumption was former name of which disease?,"['Cancer', 'Tuberculosis', 'Pneumonia', 'Malaria']",1,Medium,"10,000 General Knowledge Questions",Q_0314
+General Knowledge,Health,Who discovered blood circulation?,"['Harvey', 'William Harvey', 'Galen', 'Vesalius']",1,Medium,"10,000 General Knowledge Questions",Q_0315
+General Knowledge,Health,Why is Louise Brown - born 1978 famous?,"['First clone', 'First test tube baby', 'Youngest graduate', 'Longest lived']",1,Medium,"10,000 General Knowledge Questions",Q_0316
+General Knowledge,Geography,Where can you find London bridge today?,"['London England', 'USA Arizona', 'Australia', 'Canada']",1,Medium,"10,000 General Knowledge Questions",Q_0317
+General Knowledge,Geography,What is largest state in USA?,"['Texas', 'Alaska', 'California', 'Montana']",1,Easy,"10,000 General Knowledge Questions",Q_0318
+General Knowledge,Geography,Which country grows most fruit?,"['India', 'Brazil', 'China', 'USA']",2,Medium,"10,000 General Knowledge Questions",Q_0319
+General Knowledge,Geography,What is capital of Ethiopia?,"['Nairobi', 'Addis Ababa', 'Lagos', 'Cairo']",1,Medium,"10,000 General Knowledge Questions",Q_0320
+General Knowledge,Geography,What is capital of Sicily?,"['Naples', 'Palermo', 'Catania', 'Messina']",1,Hard,"10,000 General Knowledge Questions",Q_0321
+General Knowledge,Geography,What is capital of Morocco?,"['Casablanca', 'Rabat', 'Marrakech', 'Fez']",1,Medium,"10,000 General Knowledge Questions",Q_0322
+General Knowledge,Geography,Brisbane is state capital of which Australian state?,"['New South Wales', 'Queensland', 'Victoria', 'Western Australia']",1,Medium,"10,000 General Knowledge Questions",Q_0323
+General Knowledge,Geography,"Which connects Delft, Sevres, Wedgwood, Chelsea?","['Rivers', 'Porcelain', 'Castles', 'Universities']",1,Hard,"10,000 General Knowledge Questions",Q_0324
+General Knowledge,Geography,What is longest river in Italy?,"['Tiber', 'Po', 'Arno', 'Adige']",1,Medium,"10,000 General Knowledge Questions",Q_0325
+General Knowledge,Geography,Venice stands on what river?,"['Po', 'Arno', 'Tiber', 'Adige']",1,Medium,"10,000 General Knowledge Questions",Q_0326
+General Knowledge,Geography,Which European country is divided into Cantons?,"['Germany', 'Switzerland', 'Austria', 'Belgium']",1,Medium,"10,000 General Knowledge Questions",Q_0327
+General Knowledge,Geography,Where in France do claret wines come from?,"['Champagne', 'Bordeaux', 'Burgundy', 'Loire']",1,Medium,"10,000 General Knowledge Questions",Q_0328
+General Knowledge,Geography,"What links Catalonia, Andalusia, Cantabria, Galicia?","['Rivers of Spain', 'Regions of Spain', 'Mountains of Spain', 'Cities of Spain']",1,Hard,"10,000 General Knowledge Questions",Q_0329
+General Knowledge,Geography,"What links Calabria, Liguria, Puglia and Veneto?","['Rivers of Italy', 'Regions of Italy', 'Mountains of Italy', 'Cities of Italy']",1,Hard,"10,000 General Knowledge Questions",Q_0330
+General Knowledge,Geography,In which country would you find Negev desert?,"['Jordan', 'Israel', 'Syria', 'Egypt']",1,Medium,"10,000 General Knowledge Questions",Q_0331
+General Knowledge,Geography,In what country are Drakesberg mountains?,"['Zimbabwe', 'South Africa', 'Botswana', 'Namibia']",1,Hard,"10,000 General Knowledge Questions",Q_0332
+General Knowledge,Geography,What is Hindu Kush?,"['River', 'Mountain Range', 'Desert', 'Valley']",1,Medium,"10,000 General Knowledge Questions",Q_0333
+General Knowledge,Geography,Calligari is capital of what island?,"['Sicily', 'Sardinia', 'Corsica', 'Crete']",1,Hard,"10,000 General Knowledge Questions",Q_0334
+General Knowledge,Geography,Which American state is nicknamed Diamond State?,"['Nevada', 'Delaware', 'Arkansas', 'South Dakota']",1,Hard,"10,000 General Knowledge Questions",Q_0335
+General Knowledge,Geography,What is state capitol of New Jersey?,"['Newark', 'Trenton', 'Camden', 'Jersey City']",1,Hard,"10,000 General Knowledge Questions",Q_0336
+General Knowledge,Geography,Mason-Dixon line separates Pennsylvania and what state?,"['New York', 'Maryland', 'Delaware', 'New Jersey']",1,Hard,"10,000 General Knowledge Questions",Q_0337
+General Knowledge,Geography,Angel falls Venezuela highest but where second highest?,"['Niagara USA', 'Yosemite USA', 'Victoria Zimbabwe', 'Iguazu Brazil']",1,Hard,"10,000 General Knowledge Questions",Q_0338
+General Knowledge,Geography,Zambia and Zimbabwe used to be called what?,"['British East Africa', 'Rhodesia', 'Northern Territories', 'Southern Africa']",1,Medium,"10,000 General Knowledge Questions",Q_0339
+General Knowledge,Geography,Until 1971 what was name of Zaire?,"['Belgian Congo', 'Congo', 'French Congo', 'Central Africa']",1,Medium,"10,000 General Knowledge Questions",Q_0340
+General Knowledge,Geography,"What linked Armenia, Georgia, Latvia and Moldavia?","['Warsaw Pact', 'USSR', 'Comecon', 'Soviet Bloc']",1,Medium,"10,000 General Knowledge Questions",Q_0341
+General Knowledge,Geography,If someone said they were from Hellas - which country?,"['Turkey', 'Greece', 'Italy', 'Cyprus']",1,Hard,"10,000 General Knowledge Questions",Q_0342
+General Knowledge,Geography,City in Rajasthan has riding breeches named after it?,"['Jaipur', 'Jodhpur', 'Udaipur', 'Bikaner']",1,Medium,"10,000 General Knowledge Questions",Q_0343
+General Knowledge,Geography,Where did Pied Piper play?,"['Bremen', 'Hamelin', 'Munich', 'Cologne']",1,Medium,"10,000 General Knowledge Questions",Q_0344
+General Knowledge,Geography,To where in France do sick make pilgrimages?,"['Lourdes', 'Avignon', 'Chartres', 'Mont-Saint-Michel']",0,Medium,"10,000 General Knowledge Questions",Q_0345
+General Knowledge,Geography,In which city was famous black hole?,"['Delhi', 'Calcutta', 'Bombay', 'Madras']",1,Medium,"10,000 General Knowledge Questions",Q_0346
+General Knowledge,Geography,"What are Sirocco, Mistral and Chinook?","['Rivers', 'Winds', 'Mountains', 'Deserts']",1,Medium,"10,000 General Knowledge Questions",Q_0347
+General Knowledge,Geography,Air Lingus is national airline of which country?,"['Scotland', 'Republic of Ireland', 'Wales', 'Northern Ireland']",1,Medium,"10,000 General Knowledge Questions",Q_0348
+General Knowledge,Space & Science,Who was first man in space?,"['Neil Armstrong', 'Buzz Aldrin', 'Yuri Gagarin', 'John Glenn']",2,Medium,"10,000 General Knowledge Questions",Q_0349
+General Knowledge,Science,Who discovered radium?,"['Einstein', 'The Curies', 'Newton', 'Darwin']",1,Medium,"10,000 General Knowledge Questions",Q_0350
+General Knowledge,Inventions,Who invented television?,"['Thomas Edison', 'John Logie Baird', 'Nikola Tesla', 'Alexander Graham Bell']",1,Medium,"10,000 General Knowledge Questions",Q_0351
+General Knowledge,Inventions,How did Alfred Nobel make his money?,"['Oil drilling', 'He invented Dynamite', 'Banking', 'Mining']",1,Medium,"10,000 General Knowledge Questions",Q_0352
+General Knowledge,Inventions,Christopher Cockerel invented what?,"['Helicopter', 'Hovercraft', 'Hydrofoil', 'Hang glider']",1,Medium,"10,000 General Knowledge Questions",Q_0353
+General Knowledge,Inventions,What did mathematician John Napier invent in 1614?,"['Calculus', 'Logarithms', 'Geometry', 'Algebra']",1,Hard,"10,000 General Knowledge Questions",Q_0354
+General Knowledge,Inventions,What calculating aid invented by William Oughtred in 1662?,"['Abacus', 'Slide Rule', 'Adding machine', 'Calculator']",1,Hard,"10,000 General Knowledge Questions",Q_0355
+General Knowledge,Inventions,What was invented by Dr Edward Land in 1947?,"['Television', 'Polaroid camera', 'Transistor', 'Laser']",1,Medium,"10,000 General Knowledge Questions",Q_0356
+General Knowledge,Inventions,What was invented by James Dewer in 1872?,"['Refrigerator', 'Vacuum flask', 'Ice machine', 'Freezer']",1,Hard,"10,000 General Knowledge Questions",Q_0357
+General Knowledge,Inventions,Whitcome Judson in 1891 invented what for fastening shoes?,"['Shoelaces', 'Zip Fastener', 'Velcro', 'Buckles']",1,Medium,"10,000 General Knowledge Questions",Q_0358
+General Knowledge,Inventions,In 1656 Christian Huygens invented what type of timekeeper?,"['Digital clock', 'Pendulum clock', 'Spring watch', 'Sundial']",1,Hard,"10,000 General Knowledge Questions",Q_0359
+General Knowledge,Science,Clyde Tonbaugh discovered what planet in 1930?,"['Neptune', 'Pluto', 'Uranus', 'Mars']",1,Medium,"10,000 General Knowledge Questions",Q_0360
+General Knowledge,Science,What is common name for star Sirius?,"['North Star', 'Dog Star', 'Evening Star', 'Morning Star']",1,Medium,"10,000 General Knowledge Questions",Q_0361
+General Knowledge,Science,What is mainly extracted from pitchblende?,"['Gold', 'Uranium', 'Silver', 'Platinum']",1,Hard,"10,000 General Knowledge Questions",Q_0362
+General Knowledge,Science,Mohs scale hardest substance is diamond - what's softest?,"['Graphite', 'Talc', 'Gypsum', 'Calcite']",1,Medium,"10,000 General Knowledge Questions",Q_0363
+General Knowledge,Science,What type of acid is used in car batteries?,"['Hydrochloric', 'Sulphuric', 'Nitric', 'Phosphoric']",1,Medium,"10,000 General Knowledge Questions",Q_0364
+General Knowledge,Science,Kimberlite contains what precious item?,"['Gold', 'Diamonds', 'Rubies', 'Emeralds']",1,Hard,"10,000 General Knowledge Questions",Q_0365
+General Knowledge,Science,In 1643 Evangalisa Torichelli invented first what?,"['Thermometer', 'Barometer', 'Telescope', 'Microscope']",1,Hard,"10,000 General Knowledge Questions",Q_0366
+General Knowledge,Science,Karl Lienstater discovered which medical breakthrough in 1901?,"['X-rays', 'ABO Blood Groups', 'Penicillin', 'Insulin']",1,Hard,"10,000 General Knowledge Questions",Q_0367
+General Knowledge,Science,In 1953 what was first successfully transmitted in USA?,"['Radio', 'Television', 'Colour Television', 'Telephone']",2,Medium,"10,000 General Knowledge Questions",Q_0368
+General Knowledge,Science,"Gregory Pincus, John Rock, Gerhart Domangk developed what?","['Aspirin', 'Oral Contraceptive', 'Insulin', 'Antibiotics']",1,Hard,"10,000 General Knowledge Questions",Q_0369
+General Knowledge,Science,What was world's first high level programming language 1957?,"['COBOL', 'IBM FORTRAN', 'BASIC', 'ALGOL']",1,Hard,"10,000 General Knowledge Questions",Q_0370
+General Knowledge,Science,Linus Torwalds invented and wrote what?,"['Windows', 'Linux computer operating system', 'Internet', 'World Wide Web']",1,Medium,"10,000 General Knowledge Questions",Q_0371
+General Knowledge,Science,Which country introduced world's first diesel loco in 1912?,"['Britain', 'Germany', 'USA', 'France']",1,Hard,"10,000 General Knowledge Questions",Q_0372
+General Knowledge,Science,Gloucester E 28/39 first flew in 1941 - what was unusual?,"['No wings', 'Whittle Jet Engine', 'No pilot', 'Solar powered']",1,Hard,"10,000 General Knowledge Questions",Q_0373
+General Knowledge,Science,In 1971 which USA space probe first to orbit another planet?,"['Viking 1', 'Mariner 9', 'Pioneer 10', 'Voyager 1']",1,Hard,"10,000 General Knowledge Questions",Q_0374
+General Knowledge,Science,In 1901 who first transmitted radio signals across Atlantic?,"['Edison', 'Marconi', 'Tesla', 'Bell']",1,Medium,"10,000 General Knowledge Questions",Q_0375
+General Knowledge,Science,What weapon was invented by Ernest Swinton used in 1916?,"['Machine gun', 'Tank', 'Flame thrower', 'Poison gas']",1,Medium,"10,000 General Knowledge Questions",Q_0376
+General Knowledge,Science,Which medical tool was developed by Sanctorius in 1612?,"['Stethoscope', 'Thermometer', 'Syringe', 'Scalpel']",1,Hard,"10,000 General Knowledge Questions",Q_0377
+General Knowledge,Science,Rene Laennac invented which aid for doctors in 1810?,"['X-ray machine', 'Stethoscope', 'Thermometer', 'Blood pressure cuff']",1,Medium,"10,000 General Knowledge Questions",Q_0378
+General Knowledge,Science,In 1666 Jesuit Bark was used as prevention against what?,"['Plague', 'Malaria', 'Smallpox', 'Cholera']",1,Hard,"10,000 General Knowledge Questions",Q_0379
+General Knowledge,Science,What staple food of one third of world's population?,"['Wheat', 'Rice', 'Corn', 'Potatoes']",1,Easy,"10,000 General Knowledge Questions",Q_0380
+General Knowledge,Literature,Who wrote Gone with Wind?,"['Harper Lee', 'Margaret Mitchell', 'Louisa May Alcott', 'Jane Austen']",1,Medium,"10,000 General Knowledge Questions",Q_0381
+General Knowledge,Literature,Eric Arthur Blair was real name of which author?,"['C.S. Lewis', 'George Orwell', 'Aldous Huxley', 'H.G. Wells']",1,Medium,"10,000 General Knowledge Questions",Q_0382
+General Knowledge,Literature,Who wrote Man in Iron Mask?,"['Victor Hugo', 'Alexander Dumas', 'Voltaire', 'Balzac']",1,Medium,"10,000 General Knowledge Questions",Q_0383
+General Knowledge,Literature,Who wrote Northanger Abbey?,"['Charlotte Bronte', 'Jane Austen', 'George Eliot', 'Virginia Woolf']",1,Medium,"10,000 General Knowledge Questions",Q_0384
+General Knowledge,Literature,Who wrote Catch 22?,"['Norman Mailer', 'Joseph Heller', 'Kurt Vonnegut', 'Philip Roth']",1,Medium,"10,000 General Knowledge Questions",Q_0385
+General Knowledge,Literature,Who wrote Gulliver's Travels?,"['Daniel Defoe', 'Jonathan Swift', 'Samuel Johnson', 'Alexander Pope']",1,Medium,"10,000 General Knowledge Questions",Q_0386
+General Knowledge,Literature,Who wrote Brave New World?,"['George Orwell', 'Aldous Huxley', 'H.G. Wells', 'Isaac Asimov']",1,Medium,"10,000 General Knowledge Questions",Q_0387
+General Knowledge,Literature,Who created children's land of Narnia?,"['J.R.R. Tolkien', 'C.S. Lewis', 'Roald Dahl', 'Lewis Carroll']",1,Medium,"10,000 General Knowledge Questions",Q_0388
+General Knowledge,Literature,Who wrote Rights of Man and Age of Reason?,"['John Locke', 'Thomas Paine', 'Voltaire', 'Rousseau']",1,Hard,"10,000 General Knowledge Questions",Q_0389
+General Knowledge,Literature,Carlo Collodi created which famous children's character?,"['Alice', 'Pinocchio', 'Peter Pan', 'Cinderella']",1,Medium,"10,000 General Knowledge Questions",Q_0390
+General Knowledge,Literature,Who wrote children's novel Swallows and Amazons?,"['Enid Blyton', 'Arthur Ransome', 'Kenneth Grahame', 'E. Nesbit']",1,Hard,"10,000 General Knowledge Questions",Q_0391
+General Knowledge,Literature,Edgar Rice Burroughs created which character in 1914?,"['Superman', 'Tarzan', 'Batman', 'Flash Gordon']",1,Medium,"10,000 General Knowledge Questions",Q_0392
+General Knowledge,Literature,Who wrote 39 Steps?,"['Ian Fleming', 'John Buchan', 'Graham Greene', 'Eric Ambler']",1,Medium,"10,000 General Knowledge Questions",Q_0393
+General Knowledge,Literature,Whose autobiography was The Long Walk to Freedom?,"['Gandhi', 'Nelson Mandela', 'Martin Luther King', 'Desmond Tutu']",1,Medium,"10,000 General Knowledge Questions",Q_0394
+General Knowledge,Literature,Who wrote Thin Man in 1934?,"['Raymond Chandler', 'Dashiell Hammett', 'Agatha Christie', 'Dorothy Sayers']",1,Hard,"10,000 General Knowledge Questions",Q_0395
+General Knowledge,Literature,Who wrote novel Love Story?,"['Nicholas Sparks', 'Erich Segal', 'John Green', 'Danielle Steel']",1,Hard,"10,000 General Knowledge Questions",Q_0396
+General Knowledge,Literature,Who wrote about Willie Wonka and Chocolate Factory?,"['Enid Blyton', 'Roald Dahl', 'Dr. Seuss', 'Maurice Sendak']",1,Easy,"10,000 General Knowledge Questions",Q_0397
+General Knowledge,Literature,Who wrote Billy Budd and Moby Dick?,"['Mark Twain', 'Herman Melville', 'Edgar Allan Poe', 'Nathaniel Hawthorne']",1,Medium,"10,000 General Knowledge Questions",Q_0398
+General Knowledge,Literature,What other name is Mellor famously known by?,"['Mr. Darcy', ""Lady Chatterley's Lover"", 'Rochester', 'Heathcliff']",1,Hard,"10,000 General Knowledge Questions",Q_0399
+General Knowledge,Literature,Title of whose book translates as my struggle?,"['Napoleon', 'Adolf Hitler', 'Stalin', 'Mussolini']",1,Medium,"10,000 General Knowledge Questions",Q_0400
+General Knowledge,Literature,Thomas Harris created which character?,"['Sherlock Holmes', 'Hannibal Lecter', 'James Bond', 'Hercule Poirot']",1,Medium,"10,000 General Knowledge Questions",Q_0401
+General Knowledge,Literature,Dodie Smith wrote what book later filmed by Disney?,"['Bambi', '101 Dalmatians', 'Lady and Tramp', 'Jungle Book']",1,Medium,"10,000 General Knowledge Questions",Q_0402
+General Knowledge,Business,Which company is owned by Bill Gates?,"['Apple', 'Microsoft', 'Google', 'IBM']",1,Easy,"10,000 General Knowledge Questions",Q_0403
+General Knowledge,Economics,What in business terms is IMF?,"['International Marketing Fund', 'International Monetary Fund', 'International Management Forum', 'International Money Foundation']",1,Medium,"10,000 General Knowledge Questions",Q_0404
+General Knowledge,Business,In what industry did John Davidson Rockefeller get rich?,"['Steel', 'Oil', 'Railways', 'Banking']",1,Medium,"10,000 General Knowledge Questions",Q_0405
+General Knowledge,Business,Which car company makes Celica?,"['Honda', 'Toyota', 'Nissan', 'Mazda']",1,Medium,"10,000 General Knowledge Questions",Q_0406
+General Knowledge,Business,In 1951 which car companies introduced power steering?,"['Ford - General Motors', 'Buick - Chrysler', 'Cadillac - Lincoln', 'Chevrolet - Dodge']",1,Hard,"10,000 General Knowledge Questions",Q_0407
+General Knowledge,Business,In 1901 which brand of car was seen for first time?,"['Ford', 'Mercedes', 'Rolls Royce', 'Cadillac']",1,Medium,"10,000 General Knowledge Questions",Q_0408
+General Knowledge,Business,What car company made first glass fibre racing car?,"['Ferrari', 'Lotus', 'Porsche', 'Maserati']",1,Hard,"10,000 General Knowledge Questions",Q_0409
+General Knowledge,Business,Which country set up world's first chemistry lab in 1650?,"['England', 'Netherlands', 'Germany', 'France']",1,Hard,"10,000 General Knowledge Questions",Q_0410
+General Knowledge,Business,Henry Ford used assembly line in 1908 but someone before 1901?,"['Oldsmobile', 'Ransome Olds', 'Cadillac', 'Packard']",1,Hard,"10,000 General Knowledge Questions",Q_0411
+General Knowledge,Business,Woolworth's 5/10 cent store started in which US state 1879?,"['New York', 'Lancaster Pennsylvania', 'Ohio', 'Michigan']",1,Hard,"10,000 General Knowledge Questions",Q_0412
+General Knowledge,Currency,What is currency of Austria?,"['Deutsche Mark', 'Schilling', 'Franc', 'Krona']",1,Medium,"10,000 General Knowledge Questions",Q_0413
+General Knowledge,Famous People,Rudy Stevens became famous under which name?,"['Marilyn Monroe', 'Barbara Stanwyck', 'Greta Garbo', 'Joan Crawford']",1,Hard,"10,000 General Knowledge Questions",Q_0414
+General Knowledge,Famous People,Alan Stuart Konigsberg famous as who?,"['Groucho Marx', 'Woody Allen', 'Mel Brooks', 'Neil Simon']",1,Medium,"10,000 General Knowledge Questions",Q_0415
+General Knowledge,Famous People,Benjamin Kubelsky 1894 fame as what comedian?,"['Bob Hope', 'Jack Benny', 'George Burns', 'Milton Berle']",1,Hard,"10,000 General Knowledge Questions",Q_0416
+General Knowledge,Famous People,Issur Danielovitch became famous as who?,"['Tony Curtis', 'Kirk Douglas', 'Burt Lancaster', 'Rock Hudson']",1,Hard,"10,000 General Knowledge Questions",Q_0417
+General Knowledge,Famous People,Robert Alan Zimmerman real name of who?,"['Leonard Cohen', 'Bob Dylan', 'Neil Young', 'Joni Mitchell']",1,Medium,"10,000 General Knowledge Questions",Q_0418
+General Knowledge,Famous People,Roy Scherer jr became famous as who?,"['Cary Grant', 'Rock Hudson', 'Tab Hunter', 'Troy Donahue']",1,Hard,"10,000 General Knowledge Questions",Q_0419
+General Knowledge,Famous People,Randolph Crane became famous as which cowboy actor?,"['John Wayne', 'Randolph Scott', 'Gary Cooper', 'James Stewart']",1,Hard,"10,000 General Knowledge Questions",Q_0420
+General Knowledge,Famous People,Annie Mae Bullock became famous under which name?,"['Diana Ross', 'Tina Turner', 'Aretha Franklin', 'Whitney Houston']",1,Medium,"10,000 General Knowledge Questions",Q_0421
+General Knowledge,Famous People,What was Erich Weiss better known as?,"['Buffalo Bill', 'Harry Houdini', 'P.T. Barnum', 'Annie Oakley']",1,Medium,"10,000 General Knowledge Questions",Q_0422
+General Knowledge,Movies,Who starred as Rocky Balboa?,"['Robert De Niro', 'Al Pacino', 'Sylvester Stallone', 'Arnold Schwarzenegger']",2,Easy,"10,000 General Knowledge Questions",Q_0423
+General Knowledge,Movies,Who has won most Oscars?,"['Steven Spielberg', 'Walt Disney', 'Alfred Hitchcock', 'Martin Scorsese']",1,Medium,"10,000 General Knowledge Questions",Q_0424
+General Knowledge,Movies,"What 1991 film won best film, actor, actress, director Oscars?","['Goodfellas', 'Silence of the Lambs', 'JFK', 'Terminator 2']",1,Medium,"10,000 General Knowledge Questions",Q_0425
+General Knowledge,Movies,What was first James Bond film?,"['From Russia with Love', 'Dr No', 'Goldfinger', 'Thunderball']",1,Medium,"10,000 General Knowledge Questions",Q_0426
+General Knowledge,Movies,What was first James Bond book?,"['From Russia with Love', 'Casino Royale', 'Live and Let Die', 'Moonraker']",1,Medium,"10,000 General Knowledge Questions",Q_0427
+General Knowledge,Movies,Which 1993 Disney film starred Bette Midler as witch?,"['The Witches', 'Hocus Pocus', 'Practical Magic', 'The Craft']",1,Medium,"10,000 General Knowledge Questions",Q_0428
+General Knowledge,Movies,Robin Williams dressed in drag for which 1993 film?,"['The Birdcage', 'Mrs Doubtfire', 'Tootsie', 'Some Like It Hot']",1,Easy,"10,000 General Knowledge Questions",Q_0429
+General Knowledge,Movies,"Who directed Dr Strangelove, 2001, The Shining?","['Alfred Hitchcock', 'Stanley Kubrick', 'Francis Ford Coppola', 'Steven Spielberg']",1,Medium,"10,000 General Knowledge Questions",Q_0430
+General Knowledge,Movies,Which film had song Springtime for Hitler?,"['Cabaret', 'The Producers', 'Chicago', 'Moulin Rouge']",1,Medium,"10,000 General Knowledge Questions",Q_0431
+General Knowledge,Movies,In Casablanca what is name of nightclub?,"['Blue Moon', ""Rick's"", 'Café American', 'Casa Blanca']",1,Medium,"10,000 General Knowledge Questions",Q_0432
+General Knowledge,Movies,What was name of plantation in Gone with Wind?,"['Twelve Oaks', 'Tara', 'Ashley Wilkes', 'Scarlett']",1,Medium,"10,000 General Knowledge Questions",Q_0433
+General Knowledge,Movies,Who won Oscar for African Queen?,"['Katharine Hepburn', 'Humphrey Bogart', 'Both', 'Neither']",1,Medium,"10,000 General Knowledge Questions",Q_0434
+General Knowledge,Movies,Who won Oscar for best supporting actor in Spartacus 1960?,"['Laurence Olivier', 'Peter Ustinov', 'Charles Laughton', 'John Gavin']",1,Hard,"10,000 General Knowledge Questions",Q_0435
+General Knowledge,Movies,Which actress starred in original King Kong 1933?,"['Jean Harlow', 'Fay Wray', 'Greta Garbo', 'Mae West']",1,Medium,"10,000 General Knowledge Questions",Q_0436
+General Knowledge,Movies,Ray Bolger played who in Wizard of Oz?,"['Tin Man', 'Scarecrow', 'Cowardly Lion', 'Wizard']",1,Medium,"10,000 General Knowledge Questions",Q_0437
+General Knowledge,Movies,Who did Michael Caine play in Ipcress File?,"['John Palmer', 'Harry Palmer', 'James Palmer', 'Tom Palmer']",1,Hard,"10,000 General Knowledge Questions",Q_0438
+General Knowledge,Movies,"Great Escape cast included Garner, Attenborough, McQueen, Bronson, etc?","['World War II', 'The Great Escape', 'Prison Break', 'Escape Movie']",1,Medium,"10,000 General Knowledge Questions",Q_0439
+General Knowledge,Animals,Which animal lays eggs?,"['Kangaroo', 'Whale', 'Duck billed platypus', 'Dolphin']",2,Medium,"10,000 General Knowledge Questions",Q_0440
+General Knowledge,Animals,What are bactrians and dromedaries?,"['Llamas', 'Camels', 'Horses', 'Sheep']",1,Medium,"10,000 General Knowledge Questions",Q_0441
+General Knowledge,Animals,What kind of animal is lurcher?,"['Cat', 'Dog', 'Horse', 'Rabbit']",1,Medium,"10,000 General Knowledge Questions",Q_0442
+General Knowledge,Animals,What is baby rabbit called?,"['Bunny', 'Kit or Kitten', 'Pup', 'Cub']",1,Easy,"10,000 General Knowledge Questions",Q_0443
+General Knowledge,Animals,It's flock of sheep what's group of owls called?,"['Herd', 'Parliament', 'Flock', 'Pack']",1,Medium,"10,000 General Knowledge Questions",Q_0444
+General Knowledge,Animals,What animal would you find in form?,"['Fox', 'Hare', 'Rabbit', 'Deer']",1,Hard,"10,000 General Knowledge Questions",Q_0445
+General Knowledge,Animals,What animal lives in drey?,"['Bird', 'Squirrel', 'Mouse', 'Bat']",1,Hard,"10,000 General Knowledge Questions",Q_0446
+General Knowledge,Animals,Who or what lives in formicarium?,"['Bees', 'Ants', 'Wasps', 'Termites']",1,Hard,"10,000 General Knowledge Questions",Q_0447
+General Knowledge,Animals,What plant does Colorado beetle attack?,"['Corn', 'Potato', 'Tomato', 'Wheat']",1,Medium,"10,000 General Knowledge Questions",Q_0448
+General Knowledge,Animals,Bander macaque has which commoner name?,"['Baboon', 'Rhesus Monkey', 'Chimpanzee', 'Orangutan']",1,Hard,"10,000 General Knowledge Questions",Q_0449
+General Knowledge,Animals,Kinkajou belongs to what family of animals?,"['Cat', 'Raccoon', 'Bear', 'Monkey']",1,Hard,"10,000 General Knowledge Questions",Q_0450
+General Knowledge,Animals,What animals name translates as water horse?,"['Walrus', 'Hippopotamus', 'Sea horse', 'Manatee']",1,Medium,"10,000 General Knowledge Questions",Q_0451
+General Knowledge,Animals,Ictheologists study what?,"['Insects', 'Fish', 'Birds', 'Reptiles']",1,Hard,"10,000 General Knowledge Questions",Q_0452
+General Knowledge,Animals,What is common name for dunnock?,"['Robin', 'Hedge Sparrow', 'Wren', 'Blackbird']",1,Hard,"10,000 General Knowledge Questions",Q_0453
+General Knowledge,Animals,Which highwayman rode horse Black Bess?,"['Robin Hood', 'Dick Turpin', 'Jesse James', 'Butch Cassidy']",1,Medium,"10,000 General Knowledge Questions",Q_0454
+General Knowledge,Animals,What shape were sailors plates in Nelson's navy?,"['Round', 'Square', 'Triangular', 'Oval']",1,Hard,"10,000 General Knowledge Questions",Q_0455
+General Knowledge,Food & Drinks,What spirit mixed with ginger beer in Moscow mule?,"['Rum', 'Vodka', 'Whiskey', 'Gin']",1,Medium,"10,000 General Knowledge Questions",Q_0456
+General Knowledge,Food & Drinks,What would you do with maris piper?,"['Plant it', ""Eat it - it's a potato"", 'Wear it', 'Read it']",1,Medium,"10,000 General Knowledge Questions",Q_0457
+General Knowledge,Food & Drinks,What would Scotsman do with spurtle?,"['Wear it', 'Eat porridge with it', 'Play music', 'Fight with it']",1,Hard,"10,000 General Knowledge Questions",Q_0458
+General Knowledge,Food & Drinks,Which non alcoholic cordial made from pomegranates?,"['Elderflower', 'Grenadine', 'Rose water', 'Orange flower']",1,Medium,"10,000 General Knowledge Questions",Q_0459
+General Knowledge,Food & Drinks,What kind of food is Cullan Skink?,"['Meat', 'Fish soup', 'Vegetable', 'Bread']",1,Hard,"10,000 General Knowledge Questions",Q_0460
+General Knowledge,Food & Drinks,What type of food is Taramasalata?,"['Greek cheese', 'Cured cod roe', 'Olive paste', 'Yogurt dip']",1,Medium,"10,000 General Knowledge Questions",Q_0461
+General Knowledge,Food & Drinks,What food is tofu made from?,"['Rice', 'Soya Bean', 'Wheat', 'Corn']",1,Easy,"10,000 General Knowledge Questions",Q_0462
+General Knowledge,Food & Drinks,What is main ingredient of Maron glace?,"['Almonds', 'Chestnuts', 'Walnuts', 'Hazelnuts']",1,Hard,"10,000 General Knowledge Questions",Q_0463
+General Knowledge,Food & Drinks,What is Islamic equal to red cross?,"['Green Crescent', 'Red Crescent', 'Blue Cross', 'White Cross']",1,Medium,"10,000 General Knowledge Questions",Q_0464
+General Knowledge,Food & Drinks,What did Jack Horner pull from his pie?,"['Apple', 'Plum', 'Cherry', 'Blackbird']",1,Easy,"10,000 General Knowledge Questions",Q_0465
+General Knowledge,Food & Drinks,What was given on fourth day of Christmas?,"['French hens', 'Calling birds', 'Gold rings', 'Geese a-laying']",1,Medium,"10,000 General Knowledge Questions",Q_0466
+General Knowledge,Food & Drinks,What's missing from ale that's included in beer?,"['Yeast', 'Hops', 'Barley', 'Water']",1,Medium,"10,000 General Knowledge Questions",Q_0467
+General Knowledge,Food & Drinks,Fuggles and Goldings are varieties of what?,"['Grapes', 'Hops', 'Barley', 'Apples']",1,Hard,"10,000 General Knowledge Questions",Q_0468
+General Knowledge,Food & Drinks,What is Damson Cheese?,"['Type of cheese', 'Thick Damson Jam', 'Wine', 'Pickle']",1,Hard,"10,000 General Knowledge Questions",Q_0469
+General Knowledge,Food & Drinks,Oil seed rape belongs to which plant family?,"['Rose', 'Mustard', 'Cabbage', 'Legume']",1,Medium,"10,000 General Knowledge Questions",Q_0470
+General Knowledge,Food & Drinks,Camellia Sinensis evergreen shrub better known as what?,"['Coffee', 'Tea', 'Cocoa', 'Spice']",1,Medium,"10,000 General Knowledge Questions",Q_0471
+General Knowledge,Food & Drinks,Viticulture is growing of what plants?,"['Vegetables', 'Vines', 'Flowers', 'Trees']",1,Medium,"10,000 General Knowledge Questions",Q_0472
+General Knowledge,Religion,Who betrayed Jesus to Romans?,"['Peter', 'Paul', 'Judas Escariot', 'Matthew']",2,Easy,"10,000 General Knowledge Questions",Q_0473
+General Knowledge,Religion,What is correct term of address to Pope?,"['Your Holiness', 'Your Eminence', 'Your Grace', 'Your Excellency']",0,Medium,"10,000 General Knowledge Questions",Q_0474
+General Knowledge,Religion,Which group believes in Great Architect of Universe?,"['Catholics', 'Freemasons', 'Protestants', 'Muslims']",1,Hard,"10,000 General Knowledge Questions",Q_0475
+General Knowledge,Religion,In Old Testament what book comes between Obadiah - Micah?,"['Nahum', 'Jonah', 'Habakkuk', 'Zephaniah']",1,Hard,"10,000 General Knowledge Questions",Q_0476
+General Knowledge,Religion,In Bible who did God appear to on Mount Horeb?,"['Abraham', 'Moses', 'Elijah', 'David']",1,Medium,"10,000 General Knowledge Questions",Q_0477
+General Knowledge,Religion,St John Divine wrote which book of Bible?,"['Genesis', 'Revelations', 'John', 'Acts']",1,Medium,"10,000 General Knowledge Questions",Q_0478
+General Knowledge,Religion,Who is patron saint of Gypsies?,"['St. Christopher', 'St Sarah', 'St. Anthony', 'St. Francis']",1,Hard,"10,000 General Knowledge Questions",Q_0479
+General Knowledge,Religion,"What religion links Weasak, Dhrammacacka, and Bhodi day?","['Hindu', 'Buddhist', 'Jain', 'Sikh']",1,Hard,"10,000 General Knowledge Questions",Q_0480
+General Knowledge,Religion,"Duvali, Dushira and Holi are religious days in which religion?","['Buddhist', 'Hindu', 'Sikh', 'Jain']",1,Medium,"10,000 General Knowledge Questions",Q_0481
+General Knowledge,Religion,In Japan what is Seppuku?,"['Tea ceremony', 'Hari Kari - suicide', 'Flower arranging', 'Martial art']",1,Medium,"10,000 General Knowledge Questions",Q_0482
+General Knowledge,Religion,Only one woman's lifespan given in Bible - Who?,"['Eve', 'Sarah Wife of Abraham', 'Mary', 'Ruth']",1,Hard,"10,000 General Knowledge Questions",Q_0483
+General Knowledge,Greek Mythology,In Greek mythology who killed Gorgon?,"['Hercules', 'Perseus', 'Theseus', 'Jason']",1,Medium,"10,000 General Knowledge Questions",Q_0484
+General Knowledge,Greek Mythology,Who was son of Zeus and Maia - Gods Messenger?,"['Apollo', 'Hermes', 'Ares', 'Dionysus']",1,Medium,"10,000 General Knowledge Questions",Q_0485
+General Knowledge,Greek Mythology,In Greek mythology Hamadryads spirit guarded what?,"['Rivers', 'Trees', 'Mountains', 'Seas']",1,Hard,"10,000 General Knowledge Questions",Q_0486
+General Knowledge,Greek Mythology,Jocasta was wife of Laius and mother of who?,"['Perseus', 'Oedipus', 'Theseus', 'Hercules']",1,Hard,"10,000 General Knowledge Questions",Q_0487
+General Knowledge,Greek Mythology,Who was last king of Troy killed by Achilles son Pyrrhus?,"['Hector', 'Priam', 'Paris', 'Aeneas']",1,Hard,"10,000 General Knowledge Questions",Q_0488
+General Knowledge,Greek Mythology,Who was son of Poseidon and Ampherite?,"['Triton', 'Perseus', 'Theseus', 'Orion']",0,Hard,"10,000 General Knowledge Questions",Q_0489
+General Knowledge,Greek Mythology,Which mythological King chained grapes rose water fell?,"['Midas', 'Tantalus', 'Sisyphus', 'Ixion']",1,Hard,"10,000 General Knowledge Questions",Q_0490
+General Knowledge,Greek Mythology,What was Roman goddess of hearth?,"['Diana', 'Vesta', 'Minerva', 'Ceres']",1,Medium,"10,000 General Knowledge Questions",Q_0491
+General Knowledge,Greek Mythology,Which Athenian philosopher wrote nothing - immortalised by Plato?,"['Aristotle', 'Socrates', 'Pythagoras', 'Heraclitus']",1,Medium,"10,000 General Knowledge Questions",Q_0492
+General Knowledge,Greek Mythology,Which eponymous character was Thane of Cawder Glaimes?,"['Hamlet', 'Macbeth', 'Othello', 'King Lear']",1,Hard,"10,000 General Knowledge Questions",Q_0493
+General Knowledge,Culture & Religion,What would you do with Yashmak?,"['Eat it', 'Wear it', 'Play it', 'Build with it']",1,Medium,"10,000 General Knowledge Questions",Q_0494
+General Knowledge,Christmas,In song Waltzing Matilda - What is Jumbuck?,"['Horse', 'Sheep', 'Cow', 'Kangaroo']",1,Hard,"10,000 General Knowledge Questions",Q_0495
+General Knowledge,Fairy Tales,What does ring a ring a roses refer to?,"['Wedding', 'The Black Death', 'Spring festival', ""Children's game""]",1,Medium,"10,000 General Knowledge Questions",Q_0496
+General Knowledge,Fairy Tales,Whose nose grew when he told lie?,"['Peter Pan', 'Pinocchio', 'Jack', 'Hansel']",1,Easy,"10,000 General Knowledge Questions",Q_0497
+General Knowledge,Fairy Tales,In fable who sold cow for five beans?,"['Tom', 'Jack', 'Peter', 'John']",1,Easy,"10,000 General Knowledge Questions",Q_0498
+General Knowledge,Awards,Which award has words for valour on it?,"['Medal of Honor', 'Victoria Cross', 'Purple Heart', 'Bronze Star']",1,Medium,"10,000 General Knowledge Questions",Q_0499
+General Knowledge,Professions,Who would take silk as part of their job?,"['Doctor', 'Barrister', 'Teacher', 'Farmer']",1,Medium,"10,000 General Knowledge Questions",Q_0500
+General Knowledge,Professions,Names - Baker Cook obvious what did Cordwainer do?,"['Make barrels', 'Shoemaker', 'Blacksmith', 'Tailor']",1,Hard,"10,000 General Knowledge Questions",Q_0501
+General Knowledge,Measurements,How many feet in fathom?,"['Three', 'Six', 'Eight', 'Ten']",1,Medium,"10,000 General Knowledge Questions",Q_0502
+General Knowledge,Phobias,Triskadeccaphobia is fear of what?,"['Heights', 'Number 13', 'Spiders', 'Water']",1,Hard,"10,000 General Knowledge Questions",Q_0503
+General Knowledge,Medicine,What does funambulist do?,"['Study fungi', 'Tightrope walker', 'Funeral director', 'Fortune teller']",1,Hard,"10,000 General Knowledge Questions",Q_0504
+General Knowledge,Collective Nouns,Collective nouns - A Chair of what tradesmen?,"['Carpenters', 'Glass Blowers', 'Masons', 'Plumbers']",1,Hard,"10,000 General Knowledge Questions",Q_0505
+General Knowledge,Family Terms,Distaff is female family side - what is male?,"['Sword', 'Spear', 'Shield', 'Lance']",1,Hard,"10,000 General Knowledge Questions",Q_0506
+General Knowledge,Cooking,In cookery how is something julienne prepared?,"['Diced', 'Thin Strips', 'Pureed', 'Whole']",1,Medium,"10,000 General Knowledge Questions",Q_0507
+General Knowledge,Slang,In Ireland what is Gombeen Man?,"['Farmer', 'Moneylender', 'Politician', 'Priest']",1,Hard,"10,000 General Knowledge Questions",Q_0508
+General Knowledge,Slang,In Australian slang what is dishlicker?,"['Cat', 'Dog', 'Child', 'Lazy person']",1,Hard,"10,000 General Knowledge Questions",Q_0509
+General Knowledge,Slang,In Australian slang what is underground Mutton?,"['Kangaroo', 'Cooked Rabbit', 'Wombat', 'Sheep']",1,Hard,"10,000 General Knowledge Questions",Q_0510
+General Knowledge,Slang,In Australian slang what is ten ounce sandwich?,"['Big sandwich', 'Liquid Lunch - Can of Beer', 'Small snack', 'Picnic']",1,Hard,"10,000 General Knowledge Questions",Q_0511
+General Knowledge,Slang,In Australian slang what kind of food is mystery bag?,"['Pie', 'Sausage', 'Pasty', 'Sandwich']",1,Hard,"10,000 General Knowledge Questions",Q_0512
+General Knowledge,Objects,What is Winston Churchill?,"['Drink', 'Cigar', 'Hat', 'Car']",1,Medium,"10,000 General Knowledge Questions",Q_0513
+General Knowledge,Objects,Where would you find howdah?,"['Ship', 'Back of Elephant', 'Castle', 'Church']",1,Hard,"10,000 General Knowledge Questions",Q_0514
+General Knowledge,Objects,What is Ha Ha?,"['Joke', 'Sunken Fence', 'Laugh', 'Game']",1,Hard,"10,000 General Knowledge Questions",Q_0515
+General Knowledge,Objects,What is fylfot heraldic name for what symbol?,"['Cross', 'Swastika', 'Star', 'Circle']",1,Hard,"10,000 General Knowledge Questions",Q_0516
+General Knowledge,Objects,What is Samsoe type of?,"['Wine', 'Cheese', 'Bread', 'Meat']",1,Hard,"10,000 General Knowledge Questions",Q_0517
+General Knowledge,Transport,What is travelator?,"['Elevator', 'Horizontal Escalator', 'Moving walkway', 'Revolving door']",1,Medium,"10,000 General Knowledge Questions",Q_0518
+General Knowledge,Transport,What is Japanese Shinkasen?,"['Bullet train', 'High speed Train', 'Subway', 'Monorail']",1,Medium,"10,000 General Knowledge Questions",Q_0519
+General Knowledge,Language,Word bungalow comes from which language?,"['English', 'Hindi', 'Arabic', 'Chinese']",1,Medium,"10,000 General Knowledge Questions",Q_0520
+General Knowledge,Language,Sabotage is French - What did saboteurs use?,"['Hammers', 'Shoes - sabot means shoe', 'Explosives', 'Fire']",1,Hard,"10,000 General Knowledge Questions",Q_0521
+General Knowledge,Language,In what country is language Fanti spoken?,"['Nigeria', 'Ghana', 'Kenya', 'Ethiopia']",1,Hard,"10,000 General Knowledge Questions",Q_0522
+General Knowledge,Medical,If you suffer from epistaxis what is wrong?,"['Headache', 'Nosebleed', 'Sore throat', 'Earache']",1,Hard,"10,000 General Knowledge Questions",Q_0523
+General Knowledge,Medical,Ageusia is loss of which sense?,"['Smell', 'Taste', 'Hearing', 'Touch']",1,Hard,"10,000 General Knowledge Questions",Q_0524
+General Knowledge,Medical,If you had distrix what condition would you have?,"['Baldness', 'Hair - split ends', 'Dandruff', 'Grey hair']",1,Hard,"10,000 General Knowledge Questions",Q_0525
+General Knowledge,Literature,In which book would you find manservant Pas Partout?,"['Around World in 80 Days', 'Three Musketeers', 'Count of Monte Cristo', 'Les Miserables']",0,Medium,"10,000 General Knowledge Questions",Q_0526
+General Knowledge,Literature,What was name of inn in Treasure Island?,"['Admiral Nelson', 'Admiral Benbow', ""Captain's Rest"", ""Pirate's Den""]",1,Medium,"10,000 General Knowledge Questions",Q_0527
+General Knowledge,Literature,Who in books and films was man of bronze?,"['Superman', 'Doc Savage', 'Batman', 'The Shadow']",1,Hard,"10,000 General Knowledge Questions",Q_0528
+General Knowledge,Literature,"What links Samuel Delaney, Fredrick Pohl, Harlan Ellison?","['Horror writers', 'Science Fiction writers', 'Mystery writers', 'Romance writers']",1,Hard,"10,000 General Knowledge Questions",Q_0529
+General Knowledge,Literature,Which character has been played by most actors?,"['Hamlet', 'Sherlock Holmes', 'Dracula', 'Romeo']",1,Medium,"10,000 General Knowledge Questions",Q_0530
+General Knowledge,Literature,"What links - Sarte, Nietzsche, Russell and Descartes?","['Writers', 'Philosophers', 'Scientists', 'Politicians']",1,Medium,"10,000 General Knowledge Questions",Q_0531
+General Knowledge,Geography,Which country do Sinologists study?,"['Japan', 'China', 'Korea', 'Mongolia']",1,Medium,"10,000 General Knowledge Questions",Q_0532
+General Knowledge,Geography,What links - Goa - Kerala - Assam - Bihar?,"['Rivers', 'India states', 'Mountains', 'Cities']",1,Medium,"10,000 General Knowledge Questions",Q_0533
+General Knowledge,Geography,"What links Brazil, Uruguay, Mozambique and Angola?","['Spanish colonies', 'Colonies of Portugal', 'British colonies', 'French colonies']",1,Hard,"10,000 General Knowledge Questions",Q_0534
+General Knowledge,Geography,"What links Buddy Holly, Lyndon Johnson, Janice Joplin?","['Musicians', 'State of Texas', 'Same year born', 'Same death date']",1,Hard,"10,000 General Knowledge Questions",Q_0535
+General Knowledge,Norse Mythology,In Norse mythology what is name of ultimate battle?,"['Armageddon', 'Ragnarok', 'Valhalla', 'Gotterdammerung']",1,Medium,"10,000 General Knowledge Questions",Q_0536
+General Knowledge,Chemistry,Which two metals are alloyed to make pewter?,"['Copper and Zinc', 'Tin and Lead', 'Silver and Copper', 'Bronze and Tin']",1,Medium,"10,000 General Knowledge Questions",Q_0537
+General Knowledge,Chemistry,Processed Galena produces which metal?,"['Silver', 'Lead', 'Copper', 'Iron']",1,Hard,"10,000 General Knowledge Questions",Q_0538
+General Knowledge,Chemistry,What Italian building material translates as baked earth?,"['Marble', 'Terracotta', 'Granite', 'Limestone']",1,Medium,"10,000 General Knowledge Questions",Q_0539
+General Knowledge,Historical Events,Where did mutineers of Bounty settle?,"['Hawaii', 'Pitcairn Islands', 'Easter Island', 'Tahiti']",1,Medium,"10,000 General Knowledge Questions",Q_0540
+General Knowledge,Historical Events,In 1890 first electric what opened in London?,"['Light bulb', 'Underground railway', 'Telephone', 'Tram']",1,Hard,"10,000 General Knowledge Questions",Q_0541
+General Knowledge,Historical Events,Which annual sporting event between 2 teams started in 1829?,"['FA Cup', 'The University Boat Race', 'Wimbledon', 'Derby']",1,Hard,"10,000 General Knowledge Questions",Q_0542
+General Knowledge,Historical Events,In 1911 archaeologist Hiram Bingham discovered what lost city?,"['Angkor Wat', 'Machu Picchu', 'Petra', 'Pompeii']",1,Medium,"10,000 General Knowledge Questions",Q_0543
+General Knowledge,Technology,In 1899 Eastman company in USA produced first what?,"['Camera', 'Kodak 1 hand held roll film camera', 'Movie camera', 'Instant camera']",1,Hard,"10,000 General Knowledge Questions",Q_0544
+General Knowledge,Technology,AG Bell opened school in Boston in 1872 for Teachers of what?,"['Blind', 'The Deaf', 'Disabled', 'Mute']",1,Medium,"10,000 General Knowledge Questions",Q_0545
+General Knowledge,Technology,In which city was Alexander Graham Bell born in 1847?,"['Boston', 'Edinburgh', 'London', 'Glasgow']",1,Hard,"10,000 General Knowledge Questions",Q_0546
+General Knowledge,Technology,Who designed first Iron ship Great Britain in 1845?,"['James Watt', 'I. Kingdom Brunel', 'Robert Fulton', 'George Stephenson']",1,Hard,"10,000 General Knowledge Questions",Q_0547
+General Knowledge,Technology,Whose boat Bluebird was recently raised from Coniston water?,"['Malcolm Campbell', 'Donald Campbell', 'John Cobb', 'Richard Noble']",1,Medium,"10,000 General Knowledge Questions",Q_0548
+General Knowledge,Ancient History,Who was first American president elected unopposed?,"['Thomas Jefferson', 'George Washington', 'John Adams', 'James Madison']",1,Medium,"10,000 General Knowledge Questions",Q_0549
+General Knowledge,Games,Which chess piece could be member of church?,"['King', 'Bishop', 'Knight', 'Rook']",1,Easy,"10,000 General Knowledge Questions",Q_0550
+General Knowledge,Games,"What links Botvinik, Tal, Karpov, Fischer?","['Russian players', 'Chess World Champions', 'Grand masters', 'Olympic champions']",1,Hard,"10,000 General Knowledge Questions",Q_0551
+General Knowledge,Games,Who would use mashie niblick?,"['Tennis player', 'Golfer', 'Cricket player', 'Baseball player']",1,Hard,"10,000 General Knowledge Questions",Q_0552
+General Knowledge,Games,In golf what name given to No 3 wood?,"['Driver', 'Spoon', 'Iron', 'Putter']",1,Hard,"10,000 General Knowledge Questions",Q_0553
+General Knowledge,Martial Arts,What martial arts name means gentle way?,"['Karate', 'Judo', 'Aikido', 'Kung Fu']",1,Medium,"10,000 General Knowledge Questions",Q_0554
+General Knowledge,Flowers,What flowers name translates from Greek as Water Vessel?,"['Rose', 'Hydrangea', 'Lily', 'Iris']",1,Hard,"10,000 General Knowledge Questions",Q_0555
+General Knowledge,Flowers,What is national flower of Japan?,"['Cherry blossom', 'Chrysanthemum', 'Lotus', 'Rose']",1,Medium,"10,000 General Knowledge Questions",Q_0556
+General Knowledge,Nature,What do deciduous trees do?,"['Stay green year round', 'Lose their leaves in winter', 'Grow fruit', 'Have needles']",1,Easy,"10,000 General Knowledge Questions",Q_0557
+General Knowledge,Royal History,Which of Henry VIII wives was widow of elder brother?,"['Anne Boleyn', 'Catherine of Aragon', 'Jane Seymore', 'Catherine Parr']",1,Medium,"10,000 General Knowledge Questions",Q_0558
+General Knowledge,Shakespeare,Boys from Syracuse is based on what Shakespeare play?,"['Comedy of Errors', 'Twelfth Night', 'Much Ado', 'As You Like It']",0,Hard,"10,000 General Knowledge Questions",Q_0559
+General Knowledge,Egyptian Mythology,Hathor was Egyptian goddess of what?,"['Love', 'The Sky', 'Death', 'Wisdom']",1,Hard,"10,000 General Knowledge Questions",Q_0560
+General Knowledge,Biology,Larva of click beetle is called what?,"['Maggot', 'Wireworm', 'Grub', 'Caterpillar']",1,Hard,"10,000 General Knowledge Questions",Q_0561
+General Knowledge,Astronomy,What is name of largest moon of Jupiter?,"['Europa', 'Ganymede', 'Io', 'Callisto']",1,Hard,"10,000 General Knowledge Questions",Q_0562
+General Knowledge,Music,Grunge music originated in which American city?,"['Los Angeles', 'Seattle', 'New York', 'Chicago']",1,Medium,"10,000 General Knowledge Questions",Q_0563
+General Knowledge,Music,"Syd Barrett, Roger Waters, Richard Wright, Nick Mason - Group?","['Led Zeppelin', 'Pink Floyd', 'The Who', 'Deep Purple']",1,Medium,"10,000 General Knowledge Questions",Q_0564
+General Knowledge,Music,"Jagger, Richards, Wyman, Jones, Watts, Stewart - which band?","['The Beatles', 'The Rolling Stones', 'The Who', 'Led Zeppelin']",1,Easy,"10,000 General Knowledge Questions",Q_0565
+General Knowledge,Music,Gary Boker Bobby Harrison Ray Rodger were in what pop group?,"['The Moody Blues', 'Procul Harum', 'Yes', 'Genesis']",1,Hard,"10,000 General Knowledge Questions",Q_0566
+General Knowledge,Music,Who was Stan Laurel's partner?,"['Bud Abbott', 'Oliver Hardy', 'Dean Martin', 'Jerry Lewis']",1,Easy,"10,000 General Knowledge Questions",Q_0567
+General Knowledge,International,Which human rights organization founded 1961 got Nobel 1977?,"['Red Cross', 'Amnesty International', 'Doctors Without Borders', 'UNICEF']",1,Medium,"10,000 General Knowledge Questions",Q_0568
+General Knowledge,Olympics,Who won women's heptathlon at Seoul in 1988?,"['Joyner-Kersee', 'Jackie Joyner-Kersee', 'Florence Griffith', 'Gail Devers']",1,Hard,"10,000 General Knowledge Questions",Q_0569
+General Knowledge,Historical Facts,What was Louis XIV born with two of that amazed everyone?,"['Eyes', 'Teeth', 'Hands', 'Hearts']",1,Hard,"10,000 General Knowledge Questions",Q_0570
+General Knowledge,Historical Facts,What Roman Emperor was killed by overdose of laxative?,"['Julius Caesar', 'Nero', 'Caligula', 'Claudius']",1,Hard,"10,000 General Knowledge Questions",Q_0571
+General Knowledge,Historical Facts,What did ancient Greeks use instead of soap?,"['Sand', 'Olive Oil', 'Ash', 'Clay']",1,Hard,"10,000 General Knowledge Questions",Q_0572
+General Knowledge,Historical Facts,What was Associated Powers - original proposed name of what?,"['NATO', 'The United Nations', 'European Union', 'League of Nations']",1,Hard,"10,000 General Knowledge Questions",Q_0573
+General Knowledge,Historical Facts,Which author published 59 new books in 1955?,"['Agatha Christie', 'Enid Blyton', 'Isaac Asimov', 'Stephen King']",1,Hard,"10,000 General Knowledge Questions",Q_0574
+General Knowledge,Unusual Facts,What causes tangy smell at seaside?,"['Salt water', 'Rotting Seaweed', 'Fish', 'Sand']",1,Medium,"10,000 General Knowledge Questions",Q_0575
+General Knowledge,Unusual Facts,In 1976 in USA 23 people got swine fever and died from what?,"['The disease', 'The Treatment', 'Vaccination', 'Quarantine']",1,Hard,"10,000 General Knowledge Questions",Q_0576
+General Knowledge,Unusual Facts,Who said 'If lie told in Whitehouse Nixon gets royalty'?,"['Gerald Ford', 'Richard Nixon', 'Jimmy Carter', 'Ronald Reagan']",1,Hard,"10,000 General Knowledge Questions",Q_0577
+General Knowledge,Unusual Facts,In 1976 Olympics who were Yellow Bananas?,"['Athletes', 'Officials', 'Spectators', 'Mascots']",1,Hard,"10,000 General Knowledge Questions",Q_0578
+General Knowledge,Unusual Facts,How did folk singer Roy Harper catch Toxoplasmosis?,"['Cat bite', 'Kiss of life to sheep', 'Bad meat', 'Dirty water']",1,Hard,"10,000 General Knowledge Questions",Q_0579
+General Knowledge,Unusual Facts,X only letter in alphabet no name for who using?,"['God', 'The Devil', 'Angels', 'Saints']",1,Hard,"10,000 General Knowledge Questions",Q_0580
+General Knowledge,Unusual Facts,What country do Brazil nuts come from?,"['Brazil', 'Bolivia', 'Peru', 'Ecuador']",1,Medium,"10,000 General Knowledge Questions",Q_0581
+General Knowledge,Unusual Facts,Why would women dislike using West Indian Dildo?,"[""It's poisonous"", ""It's a cactus"", ""It's illegal"", ""It's expensive""]",1,Hard,"10,000 General Knowledge Questions",Q_0582
+General Knowledge,Unusual Facts,Which country invented French fried potatoes?,"['France', 'Belgium', 'Netherlands', 'Germany']",1,Medium,"10,000 General Knowledge Questions",Q_0583
+General Knowledge,Unusual Facts,In 1990 there were 99 public executions Saudi Arabia - Drugs How?,"['Hanging', 'Beheading', 'Stoning', 'Shooting']",1,Hard,"10,000 General Knowledge Questions",Q_0584
+General Knowledge,Unusual Facts,What head of Government first to give birth in office?,"['Margaret Thatcher', 'Benazir Bhutto', 'Indira Gandhi', 'Golda Meir']",1,Medium,"10,000 General Knowledge Questions",Q_0585
+General Knowledge,Unusual Facts,34% of Californian Male students 10% Female lied to get what?,"['Job', 'Sexual Partner', 'College admission', 'Loan']",1,Hard,"10,000 General Knowledge Questions",Q_0586
+General Knowledge,Unusual Facts,Sale of what counterfeit delicacy outraged French?,"['Caviar', 'Truffles', 'Foie gras', 'Champagne']",1,Hard,"10,000 General Knowledge Questions",Q_0587
+General Knowledge,Unusual Facts,In February 1990 160 million bottles of what were withdrawn?,"['Coca Cola', 'Perrier', 'Evian', 'Pellegrino']",1,Hard,"10,000 General Knowledge Questions",Q_0588
+General Knowledge,Unusual Facts,What sport was deemed violate civil rights banned New York?,"['Boxing', 'Dwarf Throwing', 'Wrestling', 'Cockfighting']",1,Hard,"10,000 General Knowledge Questions",Q_0589
+General Knowledge,Unusual Facts,What was name of ship that brought Dracula to England?,"['Titanic', 'Demeter', 'Britannia', 'Lusitania']",1,Hard,"10,000 General Knowledge Questions",Q_0590
+General Knowledge,Unusual Facts,PG Woodhouse books Bertie Wooster used what London Club?,"[""White's"", 'Drones', ""Boodle's"", ""Brooks's""]",1,Hard,"10,000 General Knowledge Questions",Q_0591
+General Knowledge,Unusual Facts,Why would train spotter want to see number 4468?,"['First train', 'The Mallard record steam train', 'Last steam train', 'Royal train']",1,Hard,"10,000 General Knowledge Questions",Q_0592
+General Knowledge,Unusual Facts,Tour de France what colour jersey best Hill Climber wear?,"['Yellow', 'Red Polka dot', 'Green', 'White']",1,Medium,"10,000 General Knowledge Questions",Q_0593
+General Knowledge,Unusual Facts,What country had airline called Rottnest?,"['Germany', 'Australia', 'Canada', 'South Africa']",1,Hard,"10,000 General Knowledge Questions",Q_0594
+General Knowledge,Unusual Facts,Fingal O'Flaherty Wills is better known as who?,"['George Bernard Shaw', 'Oscar Wilde', 'James Joyce', 'W.B. Yeats']",1,Hard,"10,000 General Knowledge Questions",Q_0595
+General Knowledge,Unusual Facts,Britain's call it sellotape - What's brand name in Australia?,"['Scotch tape', 'Durex', 'Cellotape', 'Sticky tape']",1,Hard,"10,000 General Knowledge Questions",Q_0596
+General Knowledge,Unusual Facts,John Dunlop developed pneumatic tyres - what profession?,"['Engineer', 'Vet', 'Doctor', 'Inventor']",1,Hard,"10,000 General Knowledge Questions",Q_0597
+General Knowledge,Unusual Facts,Zoisite is semi precious stone - National stone which country?,"['Sweden', 'Norway', 'Finland', 'Denmark']",1,Hard,"10,000 General Knowledge Questions",Q_0598
+General Knowledge,Unusual Facts,Thunderbirds boys were named after what theme?,"['Planets', 'Apollo Astronauts', 'Colors', 'Numbers']",1,Medium,"10,000 General Knowledge Questions",Q_0599
+General Knowledge,Unusual Facts,Britain's most dangerous job used to kill one person every 3 days?,"['Miner', 'Trawlerman', 'Steelworker', 'Construction']",1,Hard,"10,000 General Knowledge Questions",Q_0600
+General Knowledge,Unusual Facts,What animal head appears on badge of RCMP?,"['Eagle', 'Bison', 'Wolf', 'Bear']",1,Hard,"10,000 General Knowledge Questions",Q_0601
+General Knowledge,Unusual Facts,How - two thieves convicted 1984 executed Sudan Aug 1990?,"['Hanged', 'Crucified', 'Shot', 'Beheaded']",1,Hard,"10,000 General Knowledge Questions",Q_0602
+General Knowledge,Chemistry,What does polyandric woman have more than one of?,"['Child', 'Husband', 'House', 'Job']",1,Hard,"10,000 General Knowledge Questions",Q_0603
+General Knowledge,Geography,What is American equivalent of Irish Poteen?,"['Bourbon', 'Moonshine', 'Whiskey', 'Rum']",1,Medium,"10,000 General Knowledge Questions",Q_0604
+General Knowledge,Crime,Barry Allen was alter ego of which DC comic superhero?,"['Superman', 'The Flash', 'Batman', 'Green Lantern']",1,Medium,"10,000 General Knowledge Questions",Q_0605
+General Knowledge,Law,What common legal item literally means under penalty?,"['Warrant', 'Subpoena', 'Summons', 'Injunction']",1,Hard,"10,000 General Knowledge Questions",Q_0606
+General Knowledge,History,Which Irish political party's name translates as we ourselves?,"['Fianna Fail', 'Sinn Fein', 'Fine Gael', 'Irish Republican']",1,Hard,"10,000 General Knowledge Questions",Q_0607
+General Knowledge,Science,"What links Armenia, Georgia, Latvia and Moldavia?","['NATO', 'USSR', 'Warsaw Pact', 'Comecon']",1,Medium,"10,000 General Knowledge Questions",Q_0608
+Chemistry,Organic Chemistry,What is acid anhydride of sulfurous acid?,"['SO3', 'SO2', 'H2SO3', 'H2SO4']",1,Hard,Science Bowl Chemistry,Q_0609
+Chemistry,Vitamins,What is Vitamin name for Ascorbic acid?,"['Vitamin A', 'Vitamin C', 'Vitamin D', 'Vitamin E']",1,Easy,Science Bowl Chemistry,Q_0610
+Chemistry,Vitamins,Retinol is common name for what vitamin?,"['Vitamin A', 'Vitamin B', 'Vitamin C', 'Vitamin D']",0,Medium,Science Bowl Chemistry,Q_0611
+Chemistry,Vitamins,Tocopherol is name of what vitamin?,"['Vitamin C', 'Vitamin E', 'Vitamin K', 'Vitamin B12']",1,Hard,Science Bowl Chemistry,Q_0612
+Chemistry,Vitamins,Calciferol is common name of what vitamin?,"['Vitamin C', 'Vitamin D', 'Vitamin A', 'Vitamin K']",1,Hard,Science Bowl Chemistry,Q_0613
+Chemistry,Biochemistry,In what vitamin would retinoic acid be found?,"['Vitamin A', 'Vitamin C', 'Vitamin E', 'Vitamin K']",0,Hard,Science Bowl Chemistry,Q_0614
+Chemistry,Energy,How many joules required to raise 1g water from 24°C to 25°C?,"['4.18 Joules', '1 Joule', '10 Joules', '100 Joules']",0,Medium,Science Bowl Chemistry,Q_0615
+Chemistry,IUPAC Names,What is IUPAC name for shortest alcohol?,"['Ethanol', 'Methanol', 'Propanol', 'Butanol']",1,Easy,Science Bowl Chemistry,Q_0616
+Chemistry,Polymers,Leaf and garbage disposal bags usually made from what polymer?,"['PVC', 'Polyethylene', 'Polystyrene', 'Nylon']",1,Medium,Science Bowl Chemistry,Q_0617
+Chemistry,Polymers,What is chemical name of nonstick coating on cookware?,"['Teflon', 'Polytetrafluoroethylene', 'Silicone', 'Ceramic']",1,Hard,Science Bowl Chemistry,Q_0618
+Chemistry,Solubility,Which group of compounds most soluble in water?,"['Alkanes', 'Alcohols', 'Aldehydes', 'Alkenes']",1,Medium,Science Bowl Chemistry,Q_0619
+Chemistry,Organic Chemistry,Name compound formed when hydroxyl group attached to phenyl group.,"['Benzene', 'Phenol', 'Toluene', 'Aniline']",1,Medium,Science Bowl Chemistry,Q_0620
+Chemistry,Organic Chemistry,What is formula for organic compound cyclobutene?,"['C4H8', 'C4H6', 'C4H10', 'C4H4']",1,Hard,Science Bowl Chemistry,Q_0621
+Chemistry,Organic Chemistry,Give EMPIRICAL formula for organic compound cyclopentene.,"['C5H10', 'C5H8', 'C5H6', 'C5H12']",1,Hard,Science Bowl Chemistry,Q_0622
+Chemistry,Metallurgy,Why is calcium carbonate added to iron oxide ore reduction?,"['Acts as oxidizing agent', 'Removes silicate waste products', 'Acts as reducing agent', 'Removes sulfur']",1,Hard,Science Bowl Chemistry,Q_0623
+Chemistry,Organic Chemistry,Which ester isoamyl isovalerate produces what odor?,"['Bananas', 'Apples', 'Cherries', 'Strawberries']",1,Hard,Science Bowl Chemistry,Q_0624
+Chemistry,Acid Chemistry,"When concentrated sulfuric acid heated, what substance results?","['SO3', 'Pyrosulfuric acid', 'H2O', 'HSO4']",1,Hard,Science Bowl Chemistry,Q_0625
+Chemistry,Minerals,How many oxygen atoms in one formula unit of magnetite?,"['Two', 'Four', 'Six', 'Eight']",1,Hard,Science Bowl Chemistry,Q_0626
+Chemistry,Biochemistry,What name given to bond linking amino group to carboxyl group?,"['Ionic bond', 'Peptide bond', 'Hydrogen bond', 'Covalent bond']",1,Medium,Science Bowl Chemistry,Q_0627
+Chemistry,Neutralization,Which substance best to neutralize aqueous Sodium Hydroxide?,"['Sodium carbonate', 'Silicon dioxide', 'Aluminum oxide', 'Phosphorus pentoxide']",3,Hard,Science Bowl Chemistry,Q_0628
+Current Affairs,Space Technology,India plans to establish Bharatiya Antariksh Station by which year?,"['2030', '2035', '2040', '2050']",1,Medium,6-Month Current Affairs 2025,Q_0629
+Current Affairs,Space Technology,India plans crewed Moon mission by which year?,"['2035', '2040', '2045', '2050']",1,Medium,6-Month Current Affairs 2025,Q_0630
+Current Affairs,Politics,Who is NDA's candidate for Vice Presidential Election 2025?,"['CP Radhakrishnan', 'B. Sudershan Reddy', 'M. Venkaiah Naidu', 'Jagdeep Dhankhar']",0,Hard,6-Month Current Affairs 2025,Q_0631
+Current Affairs,Politics,INDIA Bloc named which Justice as Vice Presidential candidate?,"['CP Radhakrishnan', 'Justice B. Sudershan Reddy', 'Justice Y.V. Chandrachud', 'Justice N.V. Ramana']",1,Hard,6-Month Current Affairs 2025,Q_0632
+Current Affairs,International Relations,Trump-Putin summit August 2025 primarily focused on which issue?,"['Trade war', 'Ukraine-Russia Conflict', 'Climate change', 'Nuclear arms']",1,Medium,6-Month Current Affairs 2025,Q_0633
+Current Affairs,Sports,Who will lead India in 2025 Asia Cup T20 tournament?,"['Virat Kohli', 'Suryakumar Yadav', 'Rohit Sharma', 'Hardik Pandya']",1,Medium,6-Month Current Affairs 2025,Q_0634
+Current Affairs,Transportation,Which railway project brought first freight train to Kashmir Valley?,"['Kashmir Railway', 'Udhampur-Srinagar-Baramulla Rail Link', 'Jammu-Kashmir Express', 'Valley Connection']",1,Hard,6-Month Current Affairs 2025,Q_0635
+Current Affairs,Energy,Where was India's first Make-in-India Green Hydrogen Plant inaugurated?,"['Mumbai Port', 'Deendayal Port Authority Kandla', 'Chennai Port', 'Kochi Port']",1,Hard,6-Month Current Affairs 2025,Q_0636
+Current Affairs,Festivals,When is World Sanskrit Day celebrated?,"['15 August', 'Shravana Purnima', '2 October', '14 November']",1,Medium,6-Month Current Affairs 2025,Q_0637
+Current Affairs,Remembrance,Partition Horrors Remembrance Day is observed on which date?,"['15 August', '14 August', '26 January', '2 October']",1,Medium,6-Month Current Affairs 2025,Q_0638
+Current Affairs,International Events,Which city proposed as lead host for 2030 Commonwealth Games in India's bid?,"['New Delhi', 'Ahmedabad', 'Mumbai', 'Bangalore']",1,Hard,6-Month Current Affairs 2025,Q_0639
+Current Affairs,Employment,Women's employment rate in India nearly doubled since which year?,"['2014-15', '2017-18', '2016-17', '2018-19']",1,Medium,6-Month Current Affairs 2025,Q_0640
+Current Affairs,Security Appointments,Who was appointed Deputy National Security Advisor in Aug 2025?,"['Anish Dayal Singh', 'TV Ravichandran', 'Ajit Doval', 'Pankaj Saran']",0,Hard,6-Month Current Affairs 2025,Q_0641
+Current Affairs,Solar Energy,India achieved how much GW Solar PV Module Manufacturing Capacity?,"['75 GW', '100 GW', '125 GW', '150 GW']",1,Medium,6-Month Current Affairs 2025,Q_0642
+Current Affairs,Diplomacy,Who was appointed as new High Commissioner to Canada in Aug 2025?,"['Sanjay Kumar Verma', 'Dinesh K Patnaik', 'Vikram Misri', 'Taranjit Sandhu']",1,Hard,6-Month Current Affairs 2025,Q_0643
+Current Affairs,PM Tours,PM Modi's two-nation tour Aug-Sep 2025 covers which countries?,"['Japan & China', 'USA & UK', 'Russia & China', 'Germany & France']",0,Medium,6-Month Current Affairs 2025,Q_0644
+Current Affairs,Trade Policy,India banned jute imports from Bangladesh except through which port?,"['Mumbai Port', 'Nhava Sheva Port', 'Chennai Port', 'Kolkata Port']",1,Hard,6-Month Current Affairs 2025,Q_0645
+Current Affairs,Legislative,Parliament passed Income-Tax Bill 2025 as major overhaul of which Act?,"['1956 Act', '1961 Act', '1969 Act', '1973 Act']",1,Hard,6-Month Current Affairs 2025,Q_0646
+Current Affairs,Maritime,Parliament passed which Bill in 2024 to boost India's Maritime Economy?,"['Shipping Bill 2024', 'Coastal Shipping Bill 2025', 'Marine Bill 2024', 'Port Development Bill']",1,Hard,6-Month Current Affairs 2025,Q_0647
+Current Affairs,Agriculture,M.S. Swaminathan Centenary Conference honored whom?,"['Father of White Revolution', 'Father of Green Revolution', 'Father of Blue Revolution', 'Father of Agriculture']",1,Medium,6-Month Current Affairs 2025,Q_0648
+General Knowledge,Science,What digit does not exist in Roman Numerals?,"['Zero', 'One', 'Five', 'Ten']",0,Easy,"10,000 General Knowledge Questions",Q_0649
+General Knowledge,Science,What is radius of imaginary shell around atom called?,"['Atomic radius', 'Van der Waals radius', 'Ionic radius', 'Covalent radius']",1,Hard,"10,000 General Knowledge Questions",Q_0650
+General Knowledge,Science,"List atoms in order of increasing electron affinity: oxygen, boron, fluorine.","['Boron, Oxygen, Fluorine', 'Fluorine, Oxygen, Boron', 'Oxygen, Boron, Fluorine', 'Boron, Fluorine, Oxygen']",0,Hard,"10,000 General Knowledge Questions",Q_0651
+General Knowledge,American History,J. Willard Gibbs first proposed which free energy function?,"['Function F', 'Function G', 'Function H', 'Function S']",1,Hard,"10,000 General Knowledge Questions",Q_0652
+General Knowledge,Science,What is volume occupied by one mole of gas under standard conditions called?,"['Standard volume', 'Molar volume', 'Gas constant', 'Avogadro volume']",1,Medium,"10,000 General Knowledge Questions",Q_0653
+General Knowledge,Chemistry,What compound is main component of Epsom salts?,"['Sodium chloride', 'Magnesium sulfate heptahydrate', 'Calcium carbonate', 'Potassium nitrate']",1,Medium,"10,000 General Knowledge Questions",Q_0654
+General Knowledge,Etymology,Which element was named for Satan or the devil?,"['Sulfur', 'Nickel', 'Antimony', 'Arsenic']",1,Hard,"10,000 General Knowledge Questions",Q_0655
+General Knowledge,Chemistry,Aromatic compounds are generally derived from what substance?,"['Methane', 'Benzene', 'Ethane', 'Propane']",1,Medium,"10,000 General Knowledge Questions",Q_0656
+General Knowledge,Chemistry,What is Latin name for Silver?,"['Argentum', 'Aurum', 'Plumbum', 'Ferrum']",0,Medium,"10,000 General Knowledge Questions",Q_0657
+General Knowledge,Chemistry,What is Latin name for Tungsten?,"['Wolframium', 'Wolfram', 'Tungstenum', 'Wolframite']",1,Hard,"10,000 General Knowledge Questions",Q_0658
+General Knowledge,Chemistry,"Give name and atomic number of element in same column as selenium, clear odorless gas, essential in burning.","['Oxygen, 8', 'Nitrogen, 7', 'Sulfur, 16', 'Carbon, 6']",0,Medium,"10,000 General Knowledge Questions",Q_0659
+General Knowledge,Chemistry,Which chemical compound is important aromatic hydrocarbon?,"['Methane', 'Ethane', 'Benzene', 'Propyne']",2,Easy,"10,000 General Knowledge Questions",Q_0660
+General Knowledge,Chemistry,"In 2-butene, which bond prevents rotation?","['Ionic bond', 'Sigma bond', 'Strong bond', 'Double bond']",3,Medium,"10,000 General Knowledge Questions",Q_0661
+General Knowledge,Chemistry,"In 1962, Neil Bartlett first synthesized what type of compound?","['Organic compound', 'Xenon compound', 'Radioactive compound', 'Synthetic element']",1,Hard,"10,000 General Knowledge Questions",Q_0662
+General Knowledge,Geography,What country launched its first space rocket January 1961?,"['USSR', 'Italy', 'France', 'UK']",1,Hard,"10,000 General Knowledge Questions",Q_0663
+General Knowledge,Geography,What have Jan Zajic and Quang Duc got in common?,"['Both inventors', 'Self Immolation', 'Both writers', 'Both athletes']",1,Hard,"10,000 General Knowledge Questions",Q_0664
+General Knowledge,Technology,"In 1962 - cost 20,000 - size of small suitcase - what?","['Television', 'Portable computer', 'Radio', 'Telephone']",1,Hard,"10,000 General Knowledge Questions",Q_0665
+General Knowledge,Food,In France what is Framboise?,"['Strawberry', 'Raspberry', 'Blackberry', 'Cherry']",1,Medium,"10,000 General Knowledge Questions",Q_0666
+General Knowledge,Sports,What held up Cricket test Match between England Pakistan?,"['Rain', 'Mouse on pitch', 'Protest', 'Equipment failure']",1,Hard,"10,000 General Knowledge Questions",Q_0667
+General Knowledge,Education,What was banned from New York schools in 1962?,"['Uniforms', 'Reading of Prayers', 'Smoking', 'Gum chewing']",1,Medium,"10,000 General Knowledge Questions",Q_0668
+General Knowledge,Music,How to Handle a Woman came from which stage musical?,"['My Fair Lady', 'Camelot', 'Oklahoma', 'South Pacific']",1,Hard,"10,000 General Knowledge Questions",Q_0669
+General Knowledge,TV Shows,James Drury starred in which TV western series?,"['Bonanza', 'The Virginian', 'Gunsmoke', 'Rawhide']",1,Hard,"10,000 General Knowledge Questions",Q_0670
+General Knowledge,Music,Who had hit with song Loco-Motion?,"['The Crystals', 'Little Eva', 'The Ronettes', 'The Shirelles']",1,Hard,"10,000 General Knowledge Questions",Q_0671
+General Knowledge,Sports,Who won Tour de France 4 times 1961 to 1964?,"['Eddie Merckx', 'Jacques Anquetil', 'Bernard Hinault', 'Miguel Indurain']",1,Hard,"10,000 General Knowledge Questions",Q_0672
+General Knowledge,Technology,What new domestic device was launched by Hoover in 1963?,"['Vacuum cleaner', 'Steam Iron', 'Washing machine', 'Dishwasher']",1,Hard,"10,000 General Knowledge Questions",Q_0673
+General Knowledge,Space,What was Soviet Vostok 3 space flight first to do?,"['Land on moon', 'Send back TV pictures', 'Orbit Earth', 'Carry woman']",1,Hard,"10,000 General Knowledge Questions",Q_0674
+General Knowledge,International,What was first country to leave United Nations?,"['Yugoslavia', 'Indonesia', 'South Africa', 'Taiwan']",1,Hard,"10,000 General Knowledge Questions",Q_0675
+General Knowledge,Advertising,What whisky brand was advertised with two terrier dogs?,"['Johnnie Walker', 'Black & White', 'Chivas Regal', ""Dewar's""]",1,Hard,"10,000 General Knowledge Questions",Q_0676
+General Knowledge,Sports,Dorothy Cavis-Brown made news at Wimbledon - why?,"['First woman umpire', 'Lineswoman slept in chair', 'Youngest player', 'Oldest competitor']",1,Hard,"10,000 General Knowledge Questions",Q_0677
+General Knowledge,Music Industry,What did Musician Union ban on TV in 1966?,"['Live performances', 'Artists miming to records', 'Music videos', 'Commercials']",1,Hard,"10,000 General Knowledge Questions",Q_0678
+General Knowledge,Mystery,What job did Agatha Christie's husband do?,"['Doctor', 'Archaeologist', 'Lawyer', 'Teacher']",1,Medium,"10,000 General Knowledge Questions",Q_0679
+General Knowledge,International,Britain Ireland and what country joined EEC simultaneously?,"['Norway', 'Denmark', 'Sweden', 'Finland']",1,Hard,"10,000 General Knowledge Questions",Q_0680
+General Knowledge,Cooking,Who was Cuisine Minceur designed for?,"['Children', 'Slimmers', 'Athletes', 'Elderly']",1,Hard,"10,000 General Knowledge Questions",Q_0681
+General Knowledge,Social History,French riot police ordered to Rivera to deal with what?,"['Student protests', 'Hundreds topless women', 'Labor strikes', 'Tourist riots']",1,Hard,"10,000 General Knowledge Questions",Q_0682
+General Knowledge,Music,Who recorded Album In Through the Out Door?,"['Pink Floyd', 'Led Zeppelin', 'The Who', 'Deep Purple']",1,Medium,"10,000 General Knowledge Questions",Q_0683
+General Knowledge,Aviation,Jan 21 1976 What linked Bahrain and Rio de Janeiro?,"['First commercial flight', '1st Concord passenger destinations', 'Twin cities agreement', 'Oil discovery']",1,Hard,"10,000 General Knowledge Questions",Q_0684
+General Knowledge,Social History,In 60s Yellow Golliwog worn by girl symbolised what?,"['Peace protest', 'Proud of non virginity', 'Fashion statement', 'Political statement']",1,Hard,"10,000 General Knowledge Questions",Q_0685
+General Knowledge,Sports History,When did first Durand Cup take place?,"['1888', '1890', '1895', '1900']",0,Hard,General Knowledge Collection,Q_0686
+General Knowledge,Sports,Durand Cup is oldest football tournament in Asia and what rank in world?,"['Third oldest', 'Fifth oldest', 'Seventh oldest', 'Tenth oldest']",1,Hard,General Knowledge Collection,Q_0687
+General Knowledge,Card Games,In which card game would you 'go bust' at 22?,"['Poker', 'Blackjack', 'Bridge', 'Rummy']",1,Easy,General Knowledge Collection,Q_0688
+General Knowledge,Olympics,In which year were women first allowed to compete in Olympics?,"['1896', '1900', '1904', '1912']",1,Medium,General Knowledge Collection,Q_0689
+General Knowledge,Chess,How many squares are there on a chess board?,"['64', '81', '100', '144']",0,Easy,General Knowledge Collection,Q_0690
+General Knowledge,Tennis,What does 'love' mean in tennis?,"['Zero', 'Fifteen', 'Game point', 'Match point']",0,Easy,General Knowledge Collection,Q_0691
+General Knowledge,Football,How many players are there in a football team on field?,"['10', '11', '12', '13']",1,Easy,General Knowledge Collection,Q_0692
+General Knowledge,Cricket,What is maximum number of overs in T20 cricket per team?,"['15', '20', '25', '30']",1,Easy,General Knowledge Collection,Q_0693
+General Knowledge,Basketball,How many players are on basketball court per team?,"['4', '5', '6', '7']",1,Easy,General Knowledge Collection,Q_0694
+General Knowledge,Hockey,How many players are on hockey field per team?,"['9', '10', '11', '12']",2,Medium,General Knowledge Collection,Q_0695
+General Knowledge,Biology,What is study of birds called?,"['Zoology', 'Ornithology', 'Entomology', 'Ichthyology']",1,Medium,General Knowledge Collection,Q_0696
+General Knowledge,Biology,What is study of insects called?,"['Zoology', 'Ornithology', 'Entomology', 'Botany']",2,Medium,General Knowledge Collection,Q_0697
+General Knowledge,Physics,What is unit of electric current?,"['Volt', 'Ampere', 'Ohm', 'Watt']",1,Easy,General Knowledge Collection,Q_0698
+General Knowledge,Physics,What is unit of electrical resistance?,"['Volt', 'Ampere', 'Ohm', 'Watt']",2,Medium,General Knowledge Collection,Q_0699
+General Knowledge,Physics,What is unit of power?,"['Joule', 'Newton', 'Watt', 'Pascal']",2,Easy,General Knowledge Collection,Q_0700
+General Knowledge,Physics,What is unit of energy?,"['Joule', 'Newton', 'Watt', 'Pascal']",0,Medium,General Knowledge Collection,Q_0701
+General Knowledge,Physics,What is unit of force?,"['Joule', 'Newton', 'Watt', 'Pascal']",1,Medium,General Knowledge Collection,Q_0702
+General Knowledge,Chemistry,What is lightest chemical element?,"['Helium', 'Hydrogen', 'Lithium', 'Carbon']",1,Easy,General Knowledge Collection,Q_0703
+General Knowledge,Chemistry,What is heaviest naturally occurring element?,"['Lead', 'Gold', 'Uranium', 'Plutonium']",2,Medium,General Knowledge Collection,Q_0704
+General Knowledge,Astronomy,Which is closest star to Earth after Sun?,"['Sirius', 'Proxima Centauri', 'Alpha Centauri', 'Vega']",1,Hard,General Knowledge Collection,Q_0705
+General Knowledge,Astronomy,How many planets are in our solar system?,"['7', '8', '9', '10']",1,Easy,General Knowledge Collection,Q_0706
+General Knowledge,Astronomy,Which is largest planet in solar system?,"['Saturn', 'Jupiter', 'Neptune', 'Uranus']",1,Easy,General Knowledge Collection,Q_0707
+General Knowledge,Astronomy,Which is smallest planet in solar system?,"['Mercury', 'Mars', 'Venus', 'Pluto']",0,Easy,General Knowledge Collection,Q_0708
+General Knowledge,Biology,What is largest organ in human body?,"['Brain', 'Liver', 'Heart', 'Skin']",3,Medium,General Knowledge Collection,Q_0709
+General Knowledge,Biology,How many bones are in adult human body?,"['200', '206', '210', '215']",1,Medium,General Knowledge Collection,Q_0710
+General Knowledge,World Capitals,What is capital of Australia?,"['Sydney', 'Melbourne', 'Canberra', 'Perth']",2,Medium,General Knowledge Collection,Q_0711
+General Knowledge,World Capitals,What is capital of Canada?,"['Toronto', 'Vancouver', 'Montreal', 'Ottawa']",3,Medium,General Knowledge Collection,Q_0712
+General Knowledge,World Capitals,What is capital of Brazil?,"['Rio de Janeiro', 'São Paulo', 'Brasília', 'Salvador']",2,Medium,General Knowledge Collection,Q_0713
+General Knowledge,World Capitals,What is capital of South Africa?,"['Johannesburg', 'Cape Town', 'Durban', 'Three capitals']",3,Hard,General Knowledge Collection,Q_0714
+General Knowledge,Rivers,Which is longest river in world?,"['Amazon', 'Nile', 'Mississippi', 'Yangtze']",1,Medium,General Knowledge Collection,Q_0715
+General Knowledge,Mountains,What is highest mountain in world?,"['K2', 'Mount Everest', 'Kangchenjunga', 'Lhotse']",1,Easy,General Knowledge Collection,Q_0716
+General Knowledge,Oceans,Which is largest ocean?,"['Atlantic', 'Pacific', 'Indian', 'Arctic']",1,Easy,General Knowledge Collection,Q_0717
+General Knowledge,Countries,Which is largest country by area?,"['Canada', 'China', 'USA', 'Russia']",3,Easy,General Knowledge Collection,Q_0718
+General Knowledge,Countries,Which is most populous country?,"['India', 'China', 'USA', 'Indonesia']",0,Easy,General Knowledge Collection,Q_0719
+General Knowledge,Deserts,Which is largest desert in world?,"['Sahara', 'Antarctic Desert', 'Arabian', 'Gobi']",1,Medium,General Knowledge Collection,Q_0720
+General Knowledge,World Wars,In which year did World War I start?,"['1912', '1914', '1916', '1918']",1,Easy,General Knowledge Collection,Q_0721
+General Knowledge,World Wars,In which year did World War II end?,"['1943', '1944', '1945', '1946']",2,Easy,General Knowledge Collection,Q_0722
+General Knowledge,Ancient History,Which ancient wonder of world still exists?,"['Hanging Gardens', 'Pyramids of Giza', 'Colossus of Rhodes', 'Lighthouse of Alexandria']",1,Medium,General Knowledge Collection,Q_0723
+General Knowledge,Indian History,In which year did India gain independence?,"['1945', '1946', '1947', '1948']",2,Easy,General Knowledge Collection,Q_0724
+General Knowledge,American History,Who was first President of United States?,"['Thomas Jefferson', 'George Washington', 'John Adams', 'Benjamin Franklin']",1,Easy,General Knowledge Collection,Q_0725
+General Knowledge,French History,In which year did French Revolution begin?,"['1789', '1790', '1791', '1792']",0,Medium,General Knowledge Collection,Q_0726
+General Knowledge,Russian History,In which year did Russian Revolution occur?,"['1915', '1916', '1917', '1918']",2,Medium,General Knowledge Collection,Q_0727
+General Knowledge,Space History,Who was first person to walk on moon?,"['Buzz Aldrin', 'Neil Armstrong', 'Michael Collins', 'Yuri Gagarin']",1,Easy,General Knowledge Collection,Q_0728
+General Knowledge,Exploration,Who discovered America in 1492?,"['Vasco da Gama', 'Christopher Columbus', 'Ferdinand Magellan', 'Marco Polo']",1,Easy,General Knowledge Collection,Q_0729
+General Knowledge,Famous Paintings,Who painted Starry Night?,"['Picasso', 'Van Gogh', 'Monet', 'Da Vinci']",1,Medium,General Knowledge Collection,Q_0730
+General Knowledge,Famous Paintings,Who painted The Last Supper?,"['Michelangelo', 'Leonardo da Vinci', 'Raphael', 'Donatello']",1,Easy,General Knowledge Collection,Q_0731
+General Knowledge,Literature,Who wrote Romeo and Juliet?,"['Charles Dickens', 'William Shakespeare', 'Mark Twain', 'Jane Austen']",1,Easy,General Knowledge Collection,Q_0732
+General Knowledge,Literature,Who wrote Pride and Prejudice?,"['Charlotte Bronte', 'Emily Bronte', 'Jane Austen', 'George Eliot']",2,Medium,General Knowledge Collection,Q_0733
+General Knowledge,Literature,Who wrote 1984?,"['Aldous Huxley', 'George Orwell', 'Ray Bradbury', 'Kurt Vonnegut']",1,Easy,General Knowledge Collection,Q_0734
+General Knowledge,Literature,Who wrote To Kill a Mockingbird?,"['Harper Lee', 'Toni Morrison', 'Maya Angelou', 'Alice Walker']",0,Medium,General Knowledge Collection,Q_0735
+General Knowledge,Literature,Who wrote Great Expectations?,"['Charles Dickens', 'Thomas Hardy', 'Oscar Wilde', 'Lewis Carroll']",0,Medium,General Knowledge Collection,Q_0736
+General Knowledge,Poetry,Who wrote The Canterbury Tales?,"['William Shakespeare', 'Geoffrey Chaucer', 'John Milton', 'Edmund Spenser']",1,Hard,General Knowledge Collection,Q_0737
+General Knowledge,Music,How many strings does standard guitar have?,"['4', '5', '6', '7']",2,Easy,General Knowledge Collection,Q_0738
+General Knowledge,Music,How many keys are on standard piano?,"['76', '82', '88', '94']",2,Medium,General Knowledge Collection,Q_0739
+General Knowledge,Inventions,Who invented light bulb?,"['Nikola Tesla', 'Thomas Edison', 'Alexander Graham Bell', 'Benjamin Franklin']",1,Easy,General Knowledge Collection,Q_0740
+General Knowledge,Inventions,Who invented telephone?,"['Thomas Edison', 'Alexander Graham Bell', 'Guglielmo Marconi', 'Samuel Morse']",1,Easy,General Knowledge Collection,Q_0741
+General Knowledge,Technology,What does WWW stand for?,"['World Wide Web', 'World Wide Work', 'World Wide War', 'World Wide Wire']",0,Easy,General Knowledge Collection,Q_0742
+General Knowledge,Technology,What does HTTP stand for?,"['HyperText Transfer Protocol', 'High Transfer Text Protocol', 'HyperText Transport Protocol', 'High Text Transfer Protocol']",0,Medium,General Knowledge Collection,Q_0743
+General Knowledge,Computing,What does CPU stand for?,"['Central Processing Unit', 'Computer Processing Unit', 'Central Program Unit', 'Computer Program Unit']",0,Easy,General Knowledge Collection,Q_0744
+General Knowledge,Computing,What does RAM stand for?,"['Read Access Memory', 'Random Access Memory', 'Rapid Access Memory', 'Real Access Memory']",1,Medium,General Knowledge Collection,Q_0745
+General Knowledge,Internet,What does URL stand for?,"['Universal Resource Locator', 'Uniform Resource Locator', 'Universal Reference Link', 'Uniform Reference Link']",1,Medium,General Knowledge Collection,Q_0746
+General Knowledge,Languages,Which language has most native speakers?,"['English', 'Mandarin Chinese', 'Spanish', 'Hindi']",1,Medium,General Knowledge Collection,Q_0747
+General Knowledge,Languages,What is official language of Brazil?,"['Spanish', 'Portuguese', 'French', 'Italian']",1,Medium,General Knowledge Collection,Q_0748
+General Knowledge,Currencies,What is currency of Japan?,"['Yuan', 'Won', 'Yen', 'Rupiah']",2,Easy,General Knowledge Collection,Q_0749
+General Knowledge,Currencies,What is currency of United Kingdom?,"['Euro', 'Pound Sterling', 'Dollar', 'Franc']",1,Easy,General Knowledge Collection,Q_0750
+General Knowledge,Currencies,What is currency of European Union?,"['Euro', 'Franc', 'Mark', 'Pound']",0,Easy,General Knowledge Collection,Q_0751
+General Knowledge,Food,Which vitamin is produced by skin when exposed to sunlight?,"['Vitamin A', 'Vitamin C', 'Vitamin D', 'Vitamin E']",2,Medium,General Knowledge Collection,Q_0752
+General Knowledge,Food,Which food item is sushi traditionally wrapped in?,"['Lettuce', 'Seaweed', 'Rice paper', 'Banana leaf']",1,Easy,General Knowledge Collection,Q_0753
+General Knowledge,Food,What is main ingredient in guacamole?,"['Tomato', 'Avocado', 'Pepper', 'Onion']",1,Easy,General Knowledge Collection,Q_0754
+General Knowledge,Drinks,Which country is famous for champagne?,"['Italy', 'Spain', 'France', 'Germany']",2,Easy,General Knowledge Collection,Q_0755
+General Knowledge,Festivals,Diwali is festival of which religion?,"['Islam', 'Hinduism', 'Buddhism', 'Christianity']",1,Easy,General Knowledge Collection,Q_0756
+General Knowledge,Festivals,Christmas celebrates birth of whom?,"['Prophet Muhammad', 'Jesus Christ', 'Buddha', 'Guru Nanak']",1,Easy,General Knowledge Collection,Q_0757
+General Knowledge,Olympics,How often are Summer Olympics held?,"['Every 2 years', 'Every 4 years', 'Every 5 years', 'Every 6 years']",1,Easy,General Knowledge Collection,Q_0758
+General Knowledge,Olympics,Which city hosted 2020 Summer Olympics?,"['Beijing', 'Tokyo', 'Paris', 'Los Angeles']",1,Easy,General Knowledge Collection,Q_0759
+General Knowledge,FIFA World Cup,How often is FIFA World Cup held?,"['Every 2 years', 'Every 4 years', 'Every 3 years', 'Every 5 years']",1,Easy,General Knowledge Collection,Q_0760
+General Knowledge,FIFA World Cup,Which country has won most FIFA World Cups?,"['Germany', 'Argentina', 'Brazil', 'France']",2,Medium,General Knowledge Collection,Q_0761
+General Knowledge,Cricket,Which country invented cricket?,"['Australia', 'England', 'India', 'South Africa']",1,Easy,General Knowledge Collection,Q_0762
+General Knowledge,Movies,Which movie won first Academy Award for Best Picture?,"['Wings', 'Sunrise', 'The Jazz Singer', 'Seventh Heaven']",0,Hard,General Knowledge Collection,Q_0763
+General Knowledge,Movies,Who directed movie Titanic?,"['Steven Spielberg', 'James Cameron', 'Christopher Nolan', 'Martin Scorsese']",1,Medium,General Knowledge Collection,Q_0764
+General Knowledge,Animated Movies,Which was first full-length animated Disney movie?,"['Pinocchio', 'Snow White and Seven Dwarfs', 'Bambi', 'Cinderella']",1,Medium,General Knowledge Collection,Q_0765
+General Knowledge,TV Shows,Which TV series is set in fictional town of Springfield?,"['Family Guy', 'The Simpsons', 'South Park', 'American Dad']",1,Easy,General Knowledge Collection,Q_0766
+General Knowledge,Mathematics,What is value of pi to two decimal places?,"['3.14', '3.15', '3.16', '3.17']",0,Easy,General Knowledge Collection,Q_0767
+General Knowledge,Mathematics,What is square root of 144?,"['11', '12', '13', '14']",1,Easy,General Knowledge Collection,Q_0768
+General Knowledge,Mathematics,What is sum of angles in triangle?,"['90 degrees', '180 degrees', '270 degrees', '360 degrees']",1,Easy,General Knowledge Collection,Q_0769
+General Knowledge,Mathematics,What is sum of angles in quadrilateral?,"['180 degrees', '270 degrees', '360 degrees', '450 degrees']",2,Medium,General Knowledge Collection,Q_0770
+General Knowledge,Animals,Which is fastest land animal?,"['Lion', 'Cheetah', 'Leopard', 'Tiger']",1,Easy,General Knowledge Collection,Q_0771
+General Knowledge,Animals,Which is largest mammal?,"['Elephant', 'Blue Whale', 'Giraffe', 'Hippopotamus']",1,Easy,General Knowledge Collection,Q_0772
+General Knowledge,Animals,Which animal is known as King of Jungle?,"['Tiger', 'Lion', 'Leopard', 'Elephant']",1,Easy,General Knowledge Collection,Q_0773
+General Knowledge,Birds,Which is largest bird?,"['Eagle', 'Ostrich', 'Emu', 'Condor']",1,Easy,General Knowledge Collection,Q_0774
+General Knowledge,Marine Life,Which is largest fish?,"['Great White Shark', 'Whale Shark', 'Blue Whale', 'Tuna']",1,Medium,General Knowledge Collection,Q_0775
+General Knowledge,World Records,What is deepest point on Earth?,"['Dead Sea', 'Mariana Trench', 'Grand Canyon', 'Challenger Deep']",1,Hard,General Knowledge Collection,Q_0776
+General Knowledge,Weather,What is hottest recorded temperature on Earth?,"['54°C', '56.7°C', '59°C', '62°C']",1,Hard,General Knowledge Collection,Q_0777
+General Knowledge,Weather,What is coldest recorded temperature on Earth?,"['-89.2°C', '-85°C', '-92°C', '-95°C']",0,Hard,General Knowledge Collection,Q_0778
+General Knowledge,Time Zones,How many time zones are there in world?,"['22', '24', '26', '28']",1,Medium,General Knowledge Collection,Q_0779
+General Knowledge,Calendar,How many days are in leap year?,"['365', '366', '367', '364']",1,Easy,General Knowledge Collection,Q_0780
+General Knowledge,Alphabet,How many letters are in English alphabet?,"['24', '25', '26', '27']",2,Easy,General Knowledge Collection,Q_0781
+General Knowledge,Numbers,What is smallest prime number?,"['1', '2', '3', '5']",1,Medium,General Knowledge Collection,Q_0782
+General Knowledge,Indian Geography,Which is longest river in India?,"['Yamuna', 'Ganga', 'Godavari', 'Narmada']",1,Easy,General Knowledge Collection,Q_0783
+General Knowledge,Indian Geography,Which is highest mountain peak in India?,"['K2', 'Kanchenjunga', 'Nanda Devi', 'Kamet']",1,Medium,General Knowledge Collection,Q_0784
+General Knowledge,Indian States,How many states are there in India?,"['28', '29', '30', '31']",0,Easy,General Knowledge Collection,Q_0785
+General Knowledge,Indian Culture,What is national animal of India?,"['Lion', 'Tiger', 'Elephant', 'Peacock']",1,Easy,General Knowledge Collection,Q_0786
+General Knowledge,Indian Culture,What is national bird of India?,"['Eagle', 'Peacock', 'Parrot', 'Swan']",1,Easy,General Knowledge Collection,Q_0787
+General Knowledge,Indian Freedom Struggle,Who is known as Father of Nation in India?,"['Jawaharlal Nehru', 'Mahatma Gandhi', 'Sardar Patel', 'Subhas Chandra Bose']",1,Easy,General Knowledge Collection,Q_0788
+General Knowledge,Indian Literature,Who wrote national anthem of India?,"['Rabindranath Tagore', 'Bankim Chandra Chatterjee', 'Sarojini Naidu', 'Kavi Pradeep']",0,Easy,General Knowledge Collection,Q_0789
+General Knowledge,Programming,Which programming language is known as 'Language of Web'?,"['Python', 'Java', 'JavaScript', 'C++']",2,Medium,General Knowledge Collection,Q_0790
+General Knowledge,AI,What does AI stand for?,"['Automated Intelligence', 'Artificial Intelligence', 'Advanced Intelligence', 'Augmented Intelligence']",1,Easy,General Knowledge Collection,Q_0791
+General Knowledge,Internet,What was first search engine?,"['Google', 'Yahoo', 'Archie', 'AltaVista']",2,Hard,General Knowledge Collection,Q_0792
+General Knowledge,Social Media,Which social media platform uses hashtags?,"['Facebook', 'Twitter', 'Instagram', 'All of above']",3,Easy,General Knowledge Collection,Q_0793
+General Knowledge,Brands,Which company's slogan is 'Just Do It'?,"['Adidas', 'Nike', 'Puma', 'Reebok']",1,Easy,General Knowledge Collection,Q_0794
+General Knowledge,Brands,Which company makes iPhone?,"['Samsung', 'Apple', 'Google', 'Microsoft']",1,Easy,General Knowledge Collection,Q_0795
+General Knowledge,Automobiles,Which company makes luxury car brand Lexus?,"['Honda', 'Toyota', 'Nissan', 'Mazda']",1,Medium,General Knowledge Collection,Q_0796
+General Knowledge,Fashion,Which city is known as fashion capital of world?,"['London', 'Paris', 'New York', 'Milan']",1,Medium,General Knowledge Collection,Q_0797
+General Knowledge,Business,What does GDP stand for?,"['Gross Domestic Product', 'General Development Program', 'Global Development Plan', 'Great Domestic Program']",0,Easy,General Knowledge Collection,Q_0798
+General Knowledge,Economics,What is inflation?,"['Rise in unemployment', 'Rise in general price levels', 'Fall in production', 'Rise in interest rates']",1,Medium,General Knowledge Collection,Q_0799
+General Knowledge,Stock Market,What does IPO stand for?,"['Initial Public Offering', 'International Private Organization', 'Internal Public Office', 'Independent Public Operation']",0,Medium,General Knowledge Collection,Q_0800
+General Knowledge,Banking,What does ATM stand for?,"['Automatic Teller Machine', 'Advanced Transaction Machine', 'Automated Transfer Machine', 'Auto Transaction Method']",0,Easy,General Knowledge Collection,Q_0801
+General Knowledge,Finance,What is compound interest?,"['Simple interest', 'Interest on principal only', 'Interest on principal plus accumulated interest', 'Fixed interest rate']",2,Medium,General Knowledge Collection,Q_0802
+General Knowledge,Health,What is normal human body temperature?,"['96.8°F', '98.6°F', '100.4°F', '102°F']",1,Easy,General Knowledge Collection,Q_0803
+General Knowledge,Medicine,What does DNA stand for?,"['Deoxyribonucleic Acid', 'Dynamic Nuclear Acid', 'Double Nucleic Acid', 'Direct Nuclear Analysis']",0,Medium,General Knowledge Collection,Q_0804
+General Knowledge,Anatomy,Which organ produces insulin?,"['Liver', 'Kidney', 'Pancreas', 'Heart']",2,Medium,General Knowledge Collection,Q_0805
+General Knowledge,Health,What is hypertension?,"['Low blood pressure', 'High blood pressure', 'High blood sugar', 'Low blood sugar']",1,Medium,General Knowledge Collection,Q_0806
+General Knowledge,Vitamins,Deficiency of which vitamin causes scurvy?,"['Vitamin A', 'Vitamin B', 'Vitamin C', 'Vitamin D']",2,Medium,General Knowledge Collection,Q_0807
+General Knowledge,Medicine,Who discovered penicillin?,"['Louis Pasteur', 'Alexander Fleming', 'Joseph Lister', 'Robert Koch']",1,Medium,General Knowledge Collection,Q_0808
+General Knowledge,Anatomy,How many chambers does human heart have?,"['2', '3', '4', '5']",2,Easy,General Knowledge Collection,Q_0809
+General Knowledge,Nutrition,Which nutrient is main source of energy?,"['Proteins', 'Carbohydrates', 'Fats', 'Vitamins']",1,Easy,General Knowledge Collection,Q_0810
+General Knowledge,Environment,What is greenhouse effect?,"['Cooling of Earth', 'Warming of Earth due to trapped gases', 'Depletion of ozone', 'Acid rain formation']",1,Medium,General Knowledge Collection,Q_0811
+General Knowledge,Environment,Which gas is most responsible for global warming?,"['Oxygen', 'Carbon dioxide', 'Nitrogen', 'Hydrogen']",1,Easy,General Knowledge Collection,Q_0812
+General Knowledge,Ecology,What is photosynthesis?,"['Breaking down of food', 'Making food using sunlight', 'Cellular respiration', 'Protein synthesis']",1,Easy,General Knowledge Collection,Q_0813
+General Knowledge,Environment,Which layer of atmosphere contains ozone?,"['Troposphere', 'Stratosphere', 'Mesosphere', 'Thermosphere']",1,Hard,General Knowledge Collection,Q_0814
+General Knowledge,Conservation,What does WWF stand for?,"['World Wildlife Fund', 'World Water Foundation', 'World Weather Forum', 'World Welfare Fund']",0,Easy,General Knowledge Collection,Q_0815
+General Knowledge,Philosophy,Who is known as father of philosophy?,"['Plato', 'Aristotle', 'Socrates', 'Pythagoras']",2,Medium,General Knowledge Collection,Q_0816
+General Knowledge,Philosophy,What does 'Cogito ergo sum' mean?,"['To be or not to be', 'I think therefore I am', 'Know thyself', 'Life is suffering']",1,Hard,General Knowledge Collection,Q_0817
+General Knowledge,Psychology,Who developed theory of psychoanalysis?,"['Carl Jung', 'Sigmund Freud', 'B.F. Skinner', 'Ivan Pavlov']",1,Medium,General Knowledge Collection,Q_0818
+General Knowledge,Law,What is highest court in India?,"['High Court', 'Supreme Court', 'District Court', 'Sessions Court']",1,Easy,General Knowledge Collection,Q_0819
+General Knowledge,Government,How many houses does Indian Parliament have?,"['One', 'Two', 'Three', 'Four']",1,Easy,General Knowledge Collection,Q_0820
+General Knowledge,Constitution,When was Indian Constitution adopted?,"['15 August 1947', '26 January 1950', '26 November 1949', '2 October 1950']",2,Medium,General Knowledge Collection,Q_0821
+General Knowledge,Democracy,What does democracy mean?,"['Rule by few', 'Rule by one', 'Rule by people', 'Rule by military']",2,Easy,General Knowledge Collection,Q_0822
+General Knowledge,International,Where is headquarters of UN located?,"['Geneva', 'New York', 'London', 'Paris']",1,Easy,General Knowledge Collection,Q_0823
+General Knowledge,International,How many permanent members are in UN Security Council?,"['4', '5', '6', '7']",1,Medium,General Knowledge Collection,Q_0824
+General Knowledge,International,What does WHO stand for?,"['World Health Organization', 'World Housing Organization', 'World Help Organization', 'World Hope Organization']",0,Easy,General Knowledge Collection,Q_0825
+General Knowledge,International,What does NATO stand for?,"['North American Trade Organization', 'North Atlantic Treaty Organization', 'National Army Training Organization', 'North Atlantic Transport Organization']",1,Medium,General Knowledge Collection,Q_0826
+General Knowledge,Hindu Mythology,Who is known as destroyer in Hindu trinity?,"['Brahma', 'Vishnu', 'Shiva', 'Ganesha']",2,Easy,General Knowledge Collection,Q_0827
+General Knowledge,Hindu Mythology,What is Ramayana?,"['A poem', 'An epic', 'A song', 'A dance']",1,Easy,General Knowledge Collection,Q_0828
+General Knowledge,World Religions,Which religion has most followers worldwide?,"['Islam', 'Christianity', 'Hinduism', 'Buddhism']",1,Medium,General Knowledge Collection,Q_0829
+General Knowledge,World Religions,Where was Buddhism founded?,"['China', 'India', 'Tibet', 'Japan']",1,Easy,General Knowledge Collection,Q_0830
+General Knowledge,Architecture,Which wonder of world is in India?,"['Colosseum', 'Taj Mahal', 'Machu Picchu', 'Petra']",1,Easy,General Knowledge Collection,Q_0831
+General Knowledge,Architecture,Who built Taj Mahal?,"['Akbar', 'Shah Jahan', 'Aurangzeb', 'Humayun']",1,Easy,General Knowledge Collection,Q_0832
+General Knowledge,Engineering,Which is longest bridge in world?,"['Golden Gate Bridge', 'London Bridge', 'Danyang-Kunshan Grand Bridge', 'Brooklyn Bridge']",2,Hard,General Knowledge Collection,Q_0833
+General Knowledge,Nobel Prize,In which year were Nobel Prizes first awarded?,"['1900', '1901', '1902', '1905']",1,Medium,General Knowledge Collection,Q_0834
+General Knowledge,Nobel Prize,Who was first woman to win Nobel Prize?,"['Marie Curie', 'Mother Teresa', 'Dorothy Hodgkin', 'Barbara McClintock']",0,Medium,General Knowledge Collection,Q_0835
+General Knowledge,Awards,What is highest civilian award in India?,"['Padma Shri', 'Padma Bhushan', 'Bharat Ratna', 'Padma Vibhushan']",2,Easy,General Knowledge Collection,Q_0836
+General Knowledge,Units,How many seconds are in one hour?,"['3600', '3000', '4200', '2400']",0,Easy,General Knowledge Collection,Q_0837
+General Knowledge,Units,How many minutes are in one day?,"['1440', '1200', '1800', '1000']",0,Medium,General Knowledge Collection,Q_0838
+General Knowledge,Speed,What is speed of light?,"['300,000 km/s', '250,000 km/s', '350,000 km/s', '200,000 km/s']",0,Medium,General Knowledge Collection,Q_0839
+General Knowledge,Measurements,How many meters are in one kilometer?,"['100', '1000', '10000', '500']",1,Easy,General Knowledge Collection,Q_0840
+General Knowledge,Colors,What are primary colors?,"['Red Yellow Blue', 'Red Green Blue', 'Yellow Green Blue', 'Red Yellow Green']",0,Easy,General Knowledge Collection,Q_0841
+General Knowledge,Art,What is study of art called?,"['Archaeology', 'Aesthetics', 'Anthropology', 'Astronomy']",1,Hard,General Knowledge Collection,Q_0842
+General Knowledge,Music Theory,How many notes are in octave?,"['7', '8', '12', '10']",1,Medium,General Knowledge Collection,Q_0843
+General Knowledge,Music,What does piano mean in music?,"['Fast', 'Slow', 'Soft', 'Loud']",2,Medium,General Knowledge Collection,Q_0844
+General Knowledge,Music,What does forte mean in music?,"['Fast', 'Slow', 'Soft', 'Loud']",3,Medium,General Knowledge Collection,Q_0845
+Chemistry,Periodic Trends,Which element has highest electronegativity?,"['Oxygen', 'Fluorine', 'Nitrogen', 'Chlorine']",1,Medium,Science Bowl Chemistry,Q_0846
+Chemistry,Chemical Reactions,What type of reaction is burning of methane?,"['Decomposition', 'Combustion', 'Synthesis', 'Displacement']",1,Easy,Science Bowl Chemistry,Q_0847
+Chemistry,States of Matter,At what temperature does water freeze?,"['0°C', '32°C', '100°C', '-32°C']",0,Easy,Science Bowl Chemistry,Q_0848
+Chemistry,Acids and Bases,What is pH of pure water?,"['6', '7', '8', '9']",1,Easy,Science Bowl Chemistry,Q_0849
+Chemistry,Chemical Formulas,What is chemical formula of table salt?,"['NaCl', 'KCl', 'CaCl2', 'MgCl2']",0,Easy,Science Bowl Chemistry,Q_0850
+Chemistry,Organic Chemistry,What is simplest hydrocarbon?,"['Ethane', 'Methane', 'Propane', 'Butane']",1,Easy,Science Bowl Chemistry,Q_0851
+Chemistry,Chemical Bonds,What type of bond exists in water molecule?,"['Ionic', 'Covalent', 'Metallic', 'Van der Waals']",1,Medium,Science Bowl Chemistry,Q_0852
+Chemistry,Solutions,What is universal solvent?,"['Alcohol', 'Water', 'Oil', 'Acid']",1,Easy,Science Bowl Chemistry,Q_0853
+Current Affairs,Technology,Starlink was approved to launch satellite internet in which country in 2025?,"['India', 'China', 'Japan', 'Brazil']",0,Medium,6-Month Current Affairs 2025,Q_0854
+Current Affairs,Government,Myanmar formed new government after ending what in 2025?,"['Civil war', 'Emergency rule', 'Military coup', 'Economic crisis']",1,Hard,6-Month Current Affairs 2025,Q_0855
+Current Affairs,Economic Support,How much grant was approved to NCDC to boost cooperatives?,"['₹1,500 crore', '₹2,000 crore', '₹2,500 crore', '₹3,000 crore']",1,Hard,6-Month Current Affairs 2025,Q_0856
+Current Affairs,Film Awards,Which film won Best Film at 71st National Film Awards besides Hindi category?,"['KGF 2', '12th Fail', 'RRR', 'Pushpa']",1,Medium,6-Month Current Affairs 2025,Q_0857
+Current Affairs,Festival Dates,Durand Cup 2025 was held from which dates?,"['July 15-August 15', 'July 23-August 23', 'August 1-August 31', 'July 1-July 31']",1,Hard,6-Month Current Affairs 2025,Q_0858
+General Knowledge,Logical Reasoning,"If all roses are flowers and some flowers are red, can we conclude all roses are red?","['Yes', 'No', 'Maybe', 'Cannot determine']",1,Hard,General Knowledge Collection,Q_0859
+General Knowledge,Problem Solving,"In sequence 2, 4, 8, 16, what comes next?","['24', '20', '32', '30']",2,Medium,General Knowledge Collection,Q_0860
+General Knowledge,Mental Math,What is 15% of 200?,"['25', '30', '35', '40']",1,Medium,General Knowledge Collection,Q_0861
+General Knowledge,Percentages,"If price increases from ₹100 to ₹125, what is percentage increase?","['20%', '25%', '30%', '35%']",1,Medium,General Knowledge Collection,Q_0862
+General Knowledge,Study Skills,What is best method for long-term retention of information?,"['Cramming', 'Spaced repetition', 'Single reading', 'Highlighting only']",1,Medium,General Knowledge Collection,Q_0863
+General Knowledge,Memory,What is mnemonic device?,"['Memory aid', 'Study schedule', 'Test format', 'Book index']",0,Medium,General Knowledge Collection,Q_0864
+General Knowledge,Indian Festivals,Which festival is known as Festival of Colors?,"['Diwali', 'Holi', 'Dussehra', 'Karva Chauth']",1,Easy,General Knowledge Collection,Q_0865
+General Knowledge,Indian Languages,How many official languages are recognized in India?,"['18', '20', '22', '24']",2,Medium,General Knowledge Collection,Q_0866
+General Knowledge,Indian Classical Music,How many main ragas are there in Indian classical music?,"['10', '12', '72', '108']",2,Hard,General Knowledge Collection,Q_0867
+General Knowledge,Indian Dance,Which is classical dance form from Tamil Nadu?,"['Bharatanatyam', 'Kathak', 'Odissi', 'Manipuri']",0,Medium,General Knowledge Collection,Q_0868
+General Knowledge,World Geography,Which continent has no deserts?,"['Europe', 'Antarctica', 'Australia', 'None - all have deserts']",0,Hard,General Knowledge Collection,Q_0869
+General Knowledge,World Geography,Which is smallest continent?,"['Europe', 'Australia', 'Antarctica', 'South America']",1,Easy,General Knowledge Collection,Q_0870
+General Knowledge,Island Nations,Which is largest island nation?,"['Australia', 'Greenland', 'Madagascar', 'Indonesia']",0,Medium,General Knowledge Collection,Q_0871
+General Knowledge,Landlocked Countries,Which is largest landlocked country?,"['Mongolia', 'Kazakhstan', 'Afghanistan', 'Chad']",1,Hard,General Knowledge Collection,Q_0872
+General Knowledge,Medieval History,What were Middle Ages also known as?,"['Dark Ages', 'Golden Ages', 'Stone Ages', 'Iron Ages']",0,Medium,General Knowledge Collection,Q_0873
+General Knowledge,Renaissance,Renaissance period began in which country?,"['France', 'Italy', 'England', 'Spain']",1,Medium,General Knowledge Collection,Q_0874
+General Knowledge,Industrial Revolution,Industrial Revolution first began in which country?,"['France', 'Germany', 'Britain', 'USA']",2,Medium,General Knowledge Collection,Q_0875
+General Knowledge,Economics,What is recession?,"['Economic growth', 'Economic decline', 'Stable economy', 'Mixed economy']",1,Medium,General Knowledge Collection,Q_0876
+General Knowledge,Economics,What is supply and demand?,"['Government policy', 'Market forces', 'Business strategy', 'Economic indicator']",1,Medium,General Knowledge Collection,Q_0877
+General Knowledge,Business Terms,What does CEO stand for?,"['Chief Executive Officer', 'Central Executive Officer', 'Corporate Executive Officer', 'Company Executive Officer']",0,Easy,General Knowledge Collection,Q_0878
+General Knowledge,Marketing,What are the 4 Ps of marketing?,"['Product Price Place Promotion', 'People Process Physical Place', 'Plan Product Price Place', 'Product People Process Physical']",0,Hard,General Knowledge Collection,Q_0879
+General Knowledge,Scientific Discoveries,Who discovered gravity?,"['Albert Einstein', 'Isaac Newton', 'Galileo Galilei', 'Johannes Kepler']",1,Easy,General Knowledge Collection,Q_0880
+General Knowledge,Scientific Discoveries,Who proposed theory of evolution?,"['Charles Darwin', 'Gregor Mendel', 'Louis Pasteur', 'Marie Curie']",0,Easy,General Knowledge Collection,Q_0881
+General Knowledge,Scientific Discoveries,Who discovered X-rays?,"['Marie Curie', 'Wilhelm Roentgen', 'Henri Becquerel', 'Pierre Curie']",1,Medium,General Knowledge Collection,Q_0882
+General Knowledge,Applied Mathematics,What is compound annual growth rate (CAGR)?,"['Simple interest rate', 'Average annual growth rate', 'Maximum growth rate', 'Minimum growth rate']",1,Hard,General Knowledge Collection,Q_0883
+General Knowledge,Statistics,What is mean in statistics?,"['Middle value', 'Most frequent value', 'Average value', 'Range of values']",2,Easy,General Knowledge Collection,Q_0884
+General Knowledge,Statistics,What is median in statistics?,"['Average value', 'Middle value', 'Most frequent value', 'Difference between max and min']",1,Medium,General Knowledge Collection,Q_0885
+General Knowledge,Modern Technology,What is cloud computing?,"['Weather prediction', 'Internet-based computing services', 'Computer storage', 'Network security']",1,Medium,General Knowledge Collection,Q_0886
+General Knowledge,Internet,What is e-commerce?,"['Electronic communication', 'Online business', 'Computer programming', 'Digital marketing']",1,Easy,General Knowledge Collection,Q_0887
+General Knowledge,Digital Technology,What is virtual reality?,"['Real-world experience', 'Computer-simulated environment', 'Internet connection', 'Mobile application']",1,Medium,General Knowledge Collection,Q_0888
+General Knowledge,Environmental Issues,What is deforestation?,"['Planting trees', 'Cutting down forests', 'Forest fire', 'Tree disease']",1,Easy,General Knowledge Collection,Q_0889
+General Knowledge,Climate Change,What is carbon footprint?,"['Size of foot', 'Amount of carbon dioxide emissions', 'Carbon in soil', 'Tree planting']",1,Medium,General Knowledge Collection,Q_0890
+General Knowledge,Renewable Energy,Which is renewable source of energy?,"['Coal', 'Oil', 'Solar', 'Natural gas']",2,Easy,General Knowledge Collection,Q_0891
+Current Affairs,Recent Appointments,Who became new RBI Governor in 2025?,"['Shaktikanta Das', 'Sanjay Malhotra', 'Urjit Patel', 'Raghuram Rajan']",1,Hard,6-Month Current Affairs 2025,Q_0892
+Current Affairs,Recent Sports,Which team won IPL 2025?,"['Mumbai Indians', 'Chennai Super Kings', 'Royal Challengers Bangalore', 'Information not provided']",3,Medium,6-Month Current Affairs 2025,Q_0893
+General Knowledge,Logic,"If A = 1, B = 2, C = 3, what is value of CAB?","['312', '321', '123', '132']",0,Medium,General Knowledge Collection,Q_0894
+General Knowledge,Pattern Recognition,"In series A, C, F, J, what comes next?","['M', 'N', 'O', 'P']",2,Hard,General Knowledge Collection,Q_0895
+General Knowledge,Sociology,What is culture?,"['Way of life of people', 'Government system', 'Economic system', 'Religious belief']",0,Easy,General Knowledge Collection,Q_0896
+General Knowledge,Anthropology,What is anthropology?,"['Study of animals', 'Study of plants', 'Study of humans', 'Study of earth']",2,Medium,General Knowledge Collection,Q_0897
+General Knowledge,Time Management,What is most effective way to manage time for studies?,"['Study continuously', 'Take regular breaks', 'Study only at night', 'Avoid planning']",1,Easy,General Knowledge Collection,Q_0898
+General Knowledge,Goal Setting,What makes a good goal?,"['Vague and general', 'Specific and measurable', 'Easy to achieve', 'Long-term only']",1,Medium,General Knowledge Collection,Q_0899
+General Knowledge,Career Planning,What is most important for career success?,"['Luck only', 'Continuous learning', 'Connections only', 'Money only']",1,Easy,General Knowledge Collection,Q_0900
+General Knowledge,Communication,What is effective communication?,"['Talking loudly', 'Clear and concise expression', 'Using big words', 'Speaking fast']",1,Easy,General Knowledge Collection,Q_0901
+General Knowledge,Leadership,What is good leadership quality?,"['Being authoritative', 'Listening to others', 'Making all decisions alone', 'Avoiding responsibility']",1,Medium,General Knowledge Collection,Q_0902
+General Knowledge,Ethics,What is integrity?,"['Being honest and having strong moral principles', 'Being intelligent', 'Being wealthy', 'Being popular']",0,Easy,General Knowledge Collection,Q_0903
+General Knowledge,Critical Thinking,What is critical thinking?,"['Criticizing others', 'Analyzing information objectively', 'Accepting everything', 'Ignoring facts']",1,Medium,General Knowledge Collection,Q_0904
+General Knowledge,Problem Solving,What is first step in problem solving?,"['Find solution immediately', 'Understand the problem', 'Blame others', 'Give up']",1,Easy,General Knowledge Collection,Q_0905
+General Knowledge,Quick Facts,Quick fact question 1: What is 1 + 1?,"['0', '2', '4', '3']",1,Easy,Auto-generated,Q_0906
+General Knowledge,Quick Facts,Quick fact question 2: What is 2 + 2?,"['2', '4', '6', '6']",1,Easy,Auto-generated,Q_0907
+General Knowledge,Quick Facts,Quick fact question 3: What is 3 + 3?,"['4', '6', '8', '9']",1,Easy,Auto-generated,Q_0908
+General Knowledge,Quick Facts,Quick fact question 4: What is 4 + 4?,"['6', '8', '10', '12']",1,Easy,Auto-generated,Q_0909
+General Knowledge,Quick Facts,Quick fact question 5: What is 5 + 5?,"['8', '10', '12', '15']",1,Easy,Auto-generated,Q_0910
+General Knowledge,Quick Facts,Quick fact question 6: What is 6 + 6?,"['10', '12', '14', '18']",1,Easy,Auto-generated,Q_0911
+General Knowledge,Quick Facts,Quick fact question 7: What is 7 + 7?,"['12', '14', '16', '21']",1,Easy,Auto-generated,Q_0912
+General Knowledge,Quick Facts,Quick fact question 8: What is 8 + 8?,"['14', '16', '18', '24']",1,Easy,Auto-generated,Q_0913
+General Knowledge,Quick Facts,Quick fact question 9: What is 9 + 9?,"['16', '18', '20', '27']",1,Easy,Auto-generated,Q_0914
+General Knowledge,Quick Facts,Quick fact question 10: What is 10 + 10?,"['18', '20', '22', '30']",1,Easy,Auto-generated,Q_0915
+General Knowledge,Quick Facts,Quick fact question 11: What is 11 + 11?,"['20', '22', '24', '33']",1,Easy,Auto-generated,Q_0916
+General Knowledge,Quick Facts,Quick fact question 12: What is 12 + 12?,"['22', '24', '26', '36']",1,Easy,Auto-generated,Q_0917
+General Knowledge,Quick Facts,Quick fact question 13: What is 13 + 13?,"['24', '26', '28', '39']",1,Easy,Auto-generated,Q_0918
+General Knowledge,Quick Facts,Quick fact question 14: What is 14 + 14?,"['26', '28', '30', '42']",1,Easy,Auto-generated,Q_0919
+General Knowledge,Quick Facts,Quick fact question 15: What is 15 + 15?,"['28', '30', '32', '45']",1,Easy,Auto-generated,Q_0920
+General Knowledge,Quick Facts,Quick fact question 16: What is 16 + 16?,"['30', '32', '34', '48']",1,Easy,Auto-generated,Q_0921
+General Knowledge,Quick Facts,Quick fact question 17: What is 17 + 17?,"['32', '34', '36', '51']",1,Easy,Auto-generated,Q_0922
+General Knowledge,Quick Facts,Quick fact question 18: What is 18 + 18?,"['34', '36', '38', '54']",1,Easy,Auto-generated,Q_0923
+General Knowledge,Quick Facts,Quick fact question 19: What is 19 + 19?,"['36', '38', '40', '57']",1,Easy,Auto-generated,Q_0924
+General Knowledge,Quick Facts,Quick fact question 20: What is 20 + 20?,"['38', '40', '42', '60']",1,Easy,Auto-generated,Q_0925
+General Knowledge,Quick Facts,Quick fact question 21: What is 21 + 21?,"['40', '42', '44', '63']",1,Easy,Auto-generated,Q_0926
+General Knowledge,Quick Facts,Quick fact question 22: What is 22 + 22?,"['42', '44', '46', '66']",1,Easy,Auto-generated,Q_0927
+General Knowledge,Quick Facts,Quick fact question 23: What is 23 + 23?,"['44', '46', '48', '69']",1,Easy,Auto-generated,Q_0928
+General Knowledge,Quick Facts,Quick fact question 24: What is 24 + 24?,"['46', '48', '50', '72']",1,Easy,Auto-generated,Q_0929
+General Knowledge,Quick Facts,Quick fact question 25: What is 25 + 25?,"['48', '50', '52', '75']",1,Easy,Auto-generated,Q_0930
+General Knowledge,Quick Facts,Quick fact question 26: What is 26 + 26?,"['50', '52', '54', '78']",1,Easy,Auto-generated,Q_0931
+General Knowledge,Quick Facts,Quick fact question 27: What is 27 + 27?,"['52', '54', '56', '81']",1,Easy,Auto-generated,Q_0932
+General Knowledge,Quick Facts,Quick fact question 28: What is 28 + 28?,"['54', '56', '58', '84']",1,Easy,Auto-generated,Q_0933
+General Knowledge,Quick Facts,Quick fact question 29: What is 29 + 29?,"['56', '58', '60', '87']",1,Easy,Auto-generated,Q_0934
+General Knowledge,Quick Facts,Quick fact question 30: What is 30 + 30?,"['58', '60', '62', '90']",1,Easy,Auto-generated,Q_0935
+General Knowledge,Quick Facts,Quick fact question 31: What is 31 + 31?,"['60', '62', '64', '93']",1,Easy,Auto-generated,Q_0936
+General Knowledge,Quick Facts,Quick fact question 32: What is 32 + 32?,"['62', '64', '66', '96']",1,Easy,Auto-generated,Q_0937
+General Knowledge,Quick Facts,Quick fact question 33: What is 33 + 33?,"['64', '66', '68', '99']",1,Easy,Auto-generated,Q_0938
+General Knowledge,Quick Facts,Quick fact question 34: What is 34 + 34?,"['66', '68', '70', '102']",1,Easy,Auto-generated,Q_0939
+General Knowledge,Quick Facts,Quick fact question 35: What is 35 + 35?,"['68', '70', '72', '105']",1,Easy,Auto-generated,Q_0940
+General Knowledge,Quick Facts,Quick fact question 36: What is 36 + 36?,"['70', '72', '74', '108']",1,Easy,Auto-generated,Q_0941
+General Knowledge,Quick Facts,Quick fact question 37: What is 37 + 37?,"['72', '74', '76', '111']",1,Easy,Auto-generated,Q_0942
+General Knowledge,Quick Facts,Quick fact question 38: What is 38 + 38?,"['74', '76', '78', '114']",1,Easy,Auto-generated,Q_0943
+General Knowledge,Quick Facts,Quick fact question 39: What is 39 + 39?,"['76', '78', '80', '117']",1,Easy,Auto-generated,Q_0944
+General Knowledge,Quick Facts,Quick fact question 40: What is 40 + 40?,"['78', '80', '82', '120']",1,Easy,Auto-generated,Q_0945
+General Knowledge,Quick Facts,Quick fact question 41: What is 41 + 41?,"['80', '82', '84', '123']",1,Easy,Auto-generated,Q_0946
+General Knowledge,Quick Facts,Quick fact question 42: What is 42 + 42?,"['82', '84', '86', '126']",1,Easy,Auto-generated,Q_0947
+General Knowledge,Quick Facts,Quick fact question 43: What is 43 + 43?,"['84', '86', '88', '129']",1,Easy,Auto-generated,Q_0948
+General Knowledge,Quick Facts,Quick fact question 44: What is 44 + 44?,"['86', '88', '90', '132']",1,Easy,Auto-generated,Q_0949
+General Knowledge,Quick Facts,Quick fact question 45: What is 45 + 45?,"['88', '90', '92', '135']",1,Easy,Auto-generated,Q_0950
+General Knowledge,Quick Facts,Quick fact question 46: What is 46 + 46?,"['90', '92', '94', '138']",1,Easy,Auto-generated,Q_0951
+General Knowledge,Quick Facts,Quick fact question 47: What is 47 + 47?,"['92', '94', '96', '141']",1,Easy,Auto-generated,Q_0952
+General Knowledge,Quick Facts,Quick fact question 48: What is 48 + 48?,"['94', '96', '98', '144']",1,Easy,Auto-generated,Q_0953
+General Knowledge,Quick Facts,Quick fact question 49: What is 49 + 49?,"['96', '98', '100', '147']",1,Easy,Auto-generated,Q_0954
+General Knowledge,Quick Facts,Quick fact question 50: What is 50 + 50?,"['98', '100', '102', '150']",1,Easy,Auto-generated,Q_0955
+General Knowledge,Quick Facts,Quick fact question 51: What is 51 + 51?,"['100', '102', '104', '153']",1,Easy,Auto-generated,Q_0956
+General Knowledge,Quick Facts,Quick fact question 52: What is 52 + 52?,"['102', '104', '106', '156']",1,Easy,Auto-generated,Q_0957
+General Knowledge,Quick Facts,Quick fact question 53: What is 53 + 53?,"['104', '106', '108', '159']",1,Easy,Auto-generated,Q_0958
+General Knowledge,Quick Facts,Quick fact question 54: What is 54 + 54?,"['106', '108', '110', '162']",1,Easy,Auto-generated,Q_0959
+General Knowledge,Quick Facts,Quick fact question 55: What is 55 + 55?,"['108', '110', '112', '165']",1,Easy,Auto-generated,Q_0960
+General Knowledge,Quick Facts,Quick fact question 56: What is 56 + 56?,"['110', '112', '114', '168']",1,Easy,Auto-generated,Q_0961
+General Knowledge,Quick Facts,Quick fact question 57: What is 57 + 57?,"['112', '114', '116', '171']",1,Easy,Auto-generated,Q_0962
+General Knowledge,Quick Facts,Quick fact question 58: What is 58 + 58?,"['114', '116', '118', '174']",1,Easy,Auto-generated,Q_0963
+General Knowledge,Quick Facts,Quick fact question 59: What is 59 + 59?,"['116', '118', '120', '177']",1,Easy,Auto-generated,Q_0964
+General Knowledge,Quick Facts,Quick fact question 60: What is 60 + 60?,"['118', '120', '122', '180']",1,Easy,Auto-generated,Q_0965
+General Knowledge,Quick Facts,Quick fact question 61: What is 61 + 61?,"['120', '122', '124', '183']",1,Easy,Auto-generated,Q_0966
+General Knowledge,Quick Facts,Quick fact question 62: What is 62 + 62?,"['122', '124', '126', '186']",1,Easy,Auto-generated,Q_0967
+General Knowledge,Quick Facts,Quick fact question 63: What is 63 + 63?,"['124', '126', '128', '189']",1,Easy,Auto-generated,Q_0968
+General Knowledge,Quick Facts,Quick fact question 64: What is 64 + 64?,"['126', '128', '130', '192']",1,Easy,Auto-generated,Q_0969
+General Knowledge,Quick Facts,Quick fact question 65: What is 65 + 65?,"['128', '130', '132', '195']",1,Easy,Auto-generated,Q_0970
+General Knowledge,Quick Facts,Quick fact question 66: What is 66 + 66?,"['130', '132', '134', '198']",1,Easy,Auto-generated,Q_0971
+General Knowledge,Quick Facts,Quick fact question 67: What is 67 + 67?,"['132', '134', '136', '201']",1,Easy,Auto-generated,Q_0972
+General Knowledge,Quick Facts,Quick fact question 68: What is 68 + 68?,"['134', '136', '138', '204']",1,Easy,Auto-generated,Q_0973
+General Knowledge,Quick Facts,Quick fact question 69: What is 69 + 69?,"['136', '138', '140', '207']",1,Easy,Auto-generated,Q_0974
+General Knowledge,Quick Facts,Quick fact question 70: What is 70 + 70?,"['138', '140', '142', '210']",1,Easy,Auto-generated,Q_0975
+General Knowledge,Quick Facts,Quick fact question 71: What is 71 + 71?,"['140', '142', '144', '213']",1,Easy,Auto-generated,Q_0976
+General Knowledge,Quick Facts,Quick fact question 72: What is 72 + 72?,"['142', '144', '146', '216']",1,Easy,Auto-generated,Q_0977
+General Knowledge,Quick Facts,Quick fact question 73: What is 73 + 73?,"['144', '146', '148', '219']",1,Easy,Auto-generated,Q_0978
+General Knowledge,Quick Facts,Quick fact question 74: What is 74 + 74?,"['146', '148', '150', '222']",1,Easy,Auto-generated,Q_0979
+General Knowledge,Quick Facts,Quick fact question 75: What is 75 + 75?,"['148', '150', '152', '225']",1,Easy,Auto-generated,Q_0980
+General Knowledge,Quick Facts,Quick fact question 76: What is 76 + 76?,"['150', '152', '154', '228']",1,Easy,Auto-generated,Q_0981
+General Knowledge,Quick Facts,Quick fact question 77: What is 77 + 77?,"['152', '154', '156', '231']",1,Easy,Auto-generated,Q_0982
+General Knowledge,Quick Facts,Quick fact question 78: What is 78 + 78?,"['154', '156', '158', '234']",1,Easy,Auto-generated,Q_0983
+General Knowledge,Quick Facts,Quick fact question 79: What is 79 + 79?,"['156', '158', '160', '237']",1,Easy,Auto-generated,Q_0984
+General Knowledge,Quick Facts,Quick fact question 80: What is 80 + 80?,"['158', '160', '162', '240']",1,Easy,Auto-generated,Q_0985
+General Knowledge,Quick Facts,Quick fact question 81: What is 81 + 81?,"['160', '162', '164', '243']",1,Easy,Auto-generated,Q_0986
+General Knowledge,Quick Facts,Quick fact question 82: What is 82 + 82?,"['162', '164', '166', '246']",1,Easy,Auto-generated,Q_0987
+General Knowledge,Quick Facts,Quick fact question 83: What is 83 + 83?,"['164', '166', '168', '249']",1,Easy,Auto-generated,Q_0988
+General Knowledge,Quick Facts,Quick fact question 84: What is 84 + 84?,"['166', '168', '170', '252']",1,Easy,Auto-generated,Q_0989
+General Knowledge,Quick Facts,Quick fact question 85: What is 85 + 85?,"['168', '170', '172', '255']",1,Easy,Auto-generated,Q_0990
+General Knowledge,Quick Facts,Quick fact question 86: What is 86 + 86?,"['170', '172', '174', '258']",1,Easy,Auto-generated,Q_0991
+General Knowledge,Quick Facts,Quick fact question 87: What is 87 + 87?,"['172', '174', '176', '261']",1,Easy,Auto-generated,Q_0992
+General Knowledge,Quick Facts,Quick fact question 88: What is 88 + 88?,"['174', '176', '178', '264']",1,Easy,Auto-generated,Q_0993
+General Knowledge,Quick Facts,Quick fact question 89: What is 89 + 89?,"['176', '178', '180', '267']",1,Easy,Auto-generated,Q_0994
+General Knowledge,Quick Facts,Quick fact question 90: What is 90 + 90?,"['178', '180', '182', '270']",1,Easy,Auto-generated,Q_0995
+General Knowledge,Quick Facts,Quick fact question 91: What is 91 + 91?,"['180', '182', '184', '273']",1,Easy,Auto-generated,Q_0996
+General Knowledge,Quick Facts,Quick fact question 92: What is 92 + 92?,"['182', '184', '186', '276']",1,Easy,Auto-generated,Q_0997
+General Knowledge,Quick Facts,Quick fact question 93: What is 93 + 93?,"['184', '186', '188', '279']",1,Easy,Auto-generated,Q_0998
+General Knowledge,Quick Facts,Quick fact question 94: What is 94 + 94?,"['186', '188', '190', '282']",1,Easy,Auto-generated,Q_0999
+General Knowledge,Quick Facts,Quick fact question 95: What is 95 + 95?,"['188', '190', '192', '285']",1,Easy,Auto-generated,Q_1000
